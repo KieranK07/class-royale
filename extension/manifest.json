@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Class Royale Sync",
+  "version": "0.4.0",
+  "description": "Reads your Franciscan unofficial transcript from your own logged-in session and hands it to Class Royale. Nothing is uploaded anywhere.",
+  "permissions": [],
+  "host_permissions": [
+    "https://myfranciscan.franciscan.edu/*"
+  ],
+  "background": {
+    "service_worker": "worker.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://localhost:3000/*",
+        "http://127.0.0.1:3000/*"
+      ],
+      "js": [
+        "bridge.js"
+      ],
+      "run_at": "document_start"
+    }
+  ]
+}

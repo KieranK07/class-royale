@@ -1,0 +1,133 @@
+{
+  "department": "Sociology (minor program only)",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Sociology Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/sociology-minor/sociology-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "SOC 101"
+          ],
+          "title": "Introductory Sociology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 314"
+          ],
+          "title": "Deviant Behavior",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Sociology Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Sociology Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Sociology Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introductory Sociology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Deviant Behavior",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 314"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Sociology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "Sociology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Sociology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Students may choose any Sociology, Social Work or three credits of Human Life Studies courses to fulfill Sociology elective requirements.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

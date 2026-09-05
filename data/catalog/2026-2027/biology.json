@@ -1,0 +1,4182 @@
+{
+  "department": "Biology",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Biology-General Program, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/biology-genral-program-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 236"
+          ],
+          "title": "Concepts of Ecology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "4 upper level biology electives",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Sophomore Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Concepts of Ecology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 236"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Cell Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 435"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "4 upper level biology electives",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-9",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "General Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "General Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "General Physics II Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Biology Major:",
+          "text": "General Program",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Biology-General Program, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/biology-bachelor-of-science-general-program",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 236"
+          ],
+          "title": "Concepts of Ecology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "4 upper level biology electives",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 141"
+          ],
+          "title": "Introduction to Computer Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Quantitative Measures Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Sophomore Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Concepts of Ecology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 236"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Cell Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 435"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "4 upper level biology electives",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-9",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Introduction to Computer Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 141"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "General Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "General Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "General Physics II Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Quantitative Measures Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Biology-General Program Degree Requirements Bachelor of Science",
+          "text": "Quantitative Measures Elective: PSY 204, ECO 212, MTH 204, or MTH 401.",
+          "codes": [
+            "ECO 212",
+            "MTH 401"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Biology Ecology/Environmental Concentration,  Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/biology-environmental-concentration-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 236"
+          ],
+          "title": "Concepts of Ecology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 404"
+          ],
+          "title": "Special Problems in Biology",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "BIO Upper-level Elective*",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Two BIO Organismal and Evolution electives",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 141"
+          ],
+          "title": "Introduction to Computer Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Quantitative Measures Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Sophomore Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Concepts of Ecology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 236"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Special Problems in Biology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 404"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Cell Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "BIO Upper-level Elective*",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-9",
+          "label": "Two BIO Organismal and Evolution electives",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-10",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 435"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "General Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "General Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "General Physics II Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Introduction to Computer Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 141"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Quantitative Measures Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Ecology/Environmental Concentration Course Requirements",
+          "text": "Electives are to be chosen with the guidance of the student's department advisor.",
+          "codes": []
+        },
+        {
+          "section": "Ecology/Environmental Concentration Course Requirements",
+          "text": "*Upper level BIO electives include any 200 level or above BIO course with the exceptions of BIO 203, BIO 204, BIO 215 and BIO 217.",
+          "codes": [
+            "BIO 203"
+          ]
+        },
+        {
+          "section": "Ecology/Environmental Concentration Course Requirements",
+          "text": "Organismal and Evolution Electives: Students will select two (2) courses from BIO 230, BIO 235, BIO 237, BIO 301, BIO 312,or BIO 321.",
+          "codes": [
+            "BIO 230",
+            "BIO 235",
+            "BIO 301",
+            "BIO 312",
+            "BIO 321"
+          ]
+        },
+        {
+          "section": "Ecology/Environmental Concentration Course Requirements",
+          "text": "Quantitative Measures: Students will select one course from ECO 212, MTH 204, MTH 401 or PSY 204.",
+          "codes": [
+            "ECO 212",
+            "MTH 401"
+          ]
+        },
+        {
+          "section": "Ecology/Environmental Concentration Course Requirements",
+          "text": "BIO 404 requires a minimum of 3 credit hours.",
+          "codes": [
+            "BIO 404"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Biology Pre-Health Concentration, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/biology-pre-health-concentration-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 236"
+          ],
+          "title": "Concepts of Ecology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 317"
+          ],
+          "title": "Medical Terminology",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 330"
+          ],
+          "title": "Human Anatomy",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 333"
+          ],
+          "title": "Microbiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "2 Upper level biology electives",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 114"
+          ],
+          "title": "Introductory Physiological Chemistry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 118"
+          ],
+          "title": "Introductory Physiological Chemistry Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 160"
+          ],
+          "title": "Precalculus",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Quantitative Measures Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "MTH 160"
+          ],
+          "title": "Precalculus",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "BIO 333"
+          ],
+          "title": "Microbiology",
+          "credits": 4,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Quantitative Measures Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Economics Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "CHM 114"
+          ],
+          "title": "Introductory Physiological Chemistry",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "CHM 118"
+          ],
+          "title": "Introductory Physiological Chemistry Laboratory",
+          "credits": 1,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "BIO Upper-level Elective*",
+          "credits": null,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "History Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "BIO 330"
+          ],
+          "title": "Human Anatomy",
+          "credits": 4,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "BIO 317"
+          ],
+          "title": "Medical Terminology",
+          "credits": 1,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "BIO 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "BIO 236"
+          ],
+          "title": "Concepts of Ecology",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "BIO Upper-level Elective*",
+          "credits": null,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology OR Philosophy Core",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Sophomore Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Concepts of Ecology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 236"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Medical Terminology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 317"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Human Anatomy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 330"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Microbiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 333"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Cell Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 435"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "2 Upper level biology electives",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-12",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Introductory Physiological Chemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 114"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Introductory Physiological Chemistry Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 118"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Precalculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 160"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "General Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "General Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "General Physics II Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Quantitative Measures Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-27",
+          "label": "General Biology I",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "General Chemistry I",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Freshman English I",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Precalculus",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 160"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "General Biology II",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "General Chemistry II",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "American Founding Principles Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-37",
+          "label": "Human Physiology",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Microbiology",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 333"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Quantitative Measures Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-40",
+          "label": "Economics Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-41",
+          "label": "Theology Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-42",
+          "label": "Sophomore Seminar",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218"
+          ]
+        },
+        {
+          "id": "grp-43",
+          "label": "Genetics",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-44",
+          "label": "Introductory Physiological Chemistry",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 114"
+          ]
+        },
+        {
+          "id": "grp-45",
+          "label": "Introductory Physiological Chemistry Laboratory",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 118"
+          ]
+        },
+        {
+          "id": "grp-46",
+          "label": "Philosophy Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-47",
+          "label": "Theology Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-48",
+          "label": "BIO Upper-level Elective*",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-49",
+          "label": "General Physics I",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-50",
+          "label": "General Physics I Lab",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-51",
+          "label": "History Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-52",
+          "label": "Literature Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-53",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BIO 203",
+            "BIO 310",
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-54",
+          "label": "Human Anatomy",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 330"
+          ]
+        },
+        {
+          "id": "grp-55",
+          "label": "General Physics II",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-56",
+          "label": "General Physics II Lab",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        },
+        {
+          "id": "grp-57",
+          "label": "General Psychology",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-58",
+          "label": "Philosophy Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-59",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BIO 203",
+            "BIO 310",
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-60",
+          "label": "Medical Terminology",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 317"
+          ]
+        },
+        {
+          "id": "grp-61",
+          "label": "Cell Physiology",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-62",
+          "label": "Coordinating Seminar",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 435"
+          ]
+        },
+        {
+          "id": "grp-63",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-64",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BIO 203",
+            "BIO 310",
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-65",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BIO 203",
+            "BIO 310",
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-66",
+          "label": "Concepts of Ecology",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 236"
+          ]
+        },
+        {
+          "id": "grp-67",
+          "label": "BIO Upper-level Elective*",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-68",
+          "label": "Theology OR Philosophy Core",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-69",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BIO 203",
+            "BIO 310",
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-70",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BIO 203",
+            "BIO 310",
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "Quantitative Measures: select one from ECO 212, MTH 401 or PSY 204.",
+          "codes": [
+            "ECO 212",
+            "MTH 401"
+          ]
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "BS Literature Core: ENG 211",
+          "codes": [
+            "ENG 211"
+          ]
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "Many OT, PA and PT programs require two PSY courses. Check with specific programs to determine which if any additional PSY courses are required. PSY 105 is required at Franciscan. Other PSY courses will count as electives here.",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Health BS Course Requirements",
+          "text": "Upper BIO electives include any 200 level or above BIO courses with the exceptions of BIO 203, BIO 204, BIO 214 and BIO 217. (Some PS schools require BIO 310. Students interested in PA school should check with potential graduate schools for exact pre-requisites.)",
+          "codes": [
+            "BIO 203",
+            "BIO 310"
+          ]
+        },
+        {
+          "section": null,
+          "text": "(for students interested in OT, PA and PT programs)",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Biology- Pre-Medicine Concentration, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/biology-pre-med-concentration-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 236"
+          ],
+          "title": "Concepts of Ecology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 310"
+          ],
+          "title": "Biochemistry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Bio Medical Electives",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "BIO Upper-level Elective*",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 141"
+          ],
+          "title": "Introduction to Computer Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Quantitative Measures Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Sociology Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Sophomore Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Concepts of Ecology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 236"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Biochemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 310"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Cell Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 435"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Bio Medical Electives",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-10",
+          "label": "BIO Upper-level Elective*",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-11",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Introduction to Computer Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 141"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "General Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "General Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "General Physics II Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Quantitative Measures Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-28",
+          "label": "Sociology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Biology Pre-Med Degree Requirements",
+          "text": "Electives are to be chosen with the guidance of the student's departmental advisor. Upper level BIO electives include any 200 level or above BIO course with the exceptions of BIO 203, BIO 204, BIO 215 and BIO 217. BIO Medical Electives: Students will select two (2) courses from BIO 229, BIO 301, BIO 320, BIO 330, BIO 333, BIO 410, or BIO 404 (3 credits maximum of 404). Quantitative Measures: Select one from ECO 212, MTH 401 or PSY 204.",
+          "codes": [
+            "BIO 203",
+            "BIO 229",
+            "BIO 301",
+            "BIO 320",
+            "BIO 330",
+            "BIO 333",
+            "BIO 410",
+            "BIO 404",
+            "ECO 212",
+            "MTH 401"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Biology-Research Concentration, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/biology-research-concentration-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 236"
+          ],
+          "title": "Concepts of Ecology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 404"
+          ],
+          "title": "Special Problems in Biology",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 404"
+          ],
+          "title": "Special Problems in Biology",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "2 Upper level biology electives",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Bioethics Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 141"
+          ],
+          "title": "Introduction to Computer Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 144"
+          ],
+          "title": "Object-Oriented Programming",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 304"
+          ],
+          "title": "Multivariate Statistics",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Sophomore Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Concepts of Ecology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 236"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Special Problems in Biology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 404"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Special Problems in Biology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 404"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Cell Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 435"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "2 Upper level biology electives",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-11",
+          "label": "Bioethics Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Introduction to Computer Science OR Object-Oriented Programming",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 141",
+            "CSC 144"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "General Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "General Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "General Physics II Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Multivariate Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 304"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Biology Research Concentration Degree Requirements",
+          "text": "Electives are to be chosen with the guidance of the student's departmental advisor Upper level biology electives include any 200 level of above BIO courses with the exceptions of BIO 203, BIO 204, BIO 215, and BIO 217. Bioethical Electives: Students will select one (1) course from: PHL 310, PHL 465, and THE 429. Six credits of BIO 404 are required.",
+          "codes": [
+            "BIO 203",
+            "PHL 310",
+            "BIO 404"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Bioinformatics Certificate Program",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/bioinformatics-certificate-program",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 250"
+          ],
+          "title": "Introduction to Bioinformatics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 404"
+          ],
+          "title": "Special Problems in Biology",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 205"
+          ],
+          "title": "Bioinformatics Programming",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 230"
+          ],
+          "title": "Data Methods in Natural Sciences",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 315",
+            "MTH 315"
+          ],
+          "title": "Introduction to Data Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 401"
+          ],
+          "title": "Mathematical Statistics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 212"
+          ],
+          "title": "Fundamentals of Business Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Bioinformatics Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Bioinformatics Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Biology I OR General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142",
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introduction to Bioinformatics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 250"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Special Problems in Biology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 404"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Bioinformatics Programming",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 205"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Data Methods in Natural Sciences",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 230"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Introduction to Data Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 315",
+            "MTH 315"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Research Statistics OR Mathematical Statistics I OR Fundamentals of Business Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204",
+            "MTH 401",
+            "ECO 212"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Bioinformatics Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Bioinformatics Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Certificate Requirements:",
+          "codes": []
+        },
+        {
+          "section": "The following courses would be required to earn the certificate:",
+          "text": "BIO 404: A minimum of 2 credit hours of research (Bio 404) is required for completion of the program.",
+          "codes": [
+            "BIO 404"
+          ]
+        },
+        {
+          "section": "The following courses would be required to earn the certificate:",
+          "text": "While Biology majors would take CSC 230 (Data Methods in Natural Sciences), Computer Science majors could substitute CSC 144 (Object Oriented Programming), the first semester course for Computer Science majors.",
+          "codes": [
+            "CSC 230"
+          ]
+        },
+        {
+          "section": "The following courses would be required to earn the certificate:",
+          "text": "Bioinformatics elective courses include: BIO 310 Biochemistry, BIO 321 Evolution, BIO 333 Microbiology, BIO 426 Cell Physiology, CHM 323 Computational Chemistry, CHM 421 Foundations of Biochemistry I, CSC 320 Genetic Algorithms.",
+          "codes": [
+            "BIO 310",
+            "BIO 321",
+            "BIO 333",
+            "BIO 426",
+            "CHM 323",
+            "CHM 421",
+            "CSC 320"
+          ]
+        },
+        {
+          "section": null,
+          "text": "The Certificate Program in Bioinformatics is designed to introduce students to how computers can be developed or employed to analyze vast quantities of biological data, such as DNA, RNA, protein sequences, and biomolecular structures. The program is designed for students in either Biology or Computer Science Majors. Receiving a BS degree in biology, rather than a BA degree, would better facilitate completion of this program. Students pursuing the program would take 35-37 hours of course work, with more than half of those hours filling required courses for either major. Students would receive a certificate upon completion of the program. Majors in computer science would also have the option of taking one additional biology course to receive a minor in biology. Majors in biology would have the option of taking three additional computer science courses to receive a minor in computer science.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [
+        "The following courses would be required to earn the certificate:"
+      ],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Biology Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/biology/biology-minor",
+      "kind": "narrative",
+      "narrative": [
+        "18 credit hours with minimum of 9 credit hours in 200-400 level biology courses. BIO 106 is excluded."
+      ],
+      "mentionedCodes": [
+        "BIO 106"
+      ],
+      "slots": [],
+      "requirements": []
+    }
+  ]
+}

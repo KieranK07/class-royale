@@ -1,0 +1,1335 @@
+{
+  "department": "Computer Science",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Computer Science, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/computer-science/computer-science-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CSC 142"
+          ],
+          "title": "Object-Oriented Programming Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 144"
+          ],
+          "title": "Object-Oriented Programming",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 145"
+          ],
+          "title": "Data Structures",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 204",
+            "SFE 204"
+          ],
+          "title": "Software Architecture and Patterns",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 261",
+            "SFE 261"
+          ],
+          "title": "Database and Information Processing Systems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 276"
+          ],
+          "title": "Intro to Distributed and Cloud Computing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 310"
+          ],
+          "title": "Programming Languages",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 335",
+            "MTH 335"
+          ],
+          "title": "Junior Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 344"
+          ],
+          "title": "Algorithms and Complexity",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 401",
+            "SFE 401"
+          ],
+          "title": "Computer Architecture and Operating Systems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 438",
+            "SFE 438"
+          ],
+          "title": "Senior Capstone Project I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 439",
+            "SFE 439"
+          ],
+          "title": "Senior Capstone Project II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 391"
+          ],
+          "title": "Web Dev: The Front End",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 392"
+          ],
+          "title": "Web Dev: The Back End",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "CSC or SFE Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "CSC or SFE Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 128"
+          ],
+          "title": "Linux and Scripting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 240"
+          ],
+          "title": "Intro to Cybersecurity and Networking",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 305"
+          ],
+          "title": "Virtue, Technology, and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 331"
+          ],
+          "title": "Machine Learning Foundations of Artificial Intelligence",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 171"
+          ],
+          "title": "Matrix Theory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 172"
+          ],
+          "title": "Matrix Theory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 220"
+          ],
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 320"
+          ],
+          "title": "Graph Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Statistics Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core with Lab",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core with Lab",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Catholicism, Science, and Technology Course",
+          "credits": 1,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Object-Oriented Programming Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Object-Oriented Programming",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 144"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Data Structures",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 145"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Software Architecture and Patterns",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 204",
+            "SFE 204"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Database and Information Processing Systems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 261",
+            "SFE 261"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Intro to Distributed and Cloud Computing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 276"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Programming Languages",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 310"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Junior Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 335",
+            "MTH 335"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Algorithms and Complexity",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 344"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Computer Architecture and Operating Systems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 401",
+            "SFE 401"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Senior Capstone Project I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 438",
+            "SFE 438"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Senior Capstone Project II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 439",
+            "SFE 439"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Web Dev: The Front End OR Web Dev: The Back End",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 391",
+            "CSC 392"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "CSC or SFE Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "CSC or SFE Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Linux and Scripting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 128"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Intro to Cybersecurity and Networking",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 240"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Virtue, Technology, and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 305"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Machine Learning Foundations of Artificial Intelligence",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 331"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Matrix Theory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 171"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Matrix Theory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 172"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Discrete Mathematics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 220"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Graph Theory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 320"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Statistics Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-26",
+          "label": "Natural Science Core with Lab",
+          "subgroup": null,
+          "count": 4,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 4
+        },
+        {
+          "id": "grp-27",
+          "label": "Natural Science Core with Lab",
+          "subgroup": null,
+          "count": 4,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 4
+        },
+        {
+          "id": "grp-28",
+          "label": "Catholicism, Science, and Technology Course",
+          "subgroup": null,
+          "count": 1,
+          "unit": "credits",
+          "options": [
+            "SCI 147",
+            "SCI 247",
+            "SCI 347"
+          ],
+          "creditsIfKnown": 1,
+          "optionsFromNote": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Computer Science Major:",
+          "text": "Web Development Elective: CSC 391 or CSC 392.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Computer Science Major:",
+          "text": "CSC/SFE Electives: Any CSC/SFE 2xx or above course not a prerequisite for a required course.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Computer Science (Cybersecurity Concentration), Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/computer-science/computer-science-cybersecurity-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CSC 142"
+          ],
+          "title": "Object-Oriented Programming Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 144"
+          ],
+          "title": "Object-Oriented Programming",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 145"
+          ],
+          "title": "Data Structures",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 204",
+            "SFE 204"
+          ],
+          "title": "Software Architecture and Patterns",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 261",
+            "SFE 261"
+          ],
+          "title": "Database and Information Processing Systems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 276"
+          ],
+          "title": "Intro to Distributed and Cloud Computing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 310"
+          ],
+          "title": "Programming Languages",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 330",
+            "MTH 330",
+            "SFE 330"
+          ],
+          "title": "Cryptography",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 335",
+            "MTH 335"
+          ],
+          "title": "Junior Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 344"
+          ],
+          "title": "Algorithms and Complexity",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 401",
+            "SFE 401"
+          ],
+          "title": "Computer Architecture and Operating Systems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 438",
+            "SFE 438"
+          ],
+          "title": "Senior Capstone Project I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 439",
+            "SFE 439"
+          ],
+          "title": "Senior Capstone Project II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 391"
+          ],
+          "title": "Web Dev: The Front End",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 392"
+          ],
+          "title": "Web Dev: The Back End",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Cybersecurity Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Cybersecurity Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Cybersecurity Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 128"
+          ],
+          "title": "Linux and Scripting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 240"
+          ],
+          "title": "Intro to Cybersecurity and Networking",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 305"
+          ],
+          "title": "Virtue, Technology, and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SFE 331"
+          ],
+          "title": "Machine Learning Foundations of Artificial Intelligence",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 171"
+          ],
+          "title": "Matrix Theory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 172"
+          ],
+          "title": "Matrix Theory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 220"
+          ],
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 320"
+          ],
+          "title": "Graph Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Statistics Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core with Lab",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core with Lab",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Catholicism, Science, and Technology Course",
+          "credits": 1,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Object-Oriented Programming Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 142"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Object-Oriented Programming",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 144"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Data Structures",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 145"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Software Architecture and Patterns",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 204",
+            "SFE 204"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Database and Information Processing Systems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 261",
+            "SFE 261"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Intro to Distributed and Cloud Computing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 276"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Programming Languages",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 310"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Cryptography",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 330",
+            "MTH 330",
+            "SFE 330"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Junior Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 335",
+            "MTH 335"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Algorithms and Complexity",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 344"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Computer Architecture and Operating Systems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 401",
+            "SFE 401"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Senior Capstone Project I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 438",
+            "SFE 438"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Senior Capstone Project II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 439",
+            "SFE 439"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Web Dev: The Front End OR Web Dev: The Back End",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 391",
+            "CSC 392"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Cybersecurity Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Cybersecurity Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Cybersecurity Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Linux and Scripting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 128"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Intro to Cybersecurity and Networking",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 240"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Virtue, Technology, and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 305"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Machine Learning Foundations of Artificial Intelligence",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SFE 331"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Matrix Theory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 171"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Matrix Theory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 172"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Discrete Mathematics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 220"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Graph Theory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 320"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Statistics Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "ECO 212",
+            "MTH 401"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-28",
+          "label": "Natural Science Core with Lab",
+          "subgroup": null,
+          "count": 4,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 4
+        },
+        {
+          "id": "grp-29",
+          "label": "Natural Science Core with Lab",
+          "subgroup": null,
+          "count": 4,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 4
+        },
+        {
+          "id": "grp-30",
+          "label": "Catholicism, Science, and Technology Course",
+          "subgroup": null,
+          "count": 1,
+          "unit": "credits",
+          "options": [
+            "SCI 147",
+            "SCI 247",
+            "SCI 347"
+          ],
+          "creditsIfKnown": 1,
+          "optionsFromNote": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Computer Science (Cybersecurity Concentration) Major:",
+          "text": "Web Development Elective: Choose one from CSC 391 or CSC 392.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Computer Science (Cybersecurity Concentration) Major:",
+          "text": "Cybersecurity Electives (3): SFE 364, SFE 365, SFE 366, SFE 471, or other security elective approved by Program Director or Department Chair.",
+          "codes": [
+            "SFE 471"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Computer Science Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/computer-science/computer-science-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CSC 144"
+          ],
+          "title": "Object-Oriented Programming",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 145"
+          ],
+          "title": "Data Structures",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 204",
+            "SFE 204"
+          ],
+          "title": "Software Architecture and Patterns",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 344"
+          ],
+          "title": "Algorithms and Complexity",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Computer Science Upper Level Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Software Engineering OR Computer Science Upper Level Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Object-Oriented Programming",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 144"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Data Structures",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 145"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Software Architecture and Patterns",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 204",
+            "SFE 204"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Algorithms and Complexity",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 344"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Computer Science Upper Level Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Software Engineering OR Computer Science Upper Level Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Bioinformatics Certificate Program",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/computer-science/bioinformatics-certificate-program",
+      "kind": "narrative",
+      "narrative": [
+        "The Certificate Program in Bioinformatics is designed to introduce students to how computers can be developed or employed to analyze vast quantities of biological data, such as DNA, RNA and protein sequences and biomolecular structures. The program is designed for students majoring in either biology or computer science."
+      ],
+      "mentionedCodes": [],
+      "slots": [],
+      "requirements": []
+    }
+  ]
+}

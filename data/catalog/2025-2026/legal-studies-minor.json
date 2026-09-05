@@ -1,0 +1,247 @@
+{
+  "department": "Legal Studies (minor program only)",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Legal Studies Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/legal-studies-minor/legal-studies-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "LST 102"
+          ],
+          "title": "Legal Research, Writing, and Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 201"
+          ],
+          "title": "Survey of American Law I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 202"
+          ],
+          "title": "Survey of American Law II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 208"
+          ],
+          "title": "Business Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 250"
+          ],
+          "title": "International Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 423"
+          ],
+          "title": "Mass Media Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 301"
+          ],
+          "title": "Life Issues and the Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 301",
+            "POL 301"
+          ],
+          "title": "Natural Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 303"
+          ],
+          "title": "History of Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 404",
+            "ECO 404"
+          ],
+          "title": "Law and Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 407"
+          ],
+          "title": "Internship",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 408"
+          ],
+          "title": "Selected Themes in Legal Studies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 426"
+          ],
+          "title": "Philosophy of Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 337"
+          ],
+          "title": "International Law and Organizations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 358"
+          ],
+          "title": "American Constitutional Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 365"
+          ],
+          "title": "The American Judiciary",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 380"
+          ],
+          "title": "Selected Themes in Constitutional Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 205"
+          ],
+          "title": "Criminology and Penology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 410"
+          ],
+          "title": "Juvenile Delinquency",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Legal Research, Writing, and Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LST 102"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Survey of American Law I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LST 201"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Survey of American Law II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LST 202"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Any three of the following courses:",
+          "subgroup": null,
+          "count": 3,
+          "unit": "courses",
+          "options": [
+            "BUS 208",
+            "BUS 250",
+            "COM 423",
+            "HLS 301",
+            "LST 301",
+            "POL 301",
+            "LST 303",
+            "LST 404",
+            "ECO 404",
+            "LST 407",
+            "LST 408",
+            "PHL 426",
+            "POL 220",
+            "POL 337",
+            "POL 358",
+            "POL 365",
+            "POL 380",
+            "SOC 205",
+            "SOC 410"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

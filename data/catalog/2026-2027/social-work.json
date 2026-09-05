@@ -1,0 +1,1093 @@
+{
+  "department": "Social Work",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Social Work, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/social-work/social-work-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "SWK 203"
+          ],
+          "title": "Introduction to Social Work",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 205"
+          ],
+          "title": "The History of Social Welfare",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 210"
+          ],
+          "title": "Human Behavior and the Social Environment I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 307"
+          ],
+          "title": "Generalist Practice I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 308"
+          ],
+          "title": "Generalist Practice II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 313"
+          ],
+          "title": "Social Science Research",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 315"
+          ],
+          "title": "Human Rights, Social Justice, and Social Policy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 331"
+          ],
+          "title": "Human Behavior and the Social Environment II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 409"
+          ],
+          "title": "Generalist Practice III",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 410"
+          ],
+          "title": "Field Practicum I",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 411"
+          ],
+          "title": "Field Practicum II",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 437"
+          ],
+          "title": "Senior Social Work Capstone",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Social Work Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Social Work Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Social Work Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Social Work Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 110"
+          ],
+          "title": "Human Biology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 101"
+          ],
+          "title": "Introductory Sociology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 429"
+          ],
+          "title": "Sexual and Medical Morality",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 341"
+          ],
+          "title": "Christian Marriage",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 318"
+          ],
+          "title": "Social Work with Children and Adolescents",
+          "credits": 3,
+          "subLabel": "Behavioral and Mental Health Concentration"
+        },
+        {
+          "codes": [
+            "SWK 323",
+            "SOC 409"
+          ],
+          "title": "Domestic Violence",
+          "credits": 3,
+          "subLabel": "Behavioral and Mental Health Concentration"
+        },
+        {
+          "codes": [
+            "BIO 150"
+          ],
+          "title": "Nutrition and Health for Children",
+          "credits": 3,
+          "subLabel": "Behavioral and Mental Health Concentration"
+        },
+        {
+          "codes": [
+            "PSY 209"
+          ],
+          "title": "Adolescent Psychology",
+          "credits": 3,
+          "subLabel": "Behavioral and Mental Health Concentration"
+        },
+        {
+          "codes": [
+            "PSY 350"
+          ],
+          "title": "Family, Gender, and Spiritual Issues in Counseling",
+          "credits": 3,
+          "subLabel": "Behavioral and Mental Health Concentration"
+        },
+        {
+          "codes": [
+            "SOC 204"
+          ],
+          "title": "Marriage and Family",
+          "credits": 3,
+          "subLabel": "Behavioral and Mental Health Concentration"
+        },
+        {
+          "codes": [
+            "SWK 317"
+          ],
+          "title": "Social Work in Behavioral and Physical Health Care Settings",
+          "credits": 3,
+          "subLabel": "Children and Family Studies Concentration"
+        },
+        {
+          "codes": [
+            "SWK 319"
+          ],
+          "title": "Social Work & Addictions",
+          "credits": 3,
+          "subLabel": "Children and Family Studies Concentration"
+        },
+        {
+          "codes": [
+            "PSY 310"
+          ],
+          "title": "Motivation and Leadership",
+          "credits": 3,
+          "subLabel": "Children and Family Studies Concentration"
+        },
+        {
+          "codes": [
+            "PSY 317"
+          ],
+          "title": "Cognitive Psychology",
+          "credits": 3,
+          "subLabel": "Children and Family Studies Concentration"
+        },
+        {
+          "codes": [
+            "PSY 401"
+          ],
+          "title": "Abnormal Psychology",
+          "credits": 3,
+          "subLabel": "Children and Family Studies Concentration"
+        },
+        {
+          "codes": [
+            "SOC 314"
+          ],
+          "title": "Deviant Behavior",
+          "credits": 3,
+          "subLabel": "Children and Family Studies Concentration"
+        },
+        {
+          "codes": [
+            "SWK 316"
+          ],
+          "title": "Social Work with Older Adults",
+          "credits": 3,
+          "subLabel": "Social Work with Older Adults Concentration"
+        },
+        {
+          "codes": [
+            "SWK 317"
+          ],
+          "title": "Social Work in Behavioral and Physical Health Care Settings",
+          "credits": 3,
+          "subLabel": "Social Work with Older Adults Concentration"
+        },
+        {
+          "codes": [
+            "SWK 323",
+            "SOC 409"
+          ],
+          "title": "Domestic Violence",
+          "credits": 3,
+          "subLabel": "Social Work with Older Adults Concentration"
+        },
+        {
+          "codes": [
+            "SWK 413"
+          ],
+          "title": "Death, Dying, and Bereavement",
+          "credits": 3,
+          "subLabel": "Social Work with Older Adults Concentration"
+        },
+        {
+          "codes": [
+            "PSY 207"
+          ],
+          "title": "Psychology of Human Development II",
+          "credits": 3,
+          "subLabel": "Social Work with Older Adults Concentration"
+        },
+        {
+          "codes": [
+            "PSY 317"
+          ],
+          "title": "Cognitive Psychology",
+          "credits": 3,
+          "subLabel": "Social Work with Older Adults Concentration"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Social Work",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 203"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "The History of Social Welfare",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 205"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Behavior and the Social Environment I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 210"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Generalist Practice I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 307"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Generalist Practice II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 308"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Social Science Research",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 313"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Human Rights, Social Justice, and Social Policy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 315"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Human Behavior and the Social Environment II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 331"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Generalist Practice III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 409"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Field Practicum I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 410"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Field Practicum II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 411"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Senior Social Work Capstone",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 437"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Social Work Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "SWK 316",
+            "SWK 317",
+            "SWK 318",
+            "SWK 319",
+            "SWK 321",
+            "SWK 322",
+            "SWK 323",
+            "SWK 351",
+            "PSY 351",
+            "SWK 413"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-14",
+          "label": "Social Work Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "SWK 316",
+            "SWK 317",
+            "SWK 318",
+            "SWK 319",
+            "SWK 321",
+            "SWK 322",
+            "SWK 323",
+            "SWK 351",
+            "PSY 351",
+            "SWK 413"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-15",
+          "label": "Social Work Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "SWK 316",
+            "SWK 317",
+            "SWK 318",
+            "SWK 319",
+            "SWK 321",
+            "SWK 322",
+            "SWK 323",
+            "SWK 351",
+            "PSY 351",
+            "SWK 413"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-16",
+          "label": "Social Work Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "SWK 316",
+            "SWK 317",
+            "SWK 318",
+            "SWK 319",
+            "SWK 321",
+            "SWK 322",
+            "SWK 323",
+            "SWK 351",
+            "PSY 351",
+            "SWK 413"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-17",
+          "label": "Human Biology OR Anatomy and Physiology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 110",
+            "BIO 133"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "American National Government OR History of the United States I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220",
+            "HST 207"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Introductory Sociology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 101"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Foundations of Catholicism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "The Word of God: Scripture and Tradition",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Sexual and Medical Morality OR Christian Marriage",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 429",
+            "THE 341"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Social Work with Children and Adolescents",
+          "subgroup": "Behavioral and Mental Health Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 318"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Domestic Violence",
+          "subgroup": "Behavioral and Mental Health Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 323",
+            "SOC 409"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Nutrition and Health for Children",
+          "subgroup": "Behavioral and Mental Health Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 150"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Adolescent Psychology",
+          "subgroup": "Behavioral and Mental Health Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 209"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Family, Gender, and Spiritual Issues in Counseling",
+          "subgroup": "Behavioral and Mental Health Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 350"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Marriage and Family",
+          "subgroup": "Behavioral and Mental Health Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 204"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Social Work in Behavioral and Physical Health Care Settings",
+          "subgroup": "Children and Family Studies Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 317"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Social Work & Addictions",
+          "subgroup": "Children and Family Studies Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 319"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Motivation and Leadership",
+          "subgroup": "Children and Family Studies Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 310"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Cognitive Psychology",
+          "subgroup": "Children and Family Studies Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 317"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Abnormal Psychology",
+          "subgroup": "Children and Family Studies Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 401"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Deviant Behavior",
+          "subgroup": "Children and Family Studies Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 314"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Social Work with Older Adults",
+          "subgroup": "Social Work with Older Adults Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 316"
+          ]
+        },
+        {
+          "id": "grp-41",
+          "label": "Social Work in Behavioral and Physical Health Care Settings",
+          "subgroup": "Social Work with Older Adults Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 317"
+          ]
+        },
+        {
+          "id": "grp-42",
+          "label": "Domestic Violence",
+          "subgroup": "Social Work with Older Adults Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 323",
+            "SOC 409"
+          ]
+        },
+        {
+          "id": "grp-43",
+          "label": "Death, Dying, and Bereavement",
+          "subgroup": "Social Work with Older Adults Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 413"
+          ]
+        },
+        {
+          "id": "grp-44",
+          "label": "Psychology of Human Development II",
+          "subgroup": "Social Work with Older Adults Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 207"
+          ]
+        },
+        {
+          "id": "grp-45",
+          "label": "Cognitive Psychology",
+          "subgroup": "Social Work with Older Adults Concentration",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 317"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for the Social Work Major:",
+          "text": "Optional Concentrations: Social Work majors graduate as generalist practitioners. Students may add an optional concentration(s) in Children and Family Studies, Behavioral and Mental Health, or Social Work with Older Adults by completing the courses below.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Social Work Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/social-work/social-work-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "SWK 203"
+          ],
+          "title": "Introduction to Social Work",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 205"
+          ],
+          "title": "The History of Social Welfare",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 210"
+          ],
+          "title": "Human Behavior and the Social Environment I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 331"
+          ],
+          "title": "Human Behavior and the Social Environment II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Social Work Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Social Work",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 203"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "The History of Social Welfare",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 205"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Behavior and the Social Environment I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 210"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Human Behavior and the Social Environment II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 331"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Social Work Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "SWK 316",
+            "SWK 317",
+            "SWK 318",
+            "SWK 319",
+            "SWK 321",
+            "SWK 322",
+            "SWK 323",
+            "SWK 351",
+            "SWK 413"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "The minor in Social Work provides the opportunity for Franciscan University students to complement their professional skills through the analytical and practical tools Social Work has to offer, which have a wide range of applications from serving at the micro level with individuals and their families, to macro perspectives to serve organizations, communities, and policy analysis and implementation.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

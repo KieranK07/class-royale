@@ -1,0 +1,134 @@
+{
+  "department": "Entrepreneurship (minor program only)",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Entrepreneurship Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/entrepreneurship-minor/entrepreneurship-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ENT 201"
+          ],
+          "title": "Entrepreneurial Marketing and Strategy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENT 202"
+          ],
+          "title": "Entrepreneurial Leadership and Human Resource Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENT 301"
+          ],
+          "title": "Entrepreneurial Accounting and Finance Fundamentals for Startups",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENT 302"
+          ],
+          "title": "Entrepreneurship Lab",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENT 303"
+          ],
+          "title": "The Ethical Entrepreneur",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENT 401"
+          ],
+          "title": "Entrepreneurship Capstone",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Entrepreneurial Marketing and Strategy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENT 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Entrepreneurial Leadership and Human Resource Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENT 202"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Entrepreneurial Accounting and Finance Fundamentals for Startups",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENT 301"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Entrepreneurship Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENT 302"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "The Ethical Entrepreneur",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENT 303"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Entrepreneurship Capstone",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENT 401"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

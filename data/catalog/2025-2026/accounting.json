@@ -1,0 +1,1149 @@
+{
+  "department": "Accounting",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Accounting, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/accounting/accounting-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 300"
+          ],
+          "title": "Accounting Information Systems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 302"
+          ],
+          "title": "Auditing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 303"
+          ],
+          "title": "Advanced Cost Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 304"
+          ],
+          "title": "Intermediate Accounting I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 305"
+          ],
+          "title": "Intermediate Accounting II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 403"
+          ],
+          "title": "Advanced Accounting I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 404"
+          ],
+          "title": "Advanced Accounting II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 407"
+          ],
+          "title": "Federal Income Tax I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 408"
+          ],
+          "title": "Federal Income Tax II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 410"
+          ],
+          "title": "Special Topics in Financial Reporting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 434"
+          ],
+          "title": "Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 130"
+          ],
+          "title": "Personal Vocation and God’s Call to Leadership",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 202"
+          ],
+          "title": "Principles of Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 208"
+          ],
+          "title": "Business Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 215"
+          ],
+          "title": "Business Analysis",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 220"
+          ],
+          "title": "Business Communications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 230"
+          ],
+          "title": "Designing Your Life With and For Others",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 330"
+          ],
+          "title": "The Vocation of the Business Leader",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 407"
+          ],
+          "title": "Corporation Finance",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 420"
+          ],
+          "title": "Strategic Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 202"
+          ],
+          "title": "Principles of Microeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 212"
+          ],
+          "title": "Fundamentals of Business Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 156"
+          ],
+          "title": "Applied Calculus",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Accounting Information Systems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 300"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Auditing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 302"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Advanced Cost Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 303"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Intermediate Accounting I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 304"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Intermediate Accounting II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 305"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Advanced Accounting I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 403"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Advanced Accounting II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 404"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Federal Income Tax I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 407"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Federal Income Tax II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 408"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Special Topics in Financial Reporting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 410"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 434"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Personal Vocation and God’s Call to Leadership",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 130"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Principles of Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 202"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Business Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 208"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Business Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 215"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Business Communications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 220"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Designing Your Life With and For Others",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 230"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "The Vocation of the Business Leader",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 330"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Corporation Finance",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 407"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Strategic Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 420"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Fundamentals of Economics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 121"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Principles of Microeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 202"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Fundamentals of Business Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 212"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Applied Calculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 156"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Accounting, Associate of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/accounting/accounting-associate-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 302"
+          ],
+          "title": "Auditing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 407"
+          ],
+          "title": "Federal Income Tax I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 303"
+          ],
+          "title": "Advanced Cost Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 304"
+          ],
+          "title": "Intermediate Accounting I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 305"
+          ],
+          "title": "Intermediate Accounting II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 208"
+          ],
+          "title": "Business Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 215"
+          ],
+          "title": "Business Analysis",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 202"
+          ],
+          "title": "Principles of Microeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 212"
+          ],
+          "title": "Fundamentals of Business Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 156"
+          ],
+          "title": "Applied Calculus",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Literature OR Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "History, Social Science OR American Founding Principles Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Theology OR Philosophy Core",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Auditing OR Federal Income Tax I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 302",
+            "ACC 407"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Advanced Cost Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 303"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Intermediate Accounting I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 304"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Intermediate Accounting II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 305"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Business Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 208"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Business Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 215"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Fundamentals of Economics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 121"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Principles of Microeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 202"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Fundamentals of Business Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 212"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Applied Calculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 156"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Literature OR Catholic Traditions in Fine Arts Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "History, Social Science OR American Founding Principles Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Natural Science Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Philosophy Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Theology Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Theology OR Philosophy Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "A two-year program in Accounting leads to an associate of arts degree as described below.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Accounting Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/accounting/accounting-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 302"
+          ],
+          "title": "Auditing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 304"
+          ],
+          "title": "Intermediate Accounting I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 305"
+          ],
+          "title": "Intermediate Accounting II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 407"
+          ],
+          "title": "Federal Income Tax I",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Auditing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 302"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Intermediate Accounting I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 304"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Intermediate Accounting II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 305"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Federal Income Tax I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 407"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "It is recommended that students have a strong math background (MTH 156 suggested).",
+          "codes": [
+            "MTH 156"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Forensic Accounting (minor program only)",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/accounting/forensic-accounting-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 300"
+          ],
+          "title": "Accounting Information Systems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 302"
+          ],
+          "title": "Auditing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 411",
+            "CRJ 411"
+          ],
+          "title": "Forensic Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 412",
+            "CRJ 412"
+          ],
+          "title": "Fraud Investigation and Financial Reporting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 311"
+          ],
+          "title": "Financial Crimes",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Accounting Information Systems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 300"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Auditing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 302"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Forensic Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 411",
+            "CRJ 411"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Fraud Investigation and Financial Reporting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 412",
+            "CRJ 412"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Financial Crimes",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 311"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

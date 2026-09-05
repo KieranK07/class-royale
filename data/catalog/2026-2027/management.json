@@ -1,0 +1,660 @@
+{
+  "department": "Management",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Management, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/management/management-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BUS 101"
+          ],
+          "title": "Introduction to Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 130"
+          ],
+          "title": "Personal Vocation and God’s Call to Leadership",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 202"
+          ],
+          "title": "Principles of Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 208"
+          ],
+          "title": "Business Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 215"
+          ],
+          "title": "Business Analysis",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 220"
+          ],
+          "title": "Business Communications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 230"
+          ],
+          "title": "Designing Your Life With and For Others",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 305"
+          ],
+          "title": "Labor Relations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 308"
+          ],
+          "title": "Quantitative (Management) Decision Making",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 330"
+          ],
+          "title": "The Vocation of the Business Leader",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 358"
+          ],
+          "title": "International Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 401"
+          ],
+          "title": "Human Resource Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 404"
+          ],
+          "title": "Operations and Supply Chain Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 407"
+          ],
+          "title": "Corporation Finance",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 413"
+          ],
+          "title": "Business and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 420"
+          ],
+          "title": "Strategic Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 202"
+          ],
+          "title": "Principles of Microeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 212"
+          ],
+          "title": "Fundamentals of Business Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 156"
+          ],
+          "title": "Applied Calculus",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Management Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Business",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Personal Vocation and God’s Call to Leadership",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 130"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Principles of Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 202"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Business Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 208"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Business Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 215"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Business Communications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 220"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Designing Your Life With and For Others",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 230"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Labor Relations",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 305"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Quantitative (Management) Decision Making",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 308"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "The Vocation of the Business Leader",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 330"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "International Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 358"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Human Resource Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 401"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Operations and Supply Chain Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 404"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Corporation Finance",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 407"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Business and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 413"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Strategic Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 420"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 434"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Fundamentals of Economics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 121"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Principles of Microeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 202"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Fundamentals of Business Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 212"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Applied Calculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 156"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Management Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Management Major:",
+          "text": "Management Elective: Any 200-level or higher ENT course or any 300 or 400 level ACC, BUS, or ECO course not listed specifically above. Note that some of these courses are offered in the Spring semester only and that some have prerequisites.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Management Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/management/management-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 101"
+          ],
+          "title": "Introduction to Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 202"
+          ],
+          "title": "Principles of Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 401"
+          ],
+          "title": "Human Resource Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 308"
+          ],
+          "title": "Quantitative (Management) Decision Making",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 358"
+          ],
+          "title": "International Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 404"
+          ],
+          "title": "Operations and Supply Chain Management",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Introduction to Business OR Principles of Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 101",
+            "BUS 202"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Human Resource Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 401"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "One of the following:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 308",
+            "BUS 358",
+            "BUS 404"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "One of the following:",
+          "text": "It is recommended that students have a strong math background. (MTH 156 suggested).",
+          "codes": [
+            "MTH 156"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

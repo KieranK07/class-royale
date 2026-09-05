@@ -1,0 +1,2282 @@
+{
+  "department": "Psychology",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Clinical Track Psychology, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/psychology/psychology-clinical-track-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 224",
+            "SOC 224"
+          ],
+          "title": "Social Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 307"
+          ],
+          "title": "Experimental Psychology I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 309"
+          ],
+          "title": "Personality",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 319"
+          ],
+          "title": "Introduction to Counseling",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 320"
+          ],
+          "title": "Introduction to Group Counseling",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 401"
+          ],
+          "title": "Abnormal Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 403"
+          ],
+          "title": "Psychological Tests",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 407"
+          ],
+          "title": "Internship",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 410"
+          ],
+          "title": "Research in Psychology",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 434"
+          ],
+          "title": "Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 134"
+          ],
+          "title": "Anatomy and Physiology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 304"
+          ],
+          "title": "Multivariate Statistics",
+          "credits": 3,
+          "subLabel": "Two Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 305"
+          ],
+          "title": "Industrial Organizational Psychology",
+          "credits": 3,
+          "subLabel": "Two Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 308"
+          ],
+          "title": "Experimental Psychology II",
+          "credits": 3,
+          "subLabel": "Two Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 317"
+          ],
+          "title": "Cognitive Psychology",
+          "credits": 3,
+          "subLabel": "Two Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 318"
+          ],
+          "title": "Perception",
+          "credits": 3,
+          "subLabel": "Two Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 406"
+          ],
+          "title": "Biopsychology",
+          "credits": 3,
+          "subLabel": "Two Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 324",
+            "THE 324"
+          ],
+          "title": "Human and Spiritual Integration",
+          "credits": 3,
+          "subLabel": "Two Catholic Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 350"
+          ],
+          "title": "Family, Gender, and Spiritual Issues in Counseling",
+          "credits": 3,
+          "subLabel": "Two Catholic Psychology electives from"
+        },
+        {
+          "codes": [
+            "PSY 351",
+            "SWK 351"
+          ],
+          "title": "Spirituality in the Helping Professions",
+          "credits": 3,
+          "subLabel": "Two Catholic Psychology electives from"
+        },
+        {
+          "codes": [
+            "THE 306"
+          ],
+          "title": "Theology of Healing",
+          "credits": 3,
+          "subLabel": "Two Catholic Psychology electives from"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Psychology of Human Development I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Social Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 224",
+            "SOC 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Experimental Psychology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 307"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Personality",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 309"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Introduction to Counseling",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 319"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Introduction to Group Counseling",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 320"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Abnormal Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 401"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Psychological Tests",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 403"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Internship OR Research in Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 407",
+            "PSY 410"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Thesis OR Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 434",
+            "PSY 435"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Anatomy and Physiology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 133"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Anatomy and Physiology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 134"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        },
+        {
+          "id": "grp-16",
+          "label": "Multivariate Statistics",
+          "subgroup": "Two Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 304"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Industrial Organizational Psychology",
+          "subgroup": "Two Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 305"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Experimental Psychology II",
+          "subgroup": "Two Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 308"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Cognitive Psychology",
+          "subgroup": "Two Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 317"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Perception",
+          "subgroup": "Two Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 318"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Biopsychology",
+          "subgroup": "Two Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 406"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Human and Spiritual Integration",
+          "subgroup": "Two Catholic Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 324",
+            "THE 324"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Family, Gender, and Spiritual Issues in Counseling",
+          "subgroup": "Two Catholic Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 350"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Spirituality in the Helping Professions",
+          "subgroup": "Two Catholic Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 351",
+            "SWK 351"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Theology of Healing",
+          "subgroup": "Two Catholic Psychology electives from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 306"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Experimental Psychology, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/psychology/psychology-experimental-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 224",
+            "SOC 224"
+          ],
+          "title": "Social Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 304"
+          ],
+          "title": "Multivariate Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 307"
+          ],
+          "title": "Experimental Psychology I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 308"
+          ],
+          "title": "Experimental Psychology II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 309"
+          ],
+          "title": "Personality",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 317"
+          ],
+          "title": "Cognitive Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 406"
+          ],
+          "title": "Biopsychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 407"
+          ],
+          "title": "Internship",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 410"
+          ],
+          "title": "Research in Psychology",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 434"
+          ],
+          "title": "Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 134"
+          ],
+          "title": "Anatomy and Physiology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 110"
+          ],
+          "title": "Chemistry with Biological and Medical Applications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "and",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 115"
+          ],
+          "title": "Chemistry with Biological and Medical Applications Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "4 credits of Chemistry above CHM 110",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 141"
+          ],
+          "title": "Introduction to Computer Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 201"
+          ],
+          "title": "Principles of Macroeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 160"
+          ],
+          "title": "Precalculus",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 305"
+          ],
+          "title": "Industrial Organizational Psychology",
+          "credits": 3,
+          "subLabel": "One experimental psychology elective beyond the required list"
+        },
+        {
+          "codes": [
+            "PSY 310"
+          ],
+          "title": "Motivation and Leadership",
+          "credits": 3,
+          "subLabel": "One experimental psychology elective beyond the required list"
+        },
+        {
+          "codes": [
+            "PSY 318"
+          ],
+          "title": "Perception",
+          "credits": 3,
+          "subLabel": "One experimental psychology elective beyond the required list"
+        },
+        {
+          "codes": [
+            "BIO 301"
+          ],
+          "title": "Animal Behavior",
+          "credits": 3,
+          "subLabel": "One experimental psychology elective beyond the required list"
+        },
+        {
+          "codes": [
+            "BIO 310"
+          ],
+          "title": "Biochemistry",
+          "credits": 3,
+          "subLabel": "One experimental psychology elective beyond the required list"
+        },
+        {
+          "codes": [
+            "BIO 320"
+          ],
+          "title": "Neurobiology Mind, Brain and Behavior",
+          "credits": 3,
+          "subLabel": "One experimental psychology elective beyond the required list"
+        },
+        {
+          "codes": [
+            "PSY 207"
+          ],
+          "title": "Psychology of Human Development II",
+          "credits": 3,
+          "subLabel": "Two from clinical psychology electives"
+        },
+        {
+          "codes": [
+            "PSY 319"
+          ],
+          "title": "Introduction to Counseling",
+          "credits": 3,
+          "subLabel": "Two from clinical psychology electives"
+        },
+        {
+          "codes": [
+            "PSY 320"
+          ],
+          "title": "Introduction to Group Counseling",
+          "credits": 3,
+          "subLabel": "Two from clinical psychology electives"
+        },
+        {
+          "codes": [
+            "PSY 401"
+          ],
+          "title": "Abnormal Psychology",
+          "credits": 3,
+          "subLabel": "Two from clinical psychology electives"
+        },
+        {
+          "codes": [
+            "PSY 403"
+          ],
+          "title": "Psychological Tests",
+          "credits": 3,
+          "subLabel": "Two from clinical psychology electives"
+        },
+        {
+          "codes": [
+            "PSY 324",
+            "THE 324"
+          ],
+          "title": "Human and Spiritual Integration",
+          "credits": 3,
+          "subLabel": "One from Catholic psychology electives"
+        },
+        {
+          "codes": [
+            "PSY 350"
+          ],
+          "title": "Family, Gender, and Spiritual Issues in Counseling",
+          "credits": 3,
+          "subLabel": "One from Catholic psychology electives"
+        },
+        {
+          "codes": [
+            "PSY 351",
+            "SWK 351"
+          ],
+          "title": "Spirituality in the Helping Professions",
+          "credits": 3,
+          "subLabel": "One from Catholic psychology electives"
+        },
+        {
+          "codes": [
+            "THE 306"
+          ],
+          "title": "Theology of Healing",
+          "credits": 3,
+          "subLabel": "One from Catholic psychology electives"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Psychology of Human Development I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Social Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 224",
+            "SOC 224"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Multivariate Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 304"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Experimental Psychology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 307"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Experimental Psychology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 308"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Personality",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 309"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Cognitive Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 317"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Biopsychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 406"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Internship OR Research in Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 407",
+            "PSY 410"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Thesis OR Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 434",
+            "PSY 435"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Anatomy and Physiology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 133"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Anatomy and Physiology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 134"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Chemistry with Biological and Medical Applications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 110"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Chemistry with Biological and Medical Applications Laboratory OR 4 credits of Chemistry above CHM 110",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 115"
+          ],
+          "unresolved": true,
+          "creditsIfKnown": 1
+        },
+        {
+          "id": "grp-16",
+          "label": "Introduction to Computer Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 141"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Fundamentals of Economics OR Principles of Macroeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 121",
+            "ECO 201"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Precalculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 160"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Industrial Organizational Psychology",
+          "subgroup": "One experimental psychology elective beyond the required list",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 305"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Motivation and Leadership",
+          "subgroup": "One experimental psychology elective beyond the required list",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 310"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Perception",
+          "subgroup": "One experimental psychology elective beyond the required list",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 318"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Animal Behavior",
+          "subgroup": "One experimental psychology elective beyond the required list",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 301"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Biochemistry",
+          "subgroup": "One experimental psychology elective beyond the required list",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 310"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Neurobiology Mind, Brain and Behavior",
+          "subgroup": "One experimental psychology elective beyond the required list",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 320"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Psychology of Human Development II",
+          "subgroup": "Two from clinical psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 207"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Introduction to Counseling",
+          "subgroup": "Two from clinical psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 319"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Introduction to Group Counseling",
+          "subgroup": "Two from clinical psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 320"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Abnormal Psychology",
+          "subgroup": "Two from clinical psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 401"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Psychological Tests",
+          "subgroup": "Two from clinical psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 403"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Human and Spiritual Integration",
+          "subgroup": "One from Catholic psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 324",
+            "THE 324"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Family, Gender, and Spiritual Issues in Counseling",
+          "subgroup": "One from Catholic psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 350"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Spirituality in the Helping Professions",
+          "subgroup": "One from Catholic psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 351",
+            "SWK 351"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Theology of Healing",
+          "subgroup": "One from Catholic psychology electives",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 306"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for the Psychology Major, Experimental Track:",
+          "text": "*** Students who choose PSY 410 Research in Psychology rather than PSY 407 Internship must complete at least 3 credits.",
+          "codes": [
+            "PSY 410",
+            "PSY 407"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Industrial Organizational Psychology, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/psychology/psychology-industrial-organization-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 110"
+          ],
+          "title": "Human Biology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 101"
+          ],
+          "title": "Introduction to Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 220"
+          ],
+          "title": "Business Communications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 413"
+          ],
+          "title": "Business and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 201"
+          ],
+          "title": "Principles of Macroeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 224",
+            "SOC 224"
+          ],
+          "title": "Social Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 317"
+          ],
+          "title": "Cognitive Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 318"
+          ],
+          "title": "Perception",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 305"
+          ],
+          "title": "Industrial Organizational Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 307"
+          ],
+          "title": "Experimental Psychology I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 309"
+          ],
+          "title": "Personality",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 310"
+          ],
+          "title": "Motivation and Leadership",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 330"
+          ],
+          "title": "Workplace Teams and Groups",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 403"
+          ],
+          "title": "Psychological Tests",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 437"
+          ],
+          "title": "Capstone in I/O Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 320"
+          ],
+          "title": "Catholic Social Teaching",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 305"
+          ],
+          "title": "Labor Relations",
+          "credits": 3,
+          "subLabel": "Business Electives (choose one of the following)"
+        },
+        {
+          "codes": [
+            "BUS 401"
+          ],
+          "title": "Human Resource Management",
+          "credits": 3,
+          "subLabel": "Business Electives (choose one of the following)"
+        },
+        {
+          "codes": [
+            "BUS 404"
+          ],
+          "title": "Operations and Supply Chain Management",
+          "credits": 3,
+          "subLabel": "Business Electives (choose one of the following)"
+        },
+        {
+          "codes": [
+            "PSY 407"
+          ],
+          "title": "Internship",
+          "credits": 3,
+          "subLabel": "Practicum"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting OR Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207",
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Human Biology OR Anatomy and Physiology I OR General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 110",
+            "BIO 133",
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Introduction to Business",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 101"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Business Communications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 220"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Business and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 413"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Fundamentals of Economics OR Principles of Macroeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 121",
+            "ECO 201"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Social Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 224",
+            "SOC 224"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Cognitive Psychology OR Perception",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 317",
+            "PSY 318"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Industrial Organizational Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 305"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Experimental Psychology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 307"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Personality",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 309"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Motivation and Leadership",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 310"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Workplace Teams and Groups",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 330"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Psychological Tests",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 403"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Capstone in I/O Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 437"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Catholic Social Teaching",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 320"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Labor Relations",
+          "subgroup": "Business Electives (choose one of the following)",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 305"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Human Resource Management",
+          "subgroup": "Business Electives (choose one of the following)",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 401"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Operations and Supply Chain Management",
+          "subgroup": "Business Electives (choose one of the following)",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 404"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Internship",
+          "subgroup": "Practicum",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 407"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Industrial Organizational Psychology Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/psychology/industrial-organizational-psychology",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PSY 224",
+            "SOC 224"
+          ],
+          "title": "Social Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 305"
+          ],
+          "title": "Industrial Organizational Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 101"
+          ],
+          "title": "Introduction to Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 305"
+          ],
+          "title": "Labor Relations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 401"
+          ],
+          "title": "Human Resource Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 404"
+          ],
+          "title": "Operations and Supply Chain Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 310"
+          ],
+          "title": "Motivation and Leadership",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 317"
+          ],
+          "title": "Cognitive Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 318"
+          ],
+          "title": "Perception",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Social Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 224",
+            "SOC 224"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Industrial Organizational Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 305"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Introduction to Business",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 101"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Choose one from:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 305",
+            "BUS 401",
+            "BUS 404"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-5",
+          "label": "Choose one from:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 310",
+            "PSY 317",
+            "PSY 318"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Neuroscience Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/psychology/neuroscience-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 320"
+          ],
+          "title": "Neurobiology Mind, Brain and Behavior",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 420"
+          ],
+          "title": "Molecular Neurobiology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 318"
+          ],
+          "title": "Perception",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 406"
+          ],
+          "title": "Biopsychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 317"
+          ],
+          "title": "Cognitive Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 401"
+          ],
+          "title": "Abnormal Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 224"
+          ],
+          "title": "Human Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 301"
+          ],
+          "title": "Animal Behavior",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 310"
+          ],
+          "title": "Biochemistry",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Neurobiology Mind, Brain and Behavior",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 320"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Molecular Neurobiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 420"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Perception",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 318"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Biopsychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 406"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Choose one of the following Psychology electives:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 317",
+            "PSY 401"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-5",
+          "label": "Choose one of the following Biology electives:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 224",
+            "BIO 301",
+            "BIO 310"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Psychology Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/psychology/psychology-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 207"
+          ],
+          "title": "Psychology of Human Development II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Psychology Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Psychology Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Psychology Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Psychology of Human Development I OR Psychology of Human Development II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206",
+            "PSY 207"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Psychology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "Psychology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Psychology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

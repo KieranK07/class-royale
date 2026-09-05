@@ -1,0 +1,1665 @@
+{
+  "department": "Humanities and Catholic Culture",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Humanities and Catholic Culture, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/humanities-and-catholic-culture/humanities-and-catholic-culture-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "HCC 101"
+          ],
+          "title": "Religion and Culture: Ancient World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 201"
+          ],
+          "title": "Religion and Culture: Medieval Europe",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC HCC 301"
+          ],
+          "title": "Religion and Culture: Early Modern World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 401"
+          ],
+          "title": "Catholicism and the Modern World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 404"
+          ],
+          "title": "Catholics, Catholicism, and American Culture",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 211",
+            "THE 511"
+          ],
+          "title": "Principles of Biblical Study I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 212",
+            "THE 512"
+          ],
+          "title": "Principles of Biblical Study II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "UNV 115"
+          ],
+          "title": "Franciscan Quest",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 315"
+          ],
+          "title": "Dante's Divine Comedy",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "ENG 326"
+          ],
+          "title": "English Literature of the Medieval Period",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "ENG 331"
+          ],
+          "title": "Studies in Chaucer",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "FRN 431"
+          ],
+          "title": "Periods and Genres of French Literature",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "GRM 426"
+          ],
+          "title": "Issues in German Culture and Literature I: From the Beginnings through 1249",
+          "credits": 4,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HON 202"
+          ],
+          "title": "Seminar IV: Medieval Thought",
+          "credits": 4,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HST 301",
+            "THE 301"
+          ],
+          "title": "St. Francis: Life and Charism",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HST 315",
+            "THE 315"
+          ],
+          "title": "The Thought of BL. John Duns Scotus",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HST 323"
+          ],
+          "title": "The Medieval World",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HST 332",
+            "THE 332"
+          ],
+          "title": "The Thought of St. Bonaventure",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HST 339"
+          ],
+          "title": "Knighthood and Chivalry",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HST 342"
+          ],
+          "title": "The Crusades",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "HST 386"
+          ],
+          "title": "History of Islam to ca. AD 1200",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "PHL 312"
+          ],
+          "title": "Medieval Philosophy",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "PHL 340"
+          ],
+          "title": "The Franciscan Tradition in Philosophy",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "PHL 391",
+            "POL 291"
+          ],
+          "title": "Ancient/Medieval Political Philosophy",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "THE 355"
+          ],
+          "title": "Spiritual Theology in the Mission/Values of St. Francis and St. Clare",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "THE 408"
+          ],
+          "title": "Women in Early and Medieval Christianity",
+          "credits": 3,
+          "subLabel": "Medieval Specialization"
+        },
+        {
+          "codes": [
+            "ENG 324"
+          ],
+          "title": "Shakespeare's Histories and Comedies",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "ENG 335"
+          ],
+          "title": "The English Renaissance",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "ENG 336"
+          ],
+          "title": "The Metaphysical Poets",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "ENG 340"
+          ],
+          "title": "Eighteenth-Century Literature",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "ENG 405"
+          ],
+          "title": "Studies in Shakespeare",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "ENG 447"
+          ],
+          "title": "Milton",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "FRN 431"
+          ],
+          "title": "Periods and Genres of French Literature",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "GRM 427"
+          ],
+          "title": "Issues in German Culture and Literature II: From 1250 through 1699",
+          "credits": 4,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "HON 301"
+          ],
+          "title": "Seminar V: The Renaissance",
+          "credits": 4,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "HON 302"
+          ],
+          "title": "Seminar VI: The Enlightenment",
+          "credits": 4,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "HST 324"
+          ],
+          "title": "Renaissance and Reformation",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "PHL 317"
+          ],
+          "title": "Modern Philosophy",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "SPN 317"
+          ],
+          "title": "Ignatius: The Relationship With Christ",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "SPN 328"
+          ],
+          "title": "St. Teresa and St. John of the Cross: Contemplating the Face of Christ",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "SPN 426"
+          ],
+          "title": "Don Quixote by Cervantes",
+          "credits": 3,
+          "subLabel": "Early Modern Specialization"
+        },
+        {
+          "codes": [
+            "ENG 318"
+          ],
+          "title": "European Romanticism",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "ENG 345"
+          ],
+          "title": "The Romantic Movement",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "ENG 346"
+          ],
+          "title": "The Victorian Period",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "ENG 350"
+          ],
+          "title": "Modern Drama",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "ENG 360"
+          ],
+          "title": "Russian Literature",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "ENG 410"
+          ],
+          "title": "The Modern British Novel",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "ENG 416"
+          ],
+          "title": "Modern World Literature",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "FRN 431"
+          ],
+          "title": "Periods and Genres of French Literature",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "FRN 432"
+          ],
+          "title": "Modern Catholic Writers",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "GRM 428"
+          ],
+          "title": "Issues in German Culture and Literature III: From 1700 through 1849",
+          "credits": 4,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "GRM 429"
+          ],
+          "title": "Issues in German Culture and Literature IV: From 1850 through the Present",
+          "credits": 4,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HON 401"
+          ],
+          "title": "Seminar VII: The 19th Century",
+          "credits": 4,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HON 402"
+          ],
+          "title": "Seminar VIII: The 20th Century",
+          "credits": 4,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HST 327"
+          ],
+          "title": "French Revolution and Nineteenth Century Europe",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HST 329"
+          ],
+          "title": "Twentieth Century Europe",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HST 331"
+          ],
+          "title": "Modern Britain and Ireland",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HST 333"
+          ],
+          "title": "Russia to 1917",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HST 362"
+          ],
+          "title": "World War I",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "HST 363"
+          ],
+          "title": "World War II",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "PHL 392",
+            "POL 292"
+          ],
+          "title": "Modern Political Philosophy",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "PHL 393",
+            "POL 293"
+          ],
+          "title": "Contemporary Political Philosophy",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "PHL 412"
+          ],
+          "title": "Contemporary Philosophy",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "SPN 327"
+          ],
+          "title": "EL Camino de Santiago",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "SPN 381"
+          ],
+          "title": "Liturgy and Literature: Spanish Hymns in the Liturgy of the Hours",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "THE 320"
+          ],
+          "title": "Catholic Social Teaching",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "THE 345"
+          ],
+          "title": "Questions in Contemporary Theology",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "THE 402"
+          ],
+          "title": "Christian Life and Thought in Modern Times",
+          "credits": 3,
+          "subLabel": "Modern European Specialization"
+        },
+        {
+          "codes": [
+            "ENG 300"
+          ],
+          "title": "American Poetry",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "ENG 301"
+          ],
+          "title": "American Literature to 1865",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "ENG 302"
+          ],
+          "title": "American Literature from 1865",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "ENG 415"
+          ],
+          "title": "The American Novel",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 307",
+            "THE 307"
+          ],
+          "title": "Franciscans in the New World",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 335",
+            "POL 335"
+          ],
+          "title": "American Diplomatic History",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 336",
+            "POL 336"
+          ],
+          "title": "The American Political Tradition",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 340"
+          ],
+          "title": "Colonial America",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 343"
+          ],
+          "title": "History of Ohio",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 345"
+          ],
+          "title": "America: From Independence to Civil War, 1776-1860",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 350"
+          ],
+          "title": "African-American History",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 355"
+          ],
+          "title": "Civil War and Reconstruction",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 360"
+          ],
+          "title": "America from 1877-1941",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "HST 365"
+          ],
+          "title": "Contemporary American History",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "POL 327"
+          ],
+          "title": "United States Presidency",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "POL 336",
+            "HST 336"
+          ],
+          "title": "American Political Thought",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        },
+        {
+          "codes": [
+            "POL 358"
+          ],
+          "title": "American Constitutional Law",
+          "credits": 3,
+          "subLabel": "Modern American Specialization"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Religion and Culture: Ancient World",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Religion and Culture: Medieval Europe",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 201"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Religion and Culture: Early Modern World",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC HCC 301"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Catholicism and the Modern World",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 401"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Catholics, Catholicism, and American Culture",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 404"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 435"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Principles of Biblical Study I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 211",
+            "THE 511"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Principles of Biblical Study II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 212",
+            "THE 512"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Franciscan Quest",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "UNV 115"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Dante's Divine Comedy",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 315"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "English Literature of the Medieval Period",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 326"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Studies in Chaucer",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 331"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Periods and Genres of French Literature",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FRN 431"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Issues in German Culture and Literature I: From the Beginnings through 1249",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 426"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Seminar IV: Medieval Thought",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HON 202"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "St. Francis: Life and Charism",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 301",
+            "THE 301"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "The Thought of BL. John Duns Scotus",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 315",
+            "THE 315"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "The Medieval World",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 323"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "The Thought of St. Bonaventure",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 332",
+            "THE 332"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Knighthood and Chivalry",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 339"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "The Crusades",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 342"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "History of Islam to ca. AD 1200",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 386"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Medieval Philosophy",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 312"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "The Franciscan Tradition in Philosophy",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 340"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Ancient/Medieval Political Philosophy",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 391",
+            "POL 291"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Spiritual Theology in the Mission/Values of St. Francis and St. Clare",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 355"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Women in Early and Medieval Christianity",
+          "subgroup": "Medieval Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 408"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Shakespeare's Histories and Comedies",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 324"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "The English Renaissance",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 335"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "The Metaphysical Poets",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 336"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Eighteenth-Century Literature",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 340"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Studies in Shakespeare",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 405"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Milton",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 447"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Periods and Genres of French Literature",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FRN 431"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Issues in German Culture and Literature II: From 1250 through 1699",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 427"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Seminar V: The Renaissance",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HON 301"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Seminar VI: The Enlightenment",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HON 302"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Renaissance and Reformation",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 324"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Modern Philosophy",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 317"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Ignatius: The Relationship With Christ",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 317"
+          ]
+        },
+        {
+          "id": "grp-41",
+          "label": "St. Teresa and St. John of the Cross: Contemplating the Face of Christ",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 328"
+          ]
+        },
+        {
+          "id": "grp-42",
+          "label": "Don Quixote by Cervantes",
+          "subgroup": "Early Modern Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 426"
+          ]
+        },
+        {
+          "id": "grp-43",
+          "label": "European Romanticism",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 318"
+          ]
+        },
+        {
+          "id": "grp-44",
+          "label": "The Romantic Movement",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 345"
+          ]
+        },
+        {
+          "id": "grp-45",
+          "label": "The Victorian Period",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 346"
+          ]
+        },
+        {
+          "id": "grp-46",
+          "label": "Modern Drama",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 350"
+          ]
+        },
+        {
+          "id": "grp-47",
+          "label": "Russian Literature",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 360"
+          ]
+        },
+        {
+          "id": "grp-48",
+          "label": "The Modern British Novel",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 410"
+          ]
+        },
+        {
+          "id": "grp-49",
+          "label": "Modern World Literature",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 416"
+          ]
+        },
+        {
+          "id": "grp-50",
+          "label": "Periods and Genres of French Literature",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FRN 431"
+          ]
+        },
+        {
+          "id": "grp-51",
+          "label": "Modern Catholic Writers",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FRN 432"
+          ]
+        },
+        {
+          "id": "grp-52",
+          "label": "Issues in German Culture and Literature III: From 1700 through 1849",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 428"
+          ]
+        },
+        {
+          "id": "grp-53",
+          "label": "Issues in German Culture and Literature IV: From 1850 through the Present",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 429"
+          ]
+        },
+        {
+          "id": "grp-54",
+          "label": "Seminar VII: The 19th Century",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HON 401"
+          ]
+        },
+        {
+          "id": "grp-55",
+          "label": "Seminar VIII: The 20th Century",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HON 402"
+          ]
+        },
+        {
+          "id": "grp-56",
+          "label": "French Revolution and Nineteenth Century Europe",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 327"
+          ]
+        },
+        {
+          "id": "grp-57",
+          "label": "Twentieth Century Europe",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 329"
+          ]
+        },
+        {
+          "id": "grp-58",
+          "label": "Modern Britain and Ireland",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 331"
+          ]
+        },
+        {
+          "id": "grp-59",
+          "label": "Russia to 1917",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 333"
+          ]
+        },
+        {
+          "id": "grp-60",
+          "label": "World War I",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 362"
+          ]
+        },
+        {
+          "id": "grp-61",
+          "label": "World War II",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 363"
+          ]
+        },
+        {
+          "id": "grp-62",
+          "label": "Modern Political Philosophy",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 392",
+            "POL 292"
+          ]
+        },
+        {
+          "id": "grp-63",
+          "label": "Contemporary Political Philosophy",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 393",
+            "POL 293"
+          ]
+        },
+        {
+          "id": "grp-64",
+          "label": "Contemporary Philosophy",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 412"
+          ]
+        },
+        {
+          "id": "grp-65",
+          "label": "EL Camino de Santiago",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 327"
+          ]
+        },
+        {
+          "id": "grp-66",
+          "label": "Liturgy and Literature: Spanish Hymns in the Liturgy of the Hours",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 381"
+          ]
+        },
+        {
+          "id": "grp-67",
+          "label": "Catholic Social Teaching",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 320"
+          ]
+        },
+        {
+          "id": "grp-68",
+          "label": "Questions in Contemporary Theology",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 345"
+          ]
+        },
+        {
+          "id": "grp-69",
+          "label": "Christian Life and Thought in Modern Times",
+          "subgroup": "Modern European Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 402"
+          ]
+        },
+        {
+          "id": "grp-70",
+          "label": "American Poetry",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 300"
+          ]
+        },
+        {
+          "id": "grp-71",
+          "label": "American Literature to 1865",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 301"
+          ]
+        },
+        {
+          "id": "grp-72",
+          "label": "American Literature from 1865",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 302"
+          ]
+        },
+        {
+          "id": "grp-73",
+          "label": "The American Novel",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 415"
+          ]
+        },
+        {
+          "id": "grp-74",
+          "label": "Franciscans in the New World",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 307",
+            "THE 307"
+          ]
+        },
+        {
+          "id": "grp-75",
+          "label": "American Diplomatic History",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 335",
+            "POL 335"
+          ]
+        },
+        {
+          "id": "grp-76",
+          "label": "The American Political Tradition",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 336",
+            "POL 336"
+          ]
+        },
+        {
+          "id": "grp-77",
+          "label": "Colonial America",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 340"
+          ]
+        },
+        {
+          "id": "grp-78",
+          "label": "History of Ohio",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 343"
+          ]
+        },
+        {
+          "id": "grp-79",
+          "label": "America: From Independence to Civil War, 1776-1860",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 345"
+          ]
+        },
+        {
+          "id": "grp-80",
+          "label": "African-American History",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 350"
+          ]
+        },
+        {
+          "id": "grp-81",
+          "label": "Civil War and Reconstruction",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 355"
+          ]
+        },
+        {
+          "id": "grp-82",
+          "label": "America from 1877-1941",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 360"
+          ]
+        },
+        {
+          "id": "grp-83",
+          "label": "Contemporary American History",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 365"
+          ]
+        },
+        {
+          "id": "grp-84",
+          "label": "American National Government",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220"
+          ]
+        },
+        {
+          "id": "grp-85",
+          "label": "United States Presidency",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 327"
+          ]
+        },
+        {
+          "id": "grp-86",
+          "label": "American Political Thought",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 336",
+            "HST 336"
+          ]
+        },
+        {
+          "id": "grp-87",
+          "label": "American Constitutional Law",
+          "subgroup": "Modern American Specialization",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 358"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Humanities and Catholic Culture Major:",
+          "text": "In addition to the required courses below, HCC majors will choose one specialization. Each specialization requires twelve credit hours (four courses) from two or more departments.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Humanities and Catholic Culture Major:",
+          "text": "Note - All twelve specialization credits cannot come from the same department.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Humanities and Catholic Culture Major:",
+          "text": "FRN 431 can be taken if the subject matter aligns with chosen specialization. See HCC Director for approval.",
+          "codes": [
+            "FRN 431"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Humanities and Catholic Culture Major:",
+          "text": "FRN 431 can be taken if the subject matter aligns with chosen specialization. See HCC Director for approval.",
+          "codes": [
+            "FRN 431"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Humanities and Catholic Culture Major:",
+          "text": "FRN 431 can be taken if the subject matter aligns with chosen specialization. See HCC Director for approval.",
+          "codes": [
+            "FRN 431"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

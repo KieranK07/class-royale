@@ -1,0 +1,42 @@
+<!-- Trimmed to the parts that matter: the results table carries the fully
+     built search endpoint, and the term dropdown states which terms exist,
+     what they're called and which one is selected. Student id replaced with a
+     synthetic one. -->
+<div class="AjaxPortletForm">
+<input type="hidden" name="CurrentPortletState" value="Default" />
+<input type="hidden" name="ScreenToProcessForm" value="StudentRegistrationPortlet_CourseSearchView" />
+<input type="hidden" name="NextScreenToLoad" value="StudentRegistrationPortlet_CourseSearchView" />
+<input type="hidden" name="PostUrl" value="/ICS/Academics/Academics_Homepage.jnz?portlet=Student_Registration&screen=StudentRegistrationPortlet_CourseSearchView&screenType=next" />
+
+<select name="stuRegTermSelect"
+        id="stuRegTermSelect"
+        data-ajaxformsubmit="/ICS/Academics/Academics_Homepage.jnz?portlet=Student_Registration">
+    <option value="2026;10" selected>&nbsp;Fall 2026</option>
+    <optgroup label="Past Registration Periods">
+        <option value='2025;10' >&nbsp;Fall 2025</option><option value='2025;20' >&nbsp;Spring 2026</option>
+    </optgroup>
+</select>
+
+<!-- The search form. The results table below is EMPTY until this is
+     submitted — see the data-no-rows-text attribute. -->
+<form id="courseSearchField">
+<select name="ddCodeSearchType" id="ddCodeSearchType"><option value="0">&nbsp;Begins With</option><option value="3">&nbsp;Contains</option></select>
+<input type="text" id="txtCourse" name="txtCourse" value="" maxlength="30"/>
+<select name="ddTitleSearchType" id="ddTitleSearchType"><option value="0">&nbsp;Begins With</option></select>
+<input type="text" id="txtCourseTitle" name="txtCourseTitle" value="" maxlength="70"/>
+<select name="ddDivision" id="ddDivision"><option value="">&nbsp;</option><option value="UG">&nbsp;Undergraduate</option></select>
+<input type="text" id="txtInstructor" name="txtInstructor" class="form-control"/>
+<input type="text" id="txtDepartment" name="txtDepartment" class="form-control"/>
+<input type="text" id="txtLocation" name="txtLocation" class="form-control"/>
+<button class="btn btn-primary submit-search" type="button">Search Courses</button>
+</form>
+
+<div class='footable-container'>
+<table id='CourseSearchResultsTable' class=' table-bordered '
+data-url='/ICS/webserviceproxy/exi/rest/studentregistration/pagedsectiondataforsearch?Id=312&IdNumber=1000001&YearCode=2026&TermCode=10'
+data-paging-size='15'
+data-original-page-size='15'
+data-paging='true'
+data-no-rows-text='To see courses, enter criteria in any fields, and click Search Courses. To narrow the results, enter more criteria.'></table>
+</div>
+</div>

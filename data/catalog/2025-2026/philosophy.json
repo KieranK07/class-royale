@@ -1,0 +1,777 @@
+{
+  "department": "Philosophy",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Philosophy, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/philosophy/philosophy-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 211",
+            "PHL 511"
+          ],
+          "title": "Metaphysics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 301"
+          ],
+          "title": "Logic",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 306",
+            "PHL 526"
+          ],
+          "title": "Epistemology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 435"
+          ],
+          "title": "Senior Seminar and Thesis",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Three courses from the 300 level and 400 level philosophy courses",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 311"
+          ],
+          "title": "Ancient Greek Philosophy",
+          "credits": 3,
+          "subLabel": "Three history of philosophy courses chosen from"
+        },
+        {
+          "codes": [
+            "PHL 312"
+          ],
+          "title": "Medieval Philosophy",
+          "credits": 3,
+          "subLabel": "Three history of philosophy courses chosen from"
+        },
+        {
+          "codes": [
+            "PHL 317"
+          ],
+          "title": "Modern Philosophy",
+          "credits": 3,
+          "subLabel": "Three history of philosophy courses chosen from"
+        },
+        {
+          "codes": [
+            "PHL 412"
+          ],
+          "title": "Contemporary Philosophy",
+          "credits": 3,
+          "subLabel": "Three history of philosophy courses chosen from"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Metaphysics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 211",
+            "PHL 511"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Logic",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 301"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Epistemology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 306",
+            "PHL 526"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Senior Seminar and Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 435"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Three courses from the 300 level and 400 level philosophy courses",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-7",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        },
+        {
+          "id": "grp-8",
+          "label": "Ancient Greek Philosophy",
+          "subgroup": "Three history of philosophy courses chosen from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 311"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Medieval Philosophy",
+          "subgroup": "Three history of philosophy courses chosen from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 312"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Modern Philosophy",
+          "subgroup": "Three history of philosophy courses chosen from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 317"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Contemporary Philosophy",
+          "subgroup": "Three history of philosophy courses chosen from",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 412"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Associate of Arts Degree in Philosophy",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/philosophy/associate-of-arts-degree-in-philosophy",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "History, Social Science OR American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHL 211",
+            "PHL 511"
+          ],
+          "title": "Metaphysics",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 301"
+          ],
+          "title": "Logic",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 306",
+            "PHL 526"
+          ],
+          "title": "Epistemology",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature OR Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Math or Economics Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy History Elective 3",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Philosophy of the Human Person",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Foundations of Ethics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "History, Social Science OR American Founding Principles Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-3",
+          "label": "Natural Science Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "Theology Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Metaphysics",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 211",
+            "PHL 511"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Logic OR Epistemology",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 301",
+            "PHL 306",
+            "PHL 526"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Literature OR Catholic Traditions in Fine Arts Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-8",
+          "label": "Math or Economics Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-9",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Philosophy Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Philosophy History Elective 3",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-13",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Philosophy Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-19",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "The requirements for the Associate of Arts in Philosophy are:",
+          "codes": []
+        },
+        {
+          "section": "Sophomore Year",
+          "text": "One Philosophy elective taken this semester should be a history of Philosophy. Select one of the following: PHL 311, 312, 317 or 412.",
+          "codes": [
+            "PHL 311"
+          ]
+        },
+        {
+          "section": "Sophomore Year",
+          "text": "PHL 113, 211, 212, 301 or 306, one history of Philosophy course (choose from--PHL 311, 312, 317, or 412), and two 300-400 level Philosophy elective courses; one Theology core course; one History or Social Science or American Founding Principles core course; one Natural Science core course; one Literature or Catholic Traditions in the Fine Arts core course; one Math or Economics core course; eight general elective courses.",
+          "codes": [
+            "PHL 113",
+            "PHL 311"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "Philosophy Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/philosophy/philosophy-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 211",
+            "PHL 511"
+          ],
+          "title": "Metaphysics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 306",
+            "PHL 526"
+          ],
+          "title": "Epistemology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Upper-Level PHL Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Upper-Level PHL Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 311"
+          ],
+          "title": "Ancient Greek Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 312"
+          ],
+          "title": "Medieval Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 317"
+          ],
+          "title": "Modern Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 412"
+          ],
+          "title": "Contemporary Philosophy",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "18 credit hours",
+          "subgroup": null,
+          "count": 18,
+          "unit": "credits",
+          "options": [
+            "PHL 113",
+            "PHL 503",
+            "PHL 211",
+            "PHL 511",
+            "PHL 212",
+            "PHL 512",
+            "PHL 306",
+            "PHL 526"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-1",
+          "label": "Of the two upper-level PHL (300-400) electives, at least one must be a history of philosophy course. Students may choose from the following:",
+          "subgroup": null,
+          "count": 2,
+          "unit": "courses",
+          "options": [
+            "PHL 311",
+            "PHL 312",
+            "PHL 317",
+            "PHL 412"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [
+        "Of the two upper-level PHL (300-400) electives, at least one must be a history of philosophy course. Students may choose from the following:"
+      ],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

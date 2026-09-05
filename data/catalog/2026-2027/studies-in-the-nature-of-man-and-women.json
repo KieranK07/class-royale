@@ -1,0 +1,189 @@
+{
+  "department": "Studies in the Nature of Man and Women (minor program only)",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Studies in the Nature of Man and Women Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/studies-in-the-nature-of-man-and-women/studies-in-the-nature-of-man-and-women-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THE 390"
+          ],
+          "title": "The Complementarity of Men and Women",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 203"
+          ],
+          "title": "Human Embryology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 207"
+          ],
+          "title": "Psychology of Human Development II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 204"
+          ],
+          "title": "Marriage and Family",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 320"
+          ],
+          "title": "Neurobiology Mind, Brain and Behavior",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 201"
+          ],
+          "title": "The Culture of Death and the Culture of Life",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 202"
+          ],
+          "title": "Life Issues, Marriage, and the Family",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 428"
+          ],
+          "title": "The Nature of Love",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 350"
+          ],
+          "title": "Family, Gender, and Spiritual Issues in Counseling",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 406"
+          ],
+          "title": "Biopsychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 210"
+          ],
+          "title": "Human Behavior and the Social Environment I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 341"
+          ],
+          "title": "Christian Marriage",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 395"
+          ],
+          "title": "Theology of the Body",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "The Complementarity of Men and Women",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 390"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Human Embryology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 203"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Psychology of Human Development II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 207"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Marriage and Family",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 204"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Two of the following electives:",
+          "subgroup": null,
+          "count": 2,
+          "unit": "courses",
+          "options": [
+            "BIO 320",
+            "HLS 201",
+            "HLS 202",
+            "PHL 428",
+            "PSY 350",
+            "PSY 406",
+            "SWK 210",
+            "THE 341",
+            "THE 395"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

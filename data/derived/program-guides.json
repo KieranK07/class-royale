@@ -1,0 +1,3470 @@
+{
+  "generatedFrom": [
+    "CSC Program Guide 2025.xlsx",
+    "SFE Program Guide 2025.xlsx"
+  ],
+  "note": "Department program guides — the intended sequence, not a statement of what is offered. Live section data outranks these hints.",
+  "plans": [
+    {
+      "sheet": "CSC '25+",
+      "title": "Computer Science",
+      "semesters": [
+        {
+          "semester": 1,
+          "year": "Freshman",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 144"
+              ],
+              "title": "Obj Oriented Prog",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 142"
+              ],
+              "title": "Obj Oriented Prog Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 1",
+              "title": "PHL 212 Found. of Ethics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 161"
+              ],
+              "title": "Analy Geom and Calc I",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "slot",
+              "label": "CST Elective",
+              "title": "SCI x47 Cath, Sci &Technology",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "AFP Core",
+              "title": "AFP Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 171"
+              ],
+              "title": "Matrix I",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 2,
+          "year": "Freshman",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 145"
+              ],
+              "title": "Data Structures",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 172"
+              ],
+              "title": "Matrix II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "Stats Elective",
+              "title": "Statistics Elective",
+              "footnotes": [
+                2
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 128"
+              ],
+              "title": "Linux & Scripting",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 2",
+              "title": "Philosophy Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ECO Core",
+              "title": "Economics Core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 3,
+          "year": "Sophomore",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 240"
+              ],
+              "title": "Intro to Cybersecurity and Networking",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 220"
+              ],
+              "title": "Discrete Mathematics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 261"
+              ],
+              "title": "Database Systems",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 276"
+              ],
+              "title": "Intro to Dist and Cloud Comp.",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Core 1",
+              "title": "Natural Science Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Lab 1",
+              "title": "Natural Science Lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 4,
+          "year": "Sophomore",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "Elective 1",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 320"
+              ],
+              "title": "Graph Theory",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 204",
+                "SFE 204"
+              ],
+              "title": "Software Architecture & Patterns",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 265"
+              ],
+              "title": "Intro to AI/ML Programming",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Core 2",
+              "title": "Natural Science Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Lab 2",
+              "title": "Natural Science Lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 5,
+          "year": "Junior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "HST Core",
+              "title": "History Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "LIT Core",
+              "title": "Literature Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 3",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 344"
+              ],
+              "title": "Algorithms & Complexity",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 4",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 6,
+          "year": "Junior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "CSC elective 1",
+              "title": "SFE/CSC Elective",
+              "footnotes": [
+                1
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 335"
+              ],
+              "title": "Junior Seminar",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 310"
+              ],
+              "title": "Programming Languages",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 305"
+              ],
+              "title": "Virtue, Technology & Society",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ART core",
+              "title": "Art core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "wildcard",
+              "subject": "CSC",
+              "prefix": "39",
+              "title": "Web Dev",
+              "footnotes": [
+                4
+              ],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 7,
+          "year": "Senior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 401"
+              ],
+              "title": "Comp Arch and Oper Sys",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "CSC elective 2",
+              "title": "SFE/CSC Elective",
+              "footnotes": [
+                1
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "SS Core",
+              "title": "Social Sci core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 2",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 438"
+              ],
+              "title": "Senior Capstone Project I",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 8,
+          "year": "Senior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "Elective 3",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 4",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 5",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 5",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 2
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 439"
+              ],
+              "title": "Senior Capstone Project II",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 14,
+          "credits": 14
+        }
+      ],
+      "footnotes": {
+        "1": "CSC/SFE Elective: Any CSC/SFE 2x or above course not a prerequisite for a required course.",
+        "2": "Stats Elective: ECO 212 or MTH 204 or PSY 204 or MTH 401",
+        "3": "The fifth semester is best suited for a semester abroad at our Gaming, Austria campus. This semester abroad would normally consist of SFE 401 (online) + 4x Core courses (See Austria Campus listings). This normatively requires pre-planning. Please work with an academic advisor.",
+        "4": "Web Development requirement can be met with CSC 381 or CSC 382."
+      },
+      "totalCredits": 124,
+      "sourceFile": "CSC Program Guide 2025.xlsx"
+    },
+    {
+      "sheet": "CSC+CySec '25+",
+      "title": "Computer Science + Cybersecurity Concentration",
+      "semesters": [
+        {
+          "semester": 1,
+          "year": "Freshman",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 144"
+              ],
+              "title": "Obj Oriented Prog",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 142"
+              ],
+              "title": "Obj Oriented Prog Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 1",
+              "title": "PHL 212 Found. of Ethics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 161"
+              ],
+              "title": "Analy Geom and Calc I",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "slot",
+              "label": "CST Elective",
+              "title": "SCI x47 Cath, Sci &Technology",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "AFP Core",
+              "title": "AFP Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 171"
+              ],
+              "title": "Matrix I",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 2,
+          "year": "Freshman",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 145"
+              ],
+              "title": "Data Structures",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 172"
+              ],
+              "title": "Matrix II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "Stats Elective",
+              "title": "Statistics Elective",
+              "footnotes": [
+                2
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 128"
+              ],
+              "title": "Linux & Scripting",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 2",
+              "title": "Philosophy Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ECO Core",
+              "title": "Economics Core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 3,
+          "year": "Sophomore",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 240"
+              ],
+              "title": "Intro to Cybersecurity and Networking",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 220"
+              ],
+              "title": "Discrete Mathematics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 261"
+              ],
+              "title": "Database Systems",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 276"
+              ],
+              "title": "Intro to Dist and Cloud Comp.",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Core 1",
+              "title": "Natural Science Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Lab 1",
+              "title": "Natural Science Lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 4,
+          "year": "Sophomore",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 204"
+              ],
+              "title": "Software Architecture and Patterns",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 320"
+              ],
+              "title": "Graph Theory",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 1",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 265"
+              ],
+              "title": "Intro to AI/ML Programming",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Core 2",
+              "title": "Natural Science Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Lab 2",
+              "title": "Natural Science Lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 5,
+          "year": "Junior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 330",
+                "CSC 330"
+              ],
+              "title": "Cryptography",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "LIT Core",
+              "title": "Literature Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 3",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 344"
+              ],
+              "title": "Algorithms & Complexity",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 4",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 6,
+          "year": "Junior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "wildcard",
+              "subject": "SFE",
+              "prefix": "36",
+              "title": "Cybersecurity Elective 1",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 335"
+              ],
+              "title": "Junior Seminar",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 310"
+              ],
+              "title": "Programming Languages",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 305"
+              ],
+              "title": "Virtue, Technology & Society",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ART core",
+              "title": "Art core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "wildcard",
+              "subject": "CSC",
+              "prefix": "38",
+              "title": "Web Dev",
+              "footnotes": [
+                4
+              ],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 7,
+          "year": "Senior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 401"
+              ],
+              "title": "Comp Arch and Oper Sys",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "SS Core",
+              "title": "Social Sci core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 2",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 438"
+              ],
+              "title": "Senior Capstone Project I",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "HST Core",
+              "title": "History Core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 8,
+          "year": "Senior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "wildcard",
+              "subject": "SFE",
+              "prefix": "36",
+              "title": "Cybersecurity Elective 2",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 3",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 5",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 4",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 2
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 439"
+              ],
+              "title": "Senior Capstone Project II",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 14,
+          "credits": 14
+        }
+      ],
+      "footnotes": {
+        "1": "CSC/SFE Elective: Any CSC/SFE 2x or above course not a prerequisite for a required course.",
+        "2": "Stats Elective: ECO 212 or MTH 204 or PSY 204 or MTH 401",
+        "3": "The fifth semester is best suited for a semester abroad at our Gaming, Austria campus. This semester abroad would normally consist of SFE 401 (online) + 4x Core courses (See Austria Campus listings). This normatively requires pre-planning. Please work with an academic advisor.",
+        "4": "Web Development requirement can be met with CSC 381 or CSC 382."
+      },
+      "totalCredits": 124,
+      "sourceFile": "CSC Program Guide 2025.xlsx"
+    },
+    {
+      "sheet": "CSC '25+ Gaming",
+      "title": "Computer Science",
+      "semesters": [
+        {
+          "semester": 1,
+          "year": "Freshman",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 144"
+              ],
+              "title": "Obj Oriented Prog",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 142"
+              ],
+              "title": "Obj Oriented Prog Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 1",
+              "title": "PHL 212 Found. of Ethics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 161"
+              ],
+              "title": "Analy Geom and Calc I",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "slot",
+              "label": "CST Elective",
+              "title": "SCI x47 Cath, Sci &Technology",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "AFP Core",
+              "title": "AFP Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 171"
+              ],
+              "title": "Matrix I",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 2,
+          "year": "Freshman",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 145"
+              ],
+              "title": "Data Structures",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 172"
+              ],
+              "title": "Matrix II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "Stats Elective",
+              "title": "Statistics Elective",
+              "footnotes": [
+                2
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 128"
+              ],
+              "title": "Linux & Scripting",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 2",
+              "title": "Philosophy Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ECO Core",
+              "title": "Economics Core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 3,
+          "year": "Sophomore",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 240"
+              ],
+              "title": "Intro to Cybersecurity and Networking",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 220"
+              ],
+              "title": "Discrete Mathematics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 261"
+              ],
+              "title": "Database Systems",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 276"
+              ],
+              "title": "Intro to Dist and Cloud Comp.",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Core 1",
+              "title": "Natural Science Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Lab 1",
+              "title": "Natural Science Lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 4,
+          "year": "Sophomore",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "Elective 1",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 320"
+              ],
+              "title": "Graph Theory",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 204",
+                "SFE 204"
+              ],
+              "title": "Software Architecture and Patterns",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 265"
+              ],
+              "title": "Intro to AI/ML Programming",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Core 2",
+              "title": "Natural Science Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Nat Sc Lab 2",
+              "title": "Natural Science Lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 5,
+          "year": "Junior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "HST Core",
+              "title": "History Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "LIT Core",
+              "title": "Literature Core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 3",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 4",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 401"
+              ],
+              "title": "Comp Arch and Oper Sys",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 6,
+          "year": "Junior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "CSC elective 1",
+              "title": "SFE/CSC Elective",
+              "footnotes": [
+                1
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 335"
+              ],
+              "title": "Junior Seminar",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 310"
+              ],
+              "title": "Programming Languages",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 305"
+              ],
+              "title": "Virtue, Technology & Society",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ART core",
+              "title": "Art core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "wildcard",
+              "subject": "CSC",
+              "prefix": "38",
+              "title": "Web Dev",
+              "footnotes": [
+                4
+              ],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 7,
+          "year": "Senior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 344"
+              ],
+              "title": "Algorithms & Complexity",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "CSC elective 2",
+              "title": "SFE/CSC Elective",
+              "footnotes": [
+                1
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "SS Core",
+              "title": "Social Sci core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 2",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 438"
+              ],
+              "title": "Senior Capstone Project I",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 8,
+          "year": "Senior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "Elective 3",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 4",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 5",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Elective 5",
+              "title": "General Elective",
+              "footnotes": [],
+              "credits": 2
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 439"
+              ],
+              "title": "Senior Capstone Project II",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 14,
+          "credits": 14
+        }
+      ],
+      "footnotes": {
+        "1": "CSC/SFE Elective: Any CSC/SFE 2x or above course not a prerequisite for a required course.",
+        "2": "Stats Elective: ECO 212 or MTH 204 or PSY 204 or MTH 401",
+        "3": "The fifth semester is best suited for a semester abroad at our Gaming, Austria campus. This semester abroad would normally consist of SFE 401 (online) + 4x Core courses (See Austria Campus listings). This normatively requires pre-planning. Please work with an academic advisor.",
+        "4": "Web Development requirement can be met with CSC 381 or CSC 382."
+      },
+      "totalCredits": 124,
+      "sourceFile": "CSC Program Guide 2025.xlsx"
+    },
+    {
+      "sheet": "SFE'25+",
+      "title": "Software Engineering",
+      "semesters": [
+        {
+          "semester": 1,
+          "year": "Freshman",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 144"
+              ],
+              "title": "Obj Oriented Prog",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 142"
+              ],
+              "title": "Obj Oriented Prog Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 102"
+              ],
+              "title": "Intro to Engr Analysis",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 161"
+              ],
+              "title": "Analy Geom and Calc I",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 171"
+              ],
+              "title": "Matrix I",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHL 212"
+              ],
+              "title": "Foundations of Ethics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 147"
+              ],
+              "title": "Cath, Sci, & Tech I",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 112"
+              ],
+              "title": "Intro SFE",
+              "footnotes": [],
+              "credits": 2
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 2,
+          "year": "Freshman",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 145"
+              ],
+              "title": "Data Structures",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 160"
+              ],
+              "title": "EGR analysis",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 162"
+              ],
+              "title": "Analy Geom and Calc II",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 172"
+              ],
+              "title": "Matrix II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 220"
+              ],
+              "title": "Physics I",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 128"
+              ],
+              "title": "Linux and Scripting",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 17,
+          "credits": 17
+        },
+        {
+          "semester": 3,
+          "year": "Sophomore",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 220"
+              ],
+              "title": "Discrete Math",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 247"
+              ],
+              "title": "Cath, Sci, & Tech II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 224"
+              ],
+              "title": "Requirements Analysis",
+              "footnotes": [
+                1
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 240"
+              ],
+              "title": "Intro Cybersecurity & Networking",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 261"
+              ],
+              "title": "Database Systems",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "SS Core",
+              "title": "Social Sci core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 221"
+              ],
+              "title": "Physics I lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 17,
+          "credits": 17
+        },
+        {
+          "semester": 4,
+          "year": "Sophomore",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 204"
+              ],
+              "title": "Software Arch & Patterns",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 333"
+              ],
+              "title": "Intermed Linear Alg",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 224"
+              ],
+              "title": "Physics III",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 225"
+              ],
+              "title": "Physics III lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 1",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 2",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 5,
+          "year": "Junior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "CySec Elective",
+              "title": "Security Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ECO core",
+              "title": "Econ Core Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 230"
+              ],
+              "title": "Intro EE",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 347"
+              ],
+              "title": "Cath, Sci, & Tech III",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 340"
+              ],
+              "title": "Math Foundations of AI",
+              "footnotes": [],
+              "credits": 2
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 401"
+              ],
+              "title": "Comp Arch and Oper Sys",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 6,
+          "year": "Junior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "SFE elective 2",
+              "title": "SFE/CSC Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "AFP core",
+              "title": "AFP core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 305"
+              ],
+              "title": "Virtue, Tech & Society",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 384"
+              ],
+              "title": "Softw Proc & Qual Assur",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 385"
+              ],
+              "title": "Softw Proc & QA Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 3",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 7,
+          "year": "Senior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 438"
+              ],
+              "title": "Sr Capstone I",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "MATH/SCI Elec",
+              "title": "Math or Nat Sci Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 447"
+              ],
+              "title": "Cath, Sci, & Tech IV",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "SFE elective 3",
+              "title": "SFE/CSC Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Stats elec",
+              "title": "Prob & Statistics Elective",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 13,
+          "credits": 13
+        },
+        {
+          "semester": 8,
+          "year": "Senior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 439"
+              ],
+              "title": "Sr Capstone II",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ART core",
+              "title": "Art core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "HST core",
+              "title": "History core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Lit core",
+              "title": "Lit core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 4",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        }
+      ],
+      "footnotes": {
+        "1": "SFE204 is often offered only every other year. Please check with an advisor.",
+        "2": "The fifth semester is best suited for a semester abroad at our Gaming, Austria campus. This semester abroad would normally consist of SFE 401 (online) + 4x Core courses (See Austria Campus listings). This normatively requires pre-planning. Please work with an academic advisor.",
+        "3": "Statistics electives are MTH/PSY 204, BUS 112 or MTH 401"
+      },
+      "totalCredits": 125,
+      "sourceFile": "SFE Program Guide 2025.xlsx"
+    },
+    {
+      "sheet": "SFE+CySec'25+",
+      "title": "Software Engineering + Cybersecurity Concentration",
+      "semesters": [
+        {
+          "semester": 1,
+          "year": "Freshman",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 144"
+              ],
+              "title": "Obj Oriented Prog",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 142"
+              ],
+              "title": "Obj Oriented Prog Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 102"
+              ],
+              "title": "Intro to Engr Analysis",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 161"
+              ],
+              "title": "Analy Geom and Calc I",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 171"
+              ],
+              "title": "Matrix I",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHL 212"
+              ],
+              "title": "Foundations of Ethics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 147"
+              ],
+              "title": "Cath, Sci, & Tech I",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 112"
+              ],
+              "title": "Intro SFE",
+              "footnotes": [],
+              "credits": 2
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 2,
+          "year": "Freshman",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 145"
+              ],
+              "title": "Data Structures",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 160"
+              ],
+              "title": "EGR analysis",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 162"
+              ],
+              "title": "Analy Geom and Calc II",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 172"
+              ],
+              "title": "Matrix II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 220"
+              ],
+              "title": "Physics I",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 128"
+              ],
+              "title": "Linux and Scripting",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 17,
+          "credits": 17
+        },
+        {
+          "semester": 3,
+          "year": "Sophomore",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 220"
+              ],
+              "title": "Discrete Math",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 247"
+              ],
+              "title": "Cath, Sci, & Tech II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 224"
+              ],
+              "title": "Requirements Analysis",
+              "footnotes": [
+                1
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 240"
+              ],
+              "title": "Intro Cybersecurity & Networking",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 261"
+              ],
+              "title": "Database Systems",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "SS Core",
+              "title": "Social Sci core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 221"
+              ],
+              "title": "Physics I lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 17,
+          "credits": 17
+        },
+        {
+          "semester": 4,
+          "year": "Sophomore",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 204"
+              ],
+              "title": "Software Arch & Patterns",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 333"
+              ],
+              "title": "Intermed Linear Alg",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 224"
+              ],
+              "title": "Physics III",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 225"
+              ],
+              "title": "Physics III lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 1",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 2",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 5,
+          "year": "Junior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 330"
+              ],
+              "title": "Cryptography",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ECO core",
+              "title": "Econ Core Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 230"
+              ],
+              "title": "Intro EE",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 347"
+              ],
+              "title": "Cath, Sci, & Tech III",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 340"
+              ],
+              "title": "Math Foundations of AI",
+              "footnotes": [],
+              "credits": 2
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 401"
+              ],
+              "title": "Comp Arch and Oper Sys",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 6,
+          "year": "Junior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 364"
+              ],
+              "title": "System Security",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "AFP core",
+              "title": "AFP core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 305"
+              ],
+              "title": "Virtue, Tech & Society",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 384"
+              ],
+              "title": "Softw Proc & Qual Assur",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 385"
+              ],
+              "title": "Softw Proc & QA Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 3",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 7,
+          "year": "Senior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 438"
+              ],
+              "title": "Sr Capstone I",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 366"
+              ],
+              "title": "Software Security",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 447"
+              ],
+              "title": "Cath, Sci, & Tech IV",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 4",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Stats elec",
+              "title": "Prob & Stats Elective",
+              "footnotes": [
+                3
+              ],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 13,
+          "credits": 13
+        },
+        {
+          "semester": 8,
+          "year": "Senior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 439"
+              ],
+              "title": "Sr Capstone II",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ART core",
+              "title": "Art core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "HST core",
+              "title": "History core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Lit core",
+              "title": "Lit core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 365"
+              ],
+              "title": "Network Security",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        }
+      ],
+      "footnotes": {
+        "1": "SFE204 is often offered only every other year. Please check with an advisor.",
+        "2": "The fifth semester is best suited for a semester abroad at our Gaming, Austria campus. This semester abroad would normally consist of SFE 401 (online) + 4x Core courses (See Austria Campus listings). This normatively requires pre-planning. Please work with an academic advisor.",
+        "3": "Statistics electives are MTH/PSY 204, BUS 112 or MTH 401"
+      },
+      "totalCredits": 125,
+      "sourceFile": "SFE Program Guide 2025.xlsx"
+    },
+    {
+      "sheet": "SFE'25+ Gaming",
+      "title": "Software Engineering",
+      "semesters": [
+        {
+          "semester": 1,
+          "year": "Freshman",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 144"
+              ],
+              "title": "Obj Oriented Prog",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 142"
+              ],
+              "title": "Obj Oriented Prog Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 102"
+              ],
+              "title": "Intro to Engr Analysis",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 161"
+              ],
+              "title": "Analy Geom and Calc I",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 171"
+              ],
+              "title": "Matrix I",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHL 212"
+              ],
+              "title": "Foundations of Ethics",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 147"
+              ],
+              "title": "Cath, Sci, & Tech I",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 112"
+              ],
+              "title": "Intro SFE",
+              "footnotes": [],
+              "credits": 2
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 2,
+          "year": "Freshman",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "CSC 145"
+              ],
+              "title": "Data Structures",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 160"
+              ],
+              "title": "EGR analysis",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 162"
+              ],
+              "title": "Analy Geom and Calc II",
+              "footnotes": [],
+              "credits": 4
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 172"
+              ],
+              "title": "Matrix II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 220"
+              ],
+              "title": "Physics I",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 128"
+              ],
+              "title": "Linux and Scripting",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 17,
+          "credits": 17
+        },
+        {
+          "semester": 3,
+          "year": "Sophomore",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 220"
+              ],
+              "title": "Discrete Math",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 247"
+              ],
+              "title": "Cath, Sci, & Tech II",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 224"
+              ],
+              "title": "Requirements Analysis",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 240"
+              ],
+              "title": "Intro Cybersecurity & Networking",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 261"
+              ],
+              "title": "Database Systems",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "SS Core",
+              "title": "Social Sci core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 221"
+              ],
+              "title": "Physics I lab",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 17,
+          "credits": 17
+        },
+        {
+          "semester": 4,
+          "year": "Sophomore",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 204"
+              ],
+              "title": "Software Arch & Patterns",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "MTH 333"
+              ],
+              "title": "Intermed Linear Alg",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 224"
+              ],
+              "title": "Physics III",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "PHY 225"
+              ],
+              "title": "Physics III lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 1",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ECO core",
+              "title": "Econ Core Elective",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 16,
+          "credits": 16
+        },
+        {
+          "semester": 5,
+          "year": "Junior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "THE/PHL 2",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 3",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "THE/PHL 4",
+              "title": "THE/PHL core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Lit core",
+              "title": "Lit core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 401"
+              ],
+              "title": "Comp Arch and Oper Sys",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 6,
+          "year": "Junior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "slot",
+              "label": "SFE elective 2",
+              "title": "SFE/CSC Elective",
+              "footnotes": [
+                4
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "CySec Elective",
+              "title": "Security Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 305"
+              ],
+              "title": "Virtue, Tech & Society",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 384"
+              ],
+              "title": "Softw Proc & Qual Assur",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 385"
+              ],
+              "title": "Softw Proc & QA Lab",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 347"
+              ],
+              "title": "Cath, Sci, & Tech III",
+              "footnotes": [],
+              "credits": 1
+            }
+          ],
+          "statedCredits": 14,
+          "credits": 14
+        },
+        {
+          "semester": 7,
+          "year": "Senior",
+          "season": "Fall",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 438"
+              ],
+              "title": "Sr Capstone I",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 340"
+              ],
+              "title": "Math Foundations of AI",
+              "footnotes": [],
+              "credits": 2
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "EGR 230"
+              ],
+              "title": "Intro EE",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "course",
+              "codes": [
+                "SCI 447"
+              ],
+              "title": "Cath, Sci, & Tech IV",
+              "footnotes": [],
+              "credits": 1
+            },
+            {
+              "kind": "slot",
+              "label": "SFE elective 3",
+              "title": "SFE/CSC Elective",
+              "footnotes": [
+                4
+              ],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "Stats elec",
+              "title": "Prob & Statistics Elective",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        },
+        {
+          "semester": 8,
+          "year": "Senior",
+          "season": "Spring",
+          "seasonSource": "position",
+          "entries": [
+            {
+              "kind": "course",
+              "codes": [
+                "SFE 439"
+              ],
+              "title": "Sr Capstone II",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "MATH/SC Elec",
+              "title": "Math or Nat Sci Elective",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "ART core",
+              "title": "Art core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "HST core",
+              "title": "History core",
+              "footnotes": [],
+              "credits": 3
+            },
+            {
+              "kind": "slot",
+              "label": "AFP core",
+              "title": "AFP core",
+              "footnotes": [],
+              "credits": 3
+            }
+          ],
+          "statedCredits": 15,
+          "credits": 15
+        }
+      ],
+      "footnotes": {
+        "1": "SFE204 is often offered only every other year. Please check with an advisor.",
+        "2": "The fifth semester is best suited for a semester abroad at our Gaming, Austria campus. This semester abroad would normally consist of SFE 401 (online) + 4x Core courses (See Austria Campus listings). This normatively requires pre-planning. Please work with an academic advisor.",
+        "3": "Statistics electives are MTH/PSY 204, BUS 112 or MTH 401",
+        "4": "CSC/SFE Elective: Any CSC/SFE 2x or above course not a prerequisite for a required course."
+      },
+      "totalCredits": 125,
+      "sourceFile": "SFE Program Guide 2025.xlsx"
+    }
+  ],
+  "seasonHints": {
+    "CSC 144": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 1",
+        "CSC+CySec '25+ sem 1",
+        "CSC '25+ Gaming sem 1",
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "CSC 142": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 1",
+        "CSC+CySec '25+ sem 1",
+        "CSC '25+ Gaming sem 1",
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "MTH 161": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 1",
+        "CSC+CySec '25+ sem 1",
+        "CSC '25+ Gaming sem 1",
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "MTH 171": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 1",
+        "CSC+CySec '25+ sem 1",
+        "CSC '25+ Gaming sem 1",
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "CSC 145": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 2",
+        "CSC+CySec '25+ sem 2",
+        "CSC '25+ Gaming sem 2",
+        "SFE'25+ sem 2",
+        "SFE+CySec'25+ sem 2",
+        "SFE'25+ Gaming sem 2"
+      ]
+    },
+    "MTH 172": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 2",
+        "CSC+CySec '25+ sem 2",
+        "CSC '25+ Gaming sem 2",
+        "SFE'25+ sem 2",
+        "SFE+CySec'25+ sem 2",
+        "SFE'25+ Gaming sem 2"
+      ]
+    },
+    "SFE 128": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 2",
+        "CSC+CySec '25+ sem 2",
+        "CSC '25+ Gaming sem 2",
+        "SFE'25+ sem 2",
+        "SFE+CySec'25+ sem 2",
+        "SFE'25+ Gaming sem 2"
+      ]
+    },
+    "SFE 240": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 3",
+        "CSC+CySec '25+ sem 3",
+        "CSC '25+ Gaming sem 3",
+        "SFE'25+ sem 3",
+        "SFE+CySec'25+ sem 3",
+        "SFE'25+ Gaming sem 3"
+      ]
+    },
+    "MTH 220": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 3",
+        "CSC+CySec '25+ sem 3",
+        "CSC '25+ Gaming sem 3",
+        "SFE'25+ sem 3",
+        "SFE+CySec'25+ sem 3",
+        "SFE'25+ Gaming sem 3"
+      ]
+    },
+    "CSC 261": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 3",
+        "CSC+CySec '25+ sem 3",
+        "CSC '25+ Gaming sem 3"
+      ]
+    },
+    "CSC 276": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 3",
+        "CSC+CySec '25+ sem 3",
+        "CSC '25+ Gaming sem 3"
+      ]
+    },
+    "MTH 320": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 4",
+        "CSC+CySec '25+ sem 4",
+        "CSC '25+ Gaming sem 4"
+      ]
+    },
+    "CSC 204": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 4",
+        "CSC+CySec '25+ sem 4",
+        "CSC '25+ Gaming sem 4"
+      ]
+    },
+    "SFE 204": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 4",
+        "CSC '25+ Gaming sem 4",
+        "SFE'25+ sem 4",
+        "SFE+CySec'25+ sem 4",
+        "SFE'25+ Gaming sem 4"
+      ]
+    },
+    "CSC 265": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 4",
+        "CSC+CySec '25+ sem 4",
+        "CSC '25+ Gaming sem 4"
+      ]
+    },
+    "CSC 344": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 5",
+        "CSC+CySec '25+ sem 5",
+        "CSC '25+ Gaming sem 7"
+      ]
+    },
+    "CSC 335": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 6",
+        "CSC+CySec '25+ sem 6",
+        "CSC '25+ Gaming sem 6"
+      ]
+    },
+    "CSC 310": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 6",
+        "CSC+CySec '25+ sem 6",
+        "CSC '25+ Gaming sem 6"
+      ]
+    },
+    "SFE 305": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 6",
+        "CSC+CySec '25+ sem 6",
+        "CSC '25+ Gaming sem 6",
+        "SFE'25+ sem 6",
+        "SFE+CySec'25+ sem 6",
+        "SFE'25+ Gaming sem 6"
+      ]
+    },
+    "CSC 401": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 7",
+        "CSC+CySec '25+ sem 7",
+        "CSC '25+ Gaming sem 5"
+      ]
+    },
+    "CSC 438": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC '25+ sem 7",
+        "CSC+CySec '25+ sem 7",
+        "CSC '25+ Gaming sem 7"
+      ]
+    },
+    "CSC 439": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "CSC '25+ sem 8",
+        "CSC+CySec '25+ sem 8",
+        "CSC '25+ Gaming sem 8"
+      ]
+    },
+    "MTH 330": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC+CySec '25+ sem 5",
+        "SFE+CySec'25+ sem 5"
+      ]
+    },
+    "CSC 330": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "CSC+CySec '25+ sem 5"
+      ]
+    },
+    "EGR 102": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "PHL 212": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "SCI 147": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "SFE 112": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 1",
+        "SFE+CySec'25+ sem 1",
+        "SFE'25+ Gaming sem 1"
+      ]
+    },
+    "EGR 160": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 2",
+        "SFE+CySec'25+ sem 2",
+        "SFE'25+ Gaming sem 2"
+      ]
+    },
+    "MTH 162": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 2",
+        "SFE+CySec'25+ sem 2",
+        "SFE'25+ Gaming sem 2"
+      ]
+    },
+    "PHY 220": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 2",
+        "SFE+CySec'25+ sem 2",
+        "SFE'25+ Gaming sem 2"
+      ]
+    },
+    "SCI 247": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 3",
+        "SFE+CySec'25+ sem 3",
+        "SFE'25+ Gaming sem 3"
+      ]
+    },
+    "SFE 224": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 3",
+        "SFE+CySec'25+ sem 3",
+        "SFE'25+ Gaming sem 3"
+      ]
+    },
+    "SFE 261": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 3",
+        "SFE+CySec'25+ sem 3",
+        "SFE'25+ Gaming sem 3"
+      ]
+    },
+    "PHY 221": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 3",
+        "SFE+CySec'25+ sem 3",
+        "SFE'25+ Gaming sem 3"
+      ]
+    },
+    "MTH 333": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 4",
+        "SFE+CySec'25+ sem 4",
+        "SFE'25+ Gaming sem 4"
+      ]
+    },
+    "PHY 224": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 4",
+        "SFE+CySec'25+ sem 4",
+        "SFE'25+ Gaming sem 4"
+      ]
+    },
+    "PHY 225": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 4",
+        "SFE+CySec'25+ sem 4",
+        "SFE'25+ Gaming sem 4"
+      ]
+    },
+    "EGR 230": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 5",
+        "SFE+CySec'25+ sem 5",
+        "SFE'25+ Gaming sem 7"
+      ]
+    },
+    "SCI 347": {
+      "seasons": [
+        "Spring",
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 5",
+        "SFE+CySec'25+ sem 5",
+        "SFE'25+ Gaming sem 6"
+      ]
+    },
+    "SFE 340": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 5",
+        "SFE+CySec'25+ sem 5",
+        "SFE'25+ Gaming sem 7"
+      ]
+    },
+    "SFE 401": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 5",
+        "SFE+CySec'25+ sem 5",
+        "SFE'25+ Gaming sem 5"
+      ]
+    },
+    "SFE 384": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 6",
+        "SFE+CySec'25+ sem 6",
+        "SFE'25+ Gaming sem 6"
+      ]
+    },
+    "SFE 385": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 6",
+        "SFE+CySec'25+ sem 6",
+        "SFE'25+ Gaming sem 6"
+      ]
+    },
+    "SFE 438": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 7",
+        "SFE+CySec'25+ sem 7",
+        "SFE'25+ Gaming sem 7"
+      ]
+    },
+    "SCI 447": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE'25+ sem 7",
+        "SFE+CySec'25+ sem 7",
+        "SFE'25+ Gaming sem 7"
+      ]
+    },
+    "SFE 439": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE'25+ sem 8",
+        "SFE+CySec'25+ sem 8",
+        "SFE'25+ Gaming sem 8"
+      ]
+    },
+    "SFE 364": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE+CySec'25+ sem 6"
+      ]
+    },
+    "SFE 366": {
+      "seasons": [
+        "Fall"
+      ],
+      "plans": [
+        "SFE+CySec'25+ sem 7"
+      ]
+    },
+    "SFE 365": {
+      "seasons": [
+        "Spring"
+      ],
+      "plans": [
+        "SFE+CySec'25+ sem 8"
+      ]
+    }
+  }
+}

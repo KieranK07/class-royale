@@ -1,0 +1,746 @@
+{
+  "department": "Theatre",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Theatre (Literature Concentration), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theatre/theatre-dramatic-literature-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THR 111"
+          ],
+          "title": "Theatre History I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 112"
+          ],
+          "title": "Theatre History II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 120"
+          ],
+          "title": "Stagecraft",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 210",
+            "FLM 210"
+          ],
+          "title": "Fundamentals of Acting I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 220"
+          ],
+          "title": "Theatre Practicum",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 340",
+            "FLM 340"
+          ],
+          "title": "Principles of Directing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 385"
+          ],
+          "title": "Theatre Literature I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 386"
+          ],
+          "title": "Theatre Literature II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 420"
+          ],
+          "title": "Theory of Theatre",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 450"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Theatre Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 324"
+          ],
+          "title": "Shakespeare's Histories and Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 350"
+          ],
+          "title": "Modern Drama",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Theatre History I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 111"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Theatre History II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Stagecraft",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 120"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Fundamentals of Acting I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 210",
+            "FLM 210"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Theatre Practicum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 220"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Principles of Directing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 340",
+            "FLM 340"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Theatre Literature I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 385"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Theatre Literature II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 386"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Theory of Theatre",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 420"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 450"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Theatre Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Shakespeare's Histories and Comedies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 324"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Modern Drama",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 350"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Theatre Major-Dramatic Literature Concentration:",
+          "text": "Theatre majors are required to participate in at least two University productions during the completion of the degree, earning a maximum of 6 credit hours. At least one hour of theatre practicum must be earned by completion of a faculty-approved dramaturgy project.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Theatre (Performance Concentration), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theatre/theatre-performance-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THR 111"
+          ],
+          "title": "Theatre History I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 112"
+          ],
+          "title": "Theatre History II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 120"
+          ],
+          "title": "Stagecraft",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 210",
+            "FLM 210"
+          ],
+          "title": "Fundamentals of Acting I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 220"
+          ],
+          "title": "Theatre Practicum",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 330"
+          ],
+          "title": "Design for the Theatre",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 340",
+            "FLM 340"
+          ],
+          "title": "Principles of Directing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 385"
+          ],
+          "title": "Theatre Literature I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 386"
+          ],
+          "title": "Theatre Literature II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 410"
+          ],
+          "title": "Advanced Directing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 420"
+          ],
+          "title": "Theory of Theatre",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 440"
+          ],
+          "title": "Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 450"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Theatre Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Theatre History I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 111"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Theatre History II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Stagecraft",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 120"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Fundamentals of Acting I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 210",
+            "FLM 210"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Theatre Practicum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 220"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Design for the Theatre",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 330"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Principles of Directing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 340",
+            "FLM 340"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Theatre Literature I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 385"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Theatre Literature II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 386"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Advanced Directing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 410"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Theory of Theatre",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 420"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Production",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 440"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 450"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Theatre Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Theatre Major-Performance Concentration:",
+          "text": "Theatre majors are required to participate in at least two University productions during the completion of the degree, earning a maximum of 6 credit hours. At least one hour of theatre practicum must be earned by completion of a tech assignment, such as service on a stage crew.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Theatre Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theatre/theatre-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THR 111"
+          ],
+          "title": "Theatre History I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 112"
+          ],
+          "title": "Theatre History II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 120"
+          ],
+          "title": "Stagecraft",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 210",
+            "FLM 210"
+          ],
+          "title": "Fundamentals of Acting I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 340",
+            "FLM 340"
+          ],
+          "title": "Principles of Directing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Theatre History I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 111"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Theatre History II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Stagecraft",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 120"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Fundamentals of Acting I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 210",
+            "FLM 210"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Principles of Directing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 340",
+            "FLM 340"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

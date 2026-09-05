@@ -1,0 +1,1161 @@
+{
+  "department": "Nursing",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Nursing, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/nursing/nursing-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "NUR 201"
+          ],
+          "title": "Nursing From Concepts To Practice",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 204"
+          ],
+          "title": "Foundations in Nursing Process and Nursing Practice",
+          "credits": 5,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 206"
+          ],
+          "title": "Health Assessments",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 303"
+          ],
+          "title": "Medical Surgical Nursing",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 304"
+          ],
+          "title": "Psychiatric Mental Health Nursing",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 311"
+          ],
+          "title": "Family-Centered Maternity Nursing",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 312"
+          ],
+          "title": "Family-Centered Nursing Care of the Child",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 401"
+          ],
+          "title": "Family-Centered Community Health Nursing",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 402"
+          ],
+          "title": "Family-Centered Nursing Care of Clients with Complex Health Problems",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 403"
+          ],
+          "title": "Leadership and Management Processes in the Practice of Nursing",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 404"
+          ],
+          "title": "Research in Nursing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 435"
+          ],
+          "title": "Research Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 134"
+          ],
+          "title": "Anatomy and Physiology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 217"
+          ],
+          "title": "Medical Microbiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 204"
+          ],
+          "title": "Pathophysiology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 215"
+          ],
+          "title": "Nutrition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 110"
+          ],
+          "title": "Chemistry with Biological and Medical Applications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 114"
+          ],
+          "title": "Introductory Physiological Chemistry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 115"
+          ],
+          "title": "Chemistry with Biological and Medical Applications Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 118"
+          ],
+          "title": "Introductory Physiological Chemistry Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 140"
+          ],
+          "title": "Survey of Computers",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 231"
+          ],
+          "title": "Nursing Informatics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 207"
+          ],
+          "title": "Psychology of Human Development II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 101"
+          ],
+          "title": "Introductory Sociology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 429"
+          ],
+          "title": "Sexual and Medical Morality",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "History Core",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Nursing From Concepts To Practice",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Foundations in Nursing Process and Nursing Practice",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 204"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Health Assessments",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 206"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Medical Surgical Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 303"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Psychiatric Mental Health Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 304"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Family-Centered Maternity Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 311"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Family-Centered Nursing Care of the Child",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 312"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Family-Centered Community Health Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 401"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Family-Centered Nursing Care of Clients with Complex Health Problems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 402"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Leadership and Management Processes in the Practice of Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 403"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Research in Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 404"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Research Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 435"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Anatomy and Physiology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 133"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Anatomy and Physiology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 134"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Medical Microbiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 217"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Pathophysiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 204"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Nutrition",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 215"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Chemistry with Biological and Medical Applications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 110"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Introductory Physiological Chemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 114"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Chemistry with Biological and Medical Applications Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 115"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Introductory Physiological Chemistry Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 118"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Survey of Computers OR Nursing Informatics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 140",
+            "CSC 231"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Psychology of Human Development I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Psychology of Human Development II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 207"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Introductory Sociology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 101"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Foundations of Catholicism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Sexual and Medical Morality",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 429"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "American Founding Principles Core OR History Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Nursing RN to BSN",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/nursing/nursing-rn-to-bsn",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "NUR 401"
+          ],
+          "title": "Family-Centered Community Health Nursing",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 402"
+          ],
+          "title": "Family-Centered Nursing Care of Clients with Complex Health Problems",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 403"
+          ],
+          "title": "Leadership and Management Processes in the Practice of Nursing",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 404"
+          ],
+          "title": "Research in Nursing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "NUR 435"
+          ],
+          "title": "Research Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 134"
+          ],
+          "title": "Anatomy and Physiology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 204"
+          ],
+          "title": "Pathophysiology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 215"
+          ],
+          "title": "Nutrition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 217"
+          ],
+          "title": "Medical Microbiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 110"
+          ],
+          "title": "Chemistry with Biological and Medical Applications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 114"
+          ],
+          "title": "Introductory Physiological Chemistry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 140"
+          ],
+          "title": "Survey of Computers",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 231"
+          ],
+          "title": "Nursing Informatics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 207"
+          ],
+          "title": "Psychology of Human Development II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Economics Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "History Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 101"
+          ],
+          "title": "Introductory Sociology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 429"
+          ],
+          "title": "Sexual and Medical Morality",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Family-Centered Community Health Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 401"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Family-Centered Nursing Care of Clients with Complex Health Problems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 402"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Leadership and Management Processes in the Practice of Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 403"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Research in Nursing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 404"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Research Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "NUR 435"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Anatomy and Physiology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 133"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Anatomy and Physiology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 134"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Pathophysiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 204"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Nutrition",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 215"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Medical Microbiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 217"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Chemistry with Biological and Medical Applications OR General Chemistry I OR Introductory Physiological Chemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 110",
+            "CHM 111",
+            "CHM 114"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Survey of Computers OR Nursing Informatics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 140",
+            "CSC 231"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Psychology of Human Development I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Psychology of Human Development II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 207"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Economics Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Literature Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "History Core OR American Founding Principles Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Introductory Sociology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 101"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Foundations of Catholicism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Sexual and Medical Morality",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 429"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Degree Requirements",
+          "codes": []
+        },
+        {
+          "section": "Additional BSN Core Requirements",
+          "text": "BSN Literature Core: ENG 211",
+          "codes": [
+            "ENG 211"
+          ]
+        },
+        {
+          "section": null,
+          "text": "Minimum 124 credits required to complete the RN to BSN program. Credits will be transferred according to FUS credit transfer policy.",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Final 30 credits must be taken at Franciscan University. This program can be completed on a part-time or full-time basis.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [
+        "Additional BSN Core Requirements"
+      ],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

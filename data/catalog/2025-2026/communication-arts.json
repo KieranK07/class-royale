@@ -1,0 +1,2662 @@
+{
+  "department": "Communication Arts",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Communication Arts (Digital Broadcasting and Production), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/communication-arts/communication-arts-digital-broadcasting-and-production-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "COM 121"
+          ],
+          "title": "Introduction to Mass Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 122"
+          ],
+          "title": "Media and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 123"
+          ],
+          "title": "Catholic Worldview of Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 243"
+          ],
+          "title": "Digital Broadcast and Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 254"
+          ],
+          "title": "Radio/Television Scriptwriting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 341"
+          ],
+          "title": "Radio and Audio Production I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 342",
+            "FLM 342"
+          ],
+          "title": "Video Production I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 441",
+            "FLM 441"
+          ],
+          "title": "Video Production II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 470"
+          ],
+          "title": "Multimedia Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Four upper-level COM courses",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English/Theatre Communication Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Mass Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 121"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Media and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 122"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Catholic Worldview of Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 123"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Digital Broadcast and Media Production",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 243"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Radio/Television Scriptwriting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 254"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Radio and Audio Production I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 341"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Video Production I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 342",
+            "FLM 342"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 434"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Video Production II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 441",
+            "FLM 441"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Multimedia Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 470"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Four upper-level COM courses",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-11",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "English/Theatre Communication Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-13",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Communication Arts Digital Broadcasting and Production Concentration:",
+          "text": "One upper-level COM elective must be a journalism course: COM 223, COM 265, COM 352, COM 362, COM 365, COM 366, COM 367, COM 368, COM 369, COM 370.",
+          "codes": [
+            "COM 223",
+            "COM 265",
+            "COM 352",
+            "COM 362",
+            "COM 365",
+            "COM 366",
+            "COM 367",
+            "COM 368",
+            "COM 369",
+            "COM 370"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Communication Arts Digital Broadcasting and Production Concentration:",
+          "text": "English/Theatre Communication Elective: THR 210, THR 320, ENG 290, or ENG 320",
+          "codes": [
+            "THR 210",
+            "THR 320",
+            "ENG 290",
+            "ENG 320"
+          ]
+        },
+        {
+          "section": null,
+          "text": "Digital Broadcasting and Production Concentration",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Assessment Learning Goals",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "At the completion of the Digital Broadcasting and Production major, the graduate is able to:",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Communication Arts (Film Studies), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/communication-arts/communication-arts-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "COM 121"
+          ],
+          "title": "Introduction to Mass Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 122"
+          ],
+          "title": "Media and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 123"
+          ],
+          "title": "Catholic Worldview of Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 221"
+          ],
+          "title": "Church and the Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 243"
+          ],
+          "title": "Digital Broadcast and Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 342",
+            "FLM 342"
+          ],
+          "title": "Video Production I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 343"
+          ],
+          "title": "Video Editing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 254"
+          ],
+          "title": "Radio/Television Scriptwriting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 325",
+            "FLM 325"
+          ],
+          "title": "Cinema Studies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 345",
+            "FLM 345"
+          ],
+          "title": "Independent Digital Filmmaking",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 328",
+            "FLM 328"
+          ],
+          "title": "Film Analysis and Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 222",
+            "FLM 222"
+          ],
+          "title": "Critical TV Viewing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 441",
+            "FLM 441"
+          ],
+          "title": "Video Production II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 442",
+            "FLM 442"
+          ],
+          "title": "Digital Multitrack Audio Production II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 444",
+            "FLM 444"
+          ],
+          "title": "Advanced Studies in Digital Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 484",
+            "FLM 484"
+          ],
+          "title": "Creating Motion Graphics and Special Effects",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Communication Arts /Film Studies Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Communication Arts /Film Studies Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "FLM AUX Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 121"
+          ],
+          "title": "Introduction to Mass Media",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Elementary Foreign Language OR Elective",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "COM 122"
+          ],
+          "title": "Media and Society",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "COM 123"
+          ],
+          "title": "Catholic Worldview of Media",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "COM 221"
+          ],
+          "title": "Church and the Media",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Elementary Foreign Language",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "COM 243"
+          ],
+          "title": "Digital Broadcast and Media Production",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "COM 342",
+            "FLM 342"
+          ],
+          "title": "Video Production I",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "FLM 343",
+            "COM 343"
+          ],
+          "title": "Video Editing",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "COM 254"
+          ],
+          "title": "Radio/Television Scriptwriting",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Mathematics Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Economics Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "FLM 325",
+            "COM 325"
+          ],
+          "title": "Cinema Studies",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Communication Arts /Film Studies Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Fine Arts Core 3",
+          "credits": null,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "History Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "FLM 345",
+            "COM 345"
+          ],
+          "title": "Independent Digital Filmmaking",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Communication Arts /Film Studies Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [
+            "FLM 328",
+            "COM 328"
+          ],
+          "title": "Film Analysis and Theory",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "FLM 222",
+            "COM 222"
+          ],
+          "title": "Critical Television Viewing",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "FLM AUX Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "COM 442",
+            "FLM 442"
+          ],
+          "title": "Digital Multitrack Audio Production II",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "COM 444",
+            "FLM 444"
+          ],
+          "title": "Advanced Studies in Digital Media Production",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "COM 484",
+            "FLM 484"
+          ],
+          "title": "Creating Motion Graphics and Special Effects",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "COM 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Mass Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 121"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Media and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 122"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Catholic Worldview of Media OR Church and the Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 123",
+            "COM 221"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Digital Broadcast and Media Production OR Video Production I OR Video Editing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 243",
+            "COM 342",
+            "FLM 342",
+            "COM 343"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Radio/Television Scriptwriting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 254"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Cinema Studies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 325",
+            "FLM 325"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Independent Digital Filmmaking",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 345",
+            "FLM 345"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Film Analysis and Theory OR Critical TV Viewing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 328",
+            "FLM 328",
+            "COM 222",
+            "FLM 222"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Video Production II OR Digital Multitrack Audio Production II OR Advanced Studies in Digital Media Production OR Creating Motion Graphics and Special Effects",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 441",
+            "FLM 441",
+            "COM 442",
+            "FLM 442",
+            "COM 444",
+            "FLM 444",
+            "COM 484",
+            "FLM 484"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 434"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Communication Arts /Film Studies Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Communication Arts /Film Studies Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "FLM AUX Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-13",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Introduction to Mass Media",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 121"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Freshman English I",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Natural Science Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Theology Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Elementary Foreign Language OR Elective",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-19",
+          "label": "Media and Society",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 122"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Catholic Worldview of Media OR Church and the Media",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 123",
+            "COM 221"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Literature Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Philosophy Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-23",
+          "label": "Elementary Foreign Language",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-24",
+          "label": "Digital Broadcast and Media Production OR Video Production I OR Video Editing",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 243",
+            "COM 342",
+            "FLM 342",
+            "FLM 343",
+            "COM 343"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Theology Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-26",
+          "label": "American Founding Principles Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-27",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-28",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-29",
+          "label": "Radio/Television Scriptwriting",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 254"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Mathematics Core OR Economics Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-31",
+          "label": "Natural Science Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-32",
+          "label": "Philosophy Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-33",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-34",
+          "label": "Cinema Studies",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FLM 325",
+            "COM 325"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Communication Arts /Film Studies Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-36",
+          "label": "Fine Arts Core 3",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-37",
+          "label": "History Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-38",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-39",
+          "label": "Independent Digital Filmmaking",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FLM 345",
+            "COM 345"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Communication Arts /Film Studies Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-41",
+          "label": "Philosophy Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-42",
+          "label": "Literature Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-43",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-44",
+          "label": "Film Analysis and Theory OR Critical Television Viewing",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FLM 328",
+            "COM 328",
+            "FLM 222",
+            "COM 222"
+          ]
+        },
+        {
+          "id": "grp-45",
+          "label": "FLM AUX Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-46",
+          "label": "Theology Core",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-47",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-48",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-49",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-50",
+          "label": "Digital Multitrack Audio Production II OR Advanced Studies in Digital Media Production OR Creating Motion Graphics and Special Effects",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 442",
+            "FLM 442",
+            "COM 444",
+            "FLM 444",
+            "COM 484",
+            "FLM 484"
+          ]
+        },
+        {
+          "id": "grp-51",
+          "label": "Senior Thesis",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 434"
+          ]
+        },
+        {
+          "id": "grp-52",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-53",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-54",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "The multi-departmental Film Production Concentration is intended to complement studies for both liberal arts and professional students. Required courses in the program focus on the knowledge and skills necessary for effective production and analysis of cinematic works in a variety of applied settings.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "The required courses provide a balance of the three foundational subject areas: film production, criticism/theory, and history. Students also select electives to match personal areas of interest. The Film Studies concentration is directly suited to the needs of students interested in developing advanced filmmaking-style electronic field production skills, which are sufficiently distinct from both the Digital Broadcasting and Production (DPB) concentration, with its primary emphasis on studio-based multi-camera and live commercial, news, and social-media-style production, and the Multimedia (MM) concentration, with its emphasis on computer-based graphic design and interactive media/web production.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "Course sequence: COM 121, COM 122, COM 123 OR COM 221, COM 243 or COM 342 or COM/FLM 343, COM 254; COM/FLM 325, COM/FLM 222 or COM/FLM 328, COM/FLM 345, COM/FLM 441 or COM/FLM 442 or COM/FLM 444 or COM/FLM 484, COM 434 two additional upper-level COM/FLM courses and one upper-level FLM AUX course.",
+          "codes": [
+            "COM 121",
+            "COM 122",
+            "COM 123",
+            "COM 221",
+            "COM 243",
+            "COM 342",
+            "FLM 343",
+            "COM 254",
+            "FLM 325",
+            "FLM 222",
+            "FLM 328",
+            "FLM 345",
+            "FLM 441",
+            "FLM 442",
+            "FLM 444",
+            "FLM 484",
+            "COM 434"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "FLM AUX elective options include: ART/FLM 206, THR/FLM 210, THR/FLM 314, THR/FLM 340, ENG/FLM 338, FRN/FLM 326, HCC/HST/FLM 412, GRM/FLM 305, GRM/FLM 306, GRM/FLM 333, GRM/FLM 334, or GRM 436 TP: Intro German Cinema.",
+          "codes": [
+            "FLM 206",
+            "FLM 210",
+            "FLM 314",
+            "FLM 340",
+            "FLM 338",
+            "FLM 326",
+            "FLM 412",
+            "FLM 305",
+            "FLM 306",
+            "FLM 333",
+            "FLM 334"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "COM/FLM 325: Course may be taken online. May occasionally be offered in the spring semester.",
+          "codes": [
+            "FLM 325"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "COM/FLM 328: Course may be taken online. May occasionally be offered in the spring semester.",
+          "codes": [
+            "FLM 328"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "COM 444: May occasionally be offered in the fall semester.",
+          "codes": [
+            "COM 444"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree for Communication Arts Film Studies Concentration",
+          "text": "COM 400 Internship is applied as a general elective.",
+          "codes": [
+            "COM 400"
+          ]
+        },
+        {
+          "section": null,
+          "text": "Film Studies Concentration",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Assessment Learning Goals",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "At the completion of the Film Studies concentration, the graduate is able to:",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Communication Arts (Digital Journalism), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/communication-arts/communication-arts-digital-journalism-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "COM 121"
+          ],
+          "title": "Introduction to Mass Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 122"
+          ],
+          "title": "Media and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 123"
+          ],
+          "title": "Catholic Worldview of Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 242",
+            "FLM 242"
+          ],
+          "title": "Radio/Television/Film Performance",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 243"
+          ],
+          "title": "Digital Broadcast and Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 265"
+          ],
+          "title": "News and Public Affairs Reporting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 327"
+          ],
+          "title": "Internet Communication and Web Design",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 346"
+          ],
+          "title": "Podcasting and Social Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 352"
+          ],
+          "title": "Radio/Television News",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 365"
+          ],
+          "title": "Publication Design",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 369"
+          ],
+          "title": "News Editing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 370"
+          ],
+          "title": "Multimedia Journalism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 441",
+            "FLM 441"
+          ],
+          "title": "Video Production II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 470"
+          ],
+          "title": "Multimedia Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Two upper-level COM courses",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 225"
+          ],
+          "title": "Advanced Composition I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Mass Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 121"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Media and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 122"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Catholic Worldview of Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 123"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Radio/Television/Film Performance OR Digital Broadcast and Media Production",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 242",
+            "FLM 242",
+            "COM 243"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "News and Public Affairs Reporting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 265"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Internet Communication and Web Design OR Podcasting and Social Media Production",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 327",
+            "COM 346"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Radio/Television News",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 352"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Publication Design OR News Editing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 365",
+            "COM 369"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Multimedia Journalism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 370"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 434"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Video Production II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 441",
+            "FLM 441"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Multimedia Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 470"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Two upper-level COM courses",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-13",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Advanced Composition I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 225"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Journalism Concentration",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Assessment Learning Goals",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "At the completion of the journalism concentration, the graduate is able to:",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Communication Arts (Multimedia), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/communication-arts/communication-arts-multimedia-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "COM 121"
+          ],
+          "title": "Introduction to Mass Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 122"
+          ],
+          "title": "Media and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 123"
+          ],
+          "title": "Catholic Worldview of Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 243"
+          ],
+          "title": "Digital Broadcast and Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 281"
+          ],
+          "title": "Graphic Design",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 327"
+          ],
+          "title": "Internet Communication and Web Design",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 381"
+          ],
+          "title": "Writing for Interactive Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 384"
+          ],
+          "title": "Digital Photo Compositing and Fine Art",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 482"
+          ],
+          "title": "Designing Interactive Media and Animation",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 484",
+            "FLM 484"
+          ],
+          "title": "Creating Motion Graphics and Special Effects",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Three upper-level COM courses",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ART 118"
+          ],
+          "title": "Painting I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ART 206",
+            "FLM 206"
+          ],
+          "title": "ART Graphic Narrative",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Mass Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 121"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Media and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 122"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Catholic Worldview of Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 123"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Digital Broadcast and Media Production",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 243"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Graphic Design",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 281"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Internet Communication and Web Design",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 327"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Writing for Interactive Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 381"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Digital Photo Compositing and Fine Art",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 384"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 434"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Designing Interactive Media and Animation",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 482"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Creating Motion Graphics and Special Effects",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 484",
+            "FLM 484"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Three upper-level COM courses",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-12",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        },
+        {
+          "id": "grp-14",
+          "label": "Painting I OR ART Graphic Narrative",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ART 118",
+            "ART 206",
+            "FLM 206"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Communication Arts Multimedia Concentration:",
+          "text": "Three upper-level COM courses: one must be a journalism elective",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Multimedia Concentration",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Assessment Learning Goals",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "At the completion of the multimedia concentration, the graduate will be able to:",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Communication Arts Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/communication-arts/communication-arts-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "COM 121"
+          ],
+          "title": "Introduction to Mass Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 122"
+          ],
+          "title": "Media and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 243"
+          ],
+          "title": "Digital Broadcast and Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 265"
+          ],
+          "title": "News and Public Affairs Reporting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 281"
+          ],
+          "title": "Graphic Design",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "200-400 level COM courses",
+          "credits": 9,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Mass Media",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 121"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Media and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 122"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Digital Broadcast and Media Production OR News and Public Affairs Reporting OR Graphic Design",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "COM 243",
+            "COM 265",
+            "COM 281"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "200-400 level COM courses",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Film Studies Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/communication-arts/film-studies-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "FLM 222",
+            "COM 222"
+          ],
+          "title": "Critical Television Viewing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 328",
+            "COM 328"
+          ],
+          "title": "Film Analysis and Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 325",
+            "COM 325"
+          ],
+          "title": "Cinema Studies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 343",
+            "COM 343"
+          ],
+          "title": "Video Editing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 345",
+            "COM 345"
+          ],
+          "title": "Independent Digital Filmmaking",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 444",
+            "COM 444"
+          ],
+          "title": "Advanced Studies in Digital Media Production",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 314",
+            "THR 314"
+          ],
+          "title": "Film Acting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 329",
+            "COM 329"
+          ],
+          "title": "Cinema of India",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 331",
+            "COM 331"
+          ],
+          "title": "Mysteries in Film",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 332",
+            "COM 332"
+          ],
+          "title": "Science Fiction Cinema",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 484",
+            "COM 484"
+          ],
+          "title": "Creating Motion Graphics and Special Effects",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FLM 326",
+            "FRN 326"
+          ],
+          "title": "French Cinema",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Critical Television Viewing OR Film Analysis and Theory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FLM 222",
+            "COM 222",
+            "FLM 328",
+            "COM 328"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Cinema Studies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FLM 325",
+            "COM 325"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Video Editing OR Independent Digital Filmmaking OR Advanced Studies in Digital Media Production",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FLM 343",
+            "COM 343",
+            "FLM 345",
+            "COM 345",
+            "FLM 444",
+            "COM 444"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Three additional upper level film courses from:",
+          "subgroup": null,
+          "count": 3,
+          "unit": "courses",
+          "options": [
+            "FLM 314",
+            "THR 314",
+            "FLM 329",
+            "COM 329",
+            "FLM 331",
+            "COM 331",
+            "FLM 332",
+            "COM 332",
+            "FLM 484",
+            "COM 484",
+            "FLM 326",
+            "FRN 326"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Aims",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "The Film Studies Minor is intended to complement studies for both liberal arts and professional students. Courses in the program focus on the knowledge and skills necessary for effective analysis and digital production of cinematic works in a variety of applied settings. Students select elective courses to match personal areas of interest.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

@@ -1,0 +1,1735 @@
+{
+  "department": "Classics",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Classical Languages and Civilization",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/classical-languages-and-civilization",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "LAT 103"
+          ],
+          "title": "Introductory Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 104"
+          ],
+          "title": "Introductory Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 203"
+          ],
+          "title": "Intermediate Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 204"
+          ],
+          "title": "Intermediate Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 101"
+          ],
+          "title": "Elementary Ancient Greek I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 102"
+          ],
+          "title": "Elementary Ancient Greek II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 201"
+          ],
+          "title": "Intermediate Ancient Greek I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 202"
+          ],
+          "title": "Intermediate Ancient Greek II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - History elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Literature elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Philosophy elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Theology elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CLA 435"
+          ],
+          "title": "The Senior Oral Examination",
+          "credits": 1,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introductory Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 103"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introductory Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 104"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Intermediate Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 203"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Intermediate Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 204"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Elementary Ancient Greek I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 101"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Elementary Ancient Greek II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 102"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Intermediate Ancient Greek I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 201"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Intermediate Ancient Greek II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 202"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Civilization - History elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-9",
+          "label": "Civilization - Literature elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Civilization - Philosophy elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Civilization - Theology elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-13",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "The Senior Oral Examination",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CLA 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Classical Languages and Civilization Major:",
+          "text": "Upper-level Latin and Greek Electives:",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Classical Languages and Civilization Major:",
+          "text": "Twelve credits of 300-level (or higher) Latin and / or Greek courses, all in Latin for the Latin Language and Civilization major, all in Greek for the Greek Language and Civilization major, and for the Classical Language and Civilization Major, at least three hours in Latin and three hours in Greek. Three hours of HEB 205 or HEB 206 (only one of the two) may be substituted for three hours of Latin or Greek above any minimum requirements. One-credit specialized Latin and/ or Greek reading courses (whether regularized or special-topics courses) may be counted toward this twelve-hour requirement.",
+          "codes": [
+            "HEB 205",
+            "HEB 206"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Classical Languages and Civilization Major:",
+          "text": "GRK 300, GRK 310, GRK 320, GRK 330, GRK 340, GRK 350, GRK 360, GRK 370, LAT 301, LAT 302, LAT 311, LAT 321, LAT 331, LAT 341, LAT 351, LAT 361, LAT 371, LAT 380, LAT 390",
+          "codes": [
+            "GRK 300",
+            "GRK 310",
+            "GRK 320",
+            "GRK 330",
+            "GRK 340",
+            "GRK 350",
+            "GRK 360",
+            "GRK 370",
+            "LAT 301",
+            "LAT 302",
+            "LAT 311",
+            "LAT 321",
+            "LAT 331",
+            "LAT 341",
+            "LAT 351",
+            "LAT 361",
+            "LAT 371",
+            "LAT 380",
+            "LAT 390"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Classical Languages and Civilization Major:",
+          "text": "Note 1: Students, who because of previously acquired competence, begin the study of ancient Greek or Latin at any point beyond the initial elementary level, shall earn credit by examination (though examination method to be determined by the department) or take additional hours of 300-level Greek and Latin courses or elementary or intermediate biblical Hebrew courses equivalent to the credit hours of elementary or intermediate ancient Greek or Latin not taken for credit at Franciscan University. For example, if a student begins the study of Latin at the university with LAT 203, that student shall complete an additional six hours via credit-by-examination for LAT 103 and LAT 104 or by taking six hours of 300-level ancient Greek or Latin or elementary or intermediate Biblical Hebrew courses.",
+          "codes": [
+            "LAT 203",
+            "LAT 103",
+            "LAT 104"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Classical Languages and Civilization Major:",
+          "text": "Note 2: Students may take additional 300-level Latin and/or Greek courses in lieu of civilization courses.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Classical Languages and Civilization Major:",
+          "text": "CIVILIZATION REQUIREMENTS: One course from each of the following groups (12-15 credits): History: HST 105 (History of Civilization I); HST 317 (History of Ancient Greece); HST 318 (The Roman Republic and Empire); HST 320 (Ancient History); HST 323 (The Medieval World); HST 310 (Church History: Lives of the Saints); HST 324 (Renaissance and Reformation); HST 327 (French Revolution and Nineteenth Century Europe) Literature: ENG 210 (Epic and the Person); ENG 211 (Lyric and Dramatic Voices); ENG 326 (English Literature of the Medieval Period); ENG 335 (The English Renaissance); ENG 345 (The Romantic Movement); ENG 405 (Studies in Shakespeare); HON 101 (Early Greece), HON 202 (Medieval Thought) (admissions to Honors Program required); THR 150 (Theatre and the Catholic Imagination) Philosophy: HON 102 (Later Greece and Rome) (admission to the Honors Program required); PHL 212 (Foundations of Ethics); PHL 311 (Ancient Greek Philosophy); PHL 312 (Medieval Philosophy); PHL 325 (The Thomistic Tradition in Philosophy); PHL 340 (The Franciscan Tradition in Philosophy) Theology: HON 201 (Church Fathers) (admissions to the Honors Program required); THE 102 (Introduction to Scripture); THE 110 (Word of God: Scripture and Tradition); THE 211 (Principles of Biblical Study I); THE 212 (Principles of Biblical Study II); THE 302 (Early Christian Life and Thought); THE 307 (The Franciscans in New World); THE 326 (The Franciscan Intellectual Tradition)",
+          "codes": [
+            "HST 105",
+            "HST 317",
+            "HST 318",
+            "HST 320",
+            "HST 323",
+            "HST 310",
+            "HST 324",
+            "HST 327",
+            "ENG 210",
+            "ENG 211",
+            "ENG 326",
+            "ENG 335",
+            "ENG 345",
+            "ENG 405",
+            "HON 101",
+            "HON 202",
+            "THR 150",
+            "HON 102",
+            "PHL 212",
+            "PHL 311",
+            "PHL 312",
+            "PHL 325",
+            "PHL 340",
+            "HON 201",
+            "THE 102",
+            "THE 110",
+            "THE 211",
+            "THE 212",
+            "THE 302",
+            "THE 307",
+            "THE 326"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Latin Language and Civilization",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/latin-language-and-civilization",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "LAT 103"
+          ],
+          "title": "Introductory Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 104"
+          ],
+          "title": "Introductory Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 203"
+          ],
+          "title": "Intermediate Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 204"
+          ],
+          "title": "Intermediate Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - History elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Literature elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Philosophy elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Theology elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CLA 435"
+          ],
+          "title": "The Senior Oral Examination",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "LAT 300 level elective",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "LAT 300 level elective",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "LAT 300 level elective",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "LAT 300 level elective",
+          "credits": null,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introductory Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 103"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introductory Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 104"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Intermediate Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 203"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Intermediate Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 204"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Civilization - History elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Civilization - Literature elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-6",
+          "label": "Civilization - Philosophy elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-7",
+          "label": "Civilization - Theology elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-8",
+          "label": "The Senior Oral Examination",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CLA 435"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "LAT 300 level elective",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-10",
+          "label": "LAT 300 level elective",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-11",
+          "label": "LAT 300 level elective",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-12",
+          "label": "LAT 300 level elective",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Latin Language and Civilization Major:",
+          "text": "Upper-level Latin and Greek Electives:",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Latin Language and Civilization Major:",
+          "text": "Twelve credits of 300-level (or higher) Latin and / or Greek courses, all in Latin for the Latin Language and Civilization major, all in Greek for the Greek Language and Civilization major, and for the Classical Language and Civilization Major, at least three hours in Latin and three hours in Greek. Three hours of HEB 205 or HEB 206 (only one of the two) may be substituted for three hours of Latin or Greek above any minimum requirements. One-credit specialized Latin and/ or Greek reading courses (whether regularized or special-topics courses) may be counted toward this twelve-hour requirement.",
+          "codes": [
+            "HEB 205",
+            "HEB 206"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Latin Language and Civilization Major:",
+          "text": "GRK 300, GRK 310, GRK 320, GRK 330, GRK 340, GRK 350, GRK 360, GRK 370, LAT 301, LAT 302, LAT 311, LAT 321, LAT 331, LAT 341, LAT 351, LAT 361, LAT 371, LAT 380, LAT 390",
+          "codes": [
+            "GRK 300",
+            "GRK 310",
+            "GRK 320",
+            "GRK 330",
+            "GRK 340",
+            "GRK 350",
+            "GRK 360",
+            "GRK 370",
+            "LAT 301",
+            "LAT 302",
+            "LAT 311",
+            "LAT 321",
+            "LAT 331",
+            "LAT 341",
+            "LAT 351",
+            "LAT 361",
+            "LAT 371",
+            "LAT 380",
+            "LAT 390"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Latin Language and Civilization Major:",
+          "text": "Note 1: Students who begin the study of ancient Greek or Latin at any point beyond the initial elementary level shall take additional hours of 300-level Greek and Latin courses or elementary or intermediate biblical Hebrew courses equivalent to the hours of elementary or intermediate ancient Greek or Latin not taken for credit. E.g., if a student by examination places out of LAT 103 and LAT 104 into LAT 203, that student will take an additional six hours of 300-level ancient Greek or Latin or elementary or intermediate Biblical Hebrew courses.",
+          "codes": [
+            "LAT 103",
+            "LAT 104",
+            "LAT 203"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Latin Language and Civilization Major:",
+          "text": "Note 2: Students may substitute additional 300-level Latin and/or Greek courses for civilization courses.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Latin Language and Civilization Major:",
+          "text": "CIVILIZATION REQUIREMENTS: One course from each of the following groups (12-15 credits): History: HST 105 (History of Civilization I); HST 317 (History of Ancient Greece); HST 318 (The Roman Republic and Empire); HST 320 (Ancient History); HST 323 (The Medieval World); HST 310 (Church History: Lives of the Saints); HST 324 (Renaissance and Reformation); HST 327 (French Revolution and Nineteenth Century Europe) Literature: ENG 210 (Epic and the Person); ENG 211 (Lyric and Dramatic Voices); ENG 326 (English Literature of the Medieval Period); ENG 335 (The English Renaissance); ENG 345 (The Romantic Movement); ENG 405 (Studies in Shakespeare); HON 101 (Early Greece), HON 202 (Medieval Thought) (admissions to Honors Program required); THR 150 (Theatre and the Catholic Imagination) Philosophy: HON 102 (Later Greece and Rome) (admission to the Honors Program required); PHL 212 (Foundations of Ethics); PHL 311 (Ancient Greek Philosophy); PHL 312 (Medieval Philosophy); PHL 325 (The Thomistic Tradition in Philosophy); PHL 340 (The Franciscan Tradition in Philosophy) Theology: HON 201 (Church Fathers) (admissions to the Honors Program required); THE 102 (Introduction to Scripture); THE 110 (Word of God: Scripture and Tradition); THE 211 (Principles of Biblical Study I); THE 212 (Principles of Biblical Study II); THE 302 (Early Christian Life and Thought); THE 307 (The Franciscans in New World); THE 326 (The Franciscan Intellectual Tradition)",
+          "codes": [
+            "HST 105",
+            "HST 317",
+            "HST 318",
+            "HST 320",
+            "HST 323",
+            "HST 310",
+            "HST 324",
+            "HST 327",
+            "ENG 210",
+            "ENG 211",
+            "ENG 326",
+            "ENG 335",
+            "ENG 345",
+            "ENG 405",
+            "HON 101",
+            "HON 202",
+            "THR 150",
+            "HON 102",
+            "PHL 212",
+            "PHL 311",
+            "PHL 312",
+            "PHL 325",
+            "PHL 340",
+            "HON 201",
+            "THE 102",
+            "THE 110",
+            "THE 211",
+            "THE 212",
+            "THE 302",
+            "THE 307",
+            "THE 326"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Greek Language and Civilization",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/classics",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "GRK 101"
+          ],
+          "title": "Elementary Ancient Greek I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 102"
+          ],
+          "title": "Elementary Ancient Greek II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 201"
+          ],
+          "title": "Intermediate Ancient Greek I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 202"
+          ],
+          "title": "Intermediate Ancient Greek II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - History elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Literature elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Philosophy elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Theology elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CLA 435"
+          ],
+          "title": "The Senior Oral Examination",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300 level elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Elementary Ancient Greek I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Elementary Ancient Greek II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 102"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Intermediate Ancient Greek I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 201"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Intermediate Ancient Greek II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 202"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Civilization - History elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Civilization - Literature elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-6",
+          "label": "Civilization - Philosophy elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-7",
+          "label": "Civilization - Theology elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-8",
+          "label": "The Senior Oral Examination",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CLA 435"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "300 level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Greek Language and Civilization Major:",
+          "text": "Upper-level Latin and Greek Electives:",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Greek Language and Civilization Major:",
+          "text": "Twelve credits of 300-level (or higher) Latin and / or Greek courses, all in Latin for the Latin Language and Civilization major, all in Greek for the Greek Language and Civilization major, and for the Classical Language and Civilization Major, at least three hours in Latin and three hours in Greek. Three hours of HEB 205 or HEB 206 (only one of the two) may be substituted for three hours of Latin or Greek above any minimum requirements. One-credit specialized Latin and/ or Greek reading courses (whether regularized or special-topics courses) may be counted toward this twelve-hour requirement.",
+          "codes": [
+            "HEB 205",
+            "HEB 206"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Greek Language and Civilization Major:",
+          "text": "GRK 300, GRK 310, GRK 320, GRK 330, GRK 340, GRK 350, GRK 360, GRK 370, LAT 301, LAT 302, LAT 311, LAT 321, LAT 331, LAT 341, LAT 351, LAT 361, LAT 371, LAT 380, LAT 390",
+          "codes": [
+            "GRK 300",
+            "GRK 310",
+            "GRK 320",
+            "GRK 330",
+            "GRK 340",
+            "GRK 350",
+            "GRK 360",
+            "GRK 370",
+            "LAT 301",
+            "LAT 302",
+            "LAT 311",
+            "LAT 321",
+            "LAT 331",
+            "LAT 341",
+            "LAT 351",
+            "LAT 361",
+            "LAT 371",
+            "LAT 380",
+            "LAT 390"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Greek Language and Civilization Major:",
+          "text": "Note 1: Students, who because of previously acquired competence, begin the study of ancient Greek or Latin at any point beyond the initial elementary level, shall earn credit by examination (though examination method to be determined by the department) or take additional hours of 300-level Greek and Latin courses or elementary or intermediate biblical Hebrew courses equivalent to the credit hours of elementary or intermediate ancient Greek or Latin not taken for credit at Franciscan University. For example, if a student begins the study of Latin at the university with LAT 203, that student shall complete an additional six hours via credit-by-examination for LAT 103 and LAT 104 or by taking six hours of 300-level ancient Greek or Latin or elementary or intermediate Biblical Hebrew courses.",
+          "codes": [
+            "LAT 203",
+            "LAT 103",
+            "LAT 104"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Greek Language and Civilization Major:",
+          "text": "Note 2: Students may take additional 300-level Latin and/or Greek courses in lieu of civilization courses.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirement for Greek Language and Civilization Major:",
+          "text": "CIVILIZATION REQUIREMENTS: One course from each of the following groups (12-15 credits): History: HST 105 (History of Civilization I); HST 317 (History of Ancient Greece); HST 318 (The Roman Republic and Empire); HST 320 (Ancient History); HST 323 (The Medieval World); HST 310 (Church History: Lives of the Saints); HST 324 (Renaissance and Reformation); HST 327 (French Revolution and Nineteenth Century Europe) Literature: ENG 210 (Epic and the Person); ENG 211 (Lyric and Dramatic Voices); ENG 326 (English Literature of the Medieval Period); ENG 335 (The English Renaissance); ENG 345 (The Romantic Movement); ENG 405 (Studies in Shakespeare); HON 101 (Early Greece), HON 202 (Medieval Thought) (admissions to Honors Program required); THR 150 (Theatre and the Catholic Imagination) Philosophy: HON 102 (Later Greece and Rome) (admission to the Honors Program required); PHL 212 (Foundations of Ethics); PHL 311 (Ancient Greek Philosophy); PHL 312 (Medieval Philosophy); PHL 325 (The Thomistic Tradition in Philosophy); PHL 340 (The Franciscan Tradition in Philosophy) Theology: HON 201 (Church Fathers) (admissions to the Honors Program required); THE 102 (Introduction to Scripture); THE 110 (Word of God: Scripture and Tradition); THE 211 (Principles of Biblical Study I); THE 212 (Principles of Biblical Study II); THE 302 (Early Christian Life and Thought); THE 307 (The Franciscans in New World); THE 326 (The Franciscan Intellectual Tradition)",
+          "codes": [
+            "HST 105",
+            "HST 317",
+            "HST 318",
+            "HST 320",
+            "HST 323",
+            "HST 310",
+            "HST 324",
+            "HST 327",
+            "ENG 210",
+            "ENG 211",
+            "ENG 326",
+            "ENG 335",
+            "ENG 345",
+            "ENG 405",
+            "HON 101",
+            "HON 202",
+            "THR 150",
+            "HON 102",
+            "PHL 212",
+            "PHL 311",
+            "PHL 312",
+            "PHL 325",
+            "PHL 340",
+            "HON 201",
+            "THE 102",
+            "THE 110",
+            "THE 211",
+            "THE 212",
+            "THE 302",
+            "THE 307",
+            "THE 326"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Ecclesiastical Latin Language and Civilization Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/ecclesiastical-latin-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "LAT 103"
+          ],
+          "title": "Introductory Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 104"
+          ],
+          "title": "Introductory Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 203"
+          ],
+          "title": "Intermediate Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 204"
+          ],
+          "title": "Intermediate Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 301"
+          ],
+          "title": "Survey of Latin Prose",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 361"
+          ],
+          "title": "Alii Romani",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 371"
+          ],
+          "title": "Liturgical Latin",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 380"
+          ],
+          "title": "The Latin Fathers",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 390"
+          ],
+          "title": "Medieval Latin",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - History elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Literature elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Philosophy elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Theology elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introductory Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 103"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introductory Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 104"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Intermediate Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 203"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Intermediate Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 204"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Survey of Latin Prose",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 301"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "One from",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 361",
+            "LAT 371",
+            "LAT 380",
+            "LAT 390"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-6",
+          "label": "Civilization - History elective OR Civilization - Literature elective OR Civilization - Philosophy elective OR Civilization - Theology elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "One from",
+          "text": "NOTE - If LAT 361 is chosen, the topic must cover Ecclesiastical content.",
+          "codes": [
+            "LAT 361"
+          ]
+        }
+      ],
+      "uncertainHeadings": [
+        "One from"
+      ],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Latin Language and Civilization Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/classical-languages-and-civilization-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "LAT 103"
+          ],
+          "title": "Introductory Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 104"
+          ],
+          "title": "Introductory Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 203"
+          ],
+          "title": "Intermediate Studies in Latin I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 204"
+          ],
+          "title": "Intermediate Studies in Latin II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 301"
+          ],
+          "title": "Survey of Latin Prose",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 302"
+          ],
+          "title": "Latin Prose Composition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 311"
+          ],
+          "title": "Virgil",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 321"
+          ],
+          "title": "Horace",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 331"
+          ],
+          "title": "Roman Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 351"
+          ],
+          "title": "The Roman Historians",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LAT 361"
+          ],
+          "title": "Alii Romani",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - History elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Literature elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Philosophy elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Theology elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introductory Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 103"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introductory Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 104"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Intermediate Studies in Latin I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 203"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Intermediate Studies in Latin II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 204"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "One from",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LAT 301",
+            "LAT 302",
+            "LAT 311",
+            "LAT 321",
+            "LAT 331",
+            "LAT 351",
+            "LAT 361"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-5",
+          "label": "Civilization - History elective OR Civilization - Literature elective OR Civilization - Philosophy elective OR Civilization - Theology elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "One from",
+          "text": "NOTE - If LAT 361 is chosen, the topic must cover classical content.",
+          "codes": [
+            "LAT 361"
+          ]
+        }
+      ],
+      "uncertainHeadings": [
+        "One from"
+      ],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Greek Language and Civilization Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/copy-of-classical-languages-and-civilization-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "GRK 101"
+          ],
+          "title": "Elementary Ancient Greek I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 102"
+          ],
+          "title": "Elementary Ancient Greek II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 201"
+          ],
+          "title": "Intermediate Ancient Greek I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 202"
+          ],
+          "title": "Intermediate Ancient Greek II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 300"
+          ],
+          "title": "Survey of Greek Prose",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 310"
+          ],
+          "title": "Homer",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 320"
+          ],
+          "title": "Greek Drama",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 330"
+          ],
+          "title": "Plato",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 340"
+          ],
+          "title": "The Greek Historians",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 350"
+          ],
+          "title": "Philosophy and Theology in Greek",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRK 360"
+          ],
+          "title": "The Septuagint and Greek New Testament",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - History elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Literature elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Philosophy elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Civilization - Theology elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Elementary Ancient Greek I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Elementary Ancient Greek II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 102"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Intermediate Ancient Greek I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 201"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Intermediate Ancient Greek II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 202"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "One from",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRK 300",
+            "GRK 310",
+            "GRK 320",
+            "GRK 330",
+            "GRK 340",
+            "GRK 350",
+            "GRK 360"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-5",
+          "label": "Civilization - History elective OR Civilization - Literature elective OR Civilization - Philosophy elective OR Civilization - Theology elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "For the Greek Language and Civilization Minor, students shall take GRK 101–202 and one course from the following: GRK 300, GRK 310, GRK 320, GRK 330, GRK 340, GRK 350, or GRK 360, and one Civilization Elective from any of the four Civilization Groups specified for the majors.",
+          "codes": [
+            "GRK 101",
+            "GRK 300",
+            "GRK 310",
+            "GRK 320",
+            "GRK 330",
+            "GRK 340",
+            "GRK 350",
+            "GRK 360"
+          ]
+        }
+      ],
+      "uncertainHeadings": [
+        "One from"
+      ],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

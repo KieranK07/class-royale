@@ -1,0 +1,370 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="en" xmlns="https://www.w3.org/1999/xhtml" lang="en">
+<head><meta http-equiv="Cache-Control" content="no-cache" /><title>
+	Franciscan University - Computer Science
+</title><meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"NRJS-8e849bdf63c6884f6ef","applicationID":"1359705662","transactionName":"Y1NQZhdQC0cHU0ZfCVoZc2E1HglVH19HQhUbWlNLCkQRR0lWQFcIV19BUQRfRUEIWURTFEdfRktKVxdVCFNbRQVVWEFGBF8BVRRUQlcBURhTQRVJ","queueTime":0,"applicationTime":12,"agent":"","atts":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:["bam.nr-data.net"]},feature_flags:["soft_nav"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:"1359996610",accountID:"3058884",trustKey:"3028485",xpid:"VwYCWV5bDBABV1RbAAECUFID",licenseKey:"NRJS-8e849bdf63c6884f6ef",applicationID:"1359705662",browserID:"1359996610"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(31),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,s){try{l?l-=1:o(s||new UncaughtException(t,e,n),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t,e){var n=e?null:c.now();i("err",[t,n])}var i=t("handle"),a=t(32),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,p="nr@seenError";if(!c.disabled){var l=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(14),t(13),"addEventListener"in window&&t(7),c.xhrWrappable&&t(15),d=!0)}s.on("fn-start",function(t,e,n){d&&(l+=1)}),s.on("fn-err",function(t,e,n){d&&!n[p]&&(f(n,p,function(){return!0}),this.thrown=!0,o(n))}),s.on("fn-end",function(){d&&!this.thrown&&l>0&&(l-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})}},{}],3:[function(t,e,n){var r=t("loader");r.disabled||(r.features.ins=!0)},{}],4:[function(t,e,n){function r(){U++,L=g.hash,this[u]=y.now()}function o(){U--,g.hash!==L&&i(0,!0);var t=y.now();this[h]=~~this[h]+t-this[u],this[d]=t}function i(t,e){E.emit("newURL",[""+g,e])}function a(t,e){t.on(e,function(){this[e]=y.now()})}var s="-start",c="-end",f="-body",u="fn"+s,d="fn"+c,p="cb"+s,l="cb"+c,h="jsTime",m="fetch",v="addEventListener",w=window,g=w.location,y=t("loader");if(w[v]&&y.xhrWrappable&&!y.disabled){var x=t(11),b=t(12),E=t(9),R=t(7),O=t(14),T=t(8),S=t(15),P=t(10),M=t("ee"),C=M.get("tracer"),N=t(23);t(17),y.features.spa=!0;var L,U=0;M.on(u,r),b.on(p,r),P.on(p,r),M.on(d,o),b.on(l,o),P.on(l,o),M.buffer([u,d,"xhr-resolved"]),R.buffer([u]),O.buffer(["setTimeout"+c,"clearTimeout"+s,u]),S.buffer([u,"new-xhr","send-xhr"+s]),T.buffer([m+s,m+"-done",m+f+s,m+f+c]),E.buffer(["newURL"]),x.buffer([u]),b.buffer(["propagate",p,l,"executor-err","resolve"+s]),C.buffer([u,"no-"+u]),P.buffer(["new-jsonp","cb-start","jsonp-error","jsonp-end"]),a(T,m+s),a(T,m+"-done"),a(P,"new-jsonp"),a(P,"jsonp-end"),a(P,"cb-start"),E.on("pushState-end",i),E.on("replaceState-end",i),w[v]("hashchange",i,N(!0)),w[v]("load",i,N(!0)),w[v]("popstate",function(){i(0,U>1)},N(!0))}},{}],5:[function(t,e,n){function r(){var t=new PerformanceObserver(function(t,e){var n=t.getEntries();s(v,[n])});try{t.observe({entryTypes:["resource"]})}catch(e){}}function o(t){if(s(v,[window.performance.getEntriesByType(w)]),window.performance["c"+p])try{window.performance[h](m,o,!1)}catch(t){}else try{window.performance[h]("webkit"+m,o,!1)}catch(t){}}function i(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var a=t("ee"),s=t("handle"),c=t(14),f=t(13),u=t(6),d=t(23),p="learResourceTimings",l="addEventListener",h="removeEventListener",m="resourcetimingbufferfull",v="bstResource",w="resource",g="-start",y="-end",x="fn"+g,b="fn"+y,E="bstTimer",R="pushState",O=t("loader");if(!O.disabled){O.features.stn=!0,t(9),"addEventListener"in window&&t(7);var T=NREUM.o.EV;a.on(x,function(t,e){var n=t[0];n instanceof T&&(this.bstStart=O.now())}),a.on(b,function(t,e){var n=t[0];n instanceof T&&s("bst",[n,e,this.bstStart,O.now()])}),c.on(x,function(t,e,n){this.bstStart=O.now(),this.bstType=n}),c.on(b,function(t,e){s(E,[e,this.bstStart,O.now(),this.bstType])}),f.on(x,function(){this.bstStart=O.now()}),f.on(b,function(t,e){s(E,[e,this.bstStart,O.now(),"requestAnimationFrame"])}),a.on(R+g,function(t){this.time=O.now(),this.startPath=location.pathname+location.hash}),a.on(R+y,function(t){s("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),u()?(s(v,[window.performance.getEntriesByType("resource")]),r()):l in window.performance&&(window.performance["c"+p]?window.performance[l](m,o,d(!1)):window.performance[l]("webkit"+m,o,d(!1))),document[l]("scroll",i,d(!1)),document[l]("keypress",i,d(!1)),document[l]("click",i,d(!1))}}},{}],6:[function(t,e,n){e.exports=function(){return"PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver}},{}],7:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t("wrap-function")(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1];if(null!==n&&("function"==typeof n||"object"==typeof n)){var r=c(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?s(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],8:[function(t,e,n){function r(t,e,n){var r=t[e];"function"==typeof r&&(t[e]=function(){var t=i(arguments),e={};o.emit(n+"before-start",[t],e);var a;e[m]&&e[m].dt&&(a=e[m].dt);var s=r.apply(this,t);return o.emit(n+"start",[t,a],s),s.then(function(t){return o.emit(n+"end",[null,t],s),t},function(t){throw o.emit(n+"end",[t],s),t})})}var o=t("ee").get("fetch"),i=t(32),a=t(31);e.exports=o;var s=window,c="fetch-",f=c+"body-",u=["arrayBuffer","blob","json","text","formData"],d=s.Request,p=s.Response,l=s.fetch,h="prototype",m="nr@context";d&&p&&l&&(a(u,function(t,e){r(d[h],e,f),r(p[h],e,f)}),r(s,"fetch",c),o.on(c+"end",function(t,e){var n=this;if(e){var r=e.headers.get("content-length");null!==r&&(n.rxSize=r),o.emit(c+"done",[null,e],n)}else o.emit(c+"done",[t],n)}))},{}],9:[function(t,e,n){var r=t("ee").get("history"),o=t("wrap-function")(r);e.exports=r;var i=window.history&&window.history.constructor&&window.history.constructor.prototype,a=window.history;i&&i.pushState&&i.replaceState&&(a=i),o.inPlace(a,["pushState","replaceState"],"-")},{}],10:[function(t,e,n){function r(t){function e(){f.emit("jsonp-end",[],l),t.removeEventListener("load",e,c(!1)),t.removeEventListener("error",n,c(!1))}function n(){f.emit("jsonp-error",[],l),f.emit("jsonp-end",[],l),t.removeEventListener("load",e,c(!1)),t.removeEventListener("error",n,c(!1))}var r=t&&"string"==typeof t.nodeName&&"script"===t.nodeName.toLowerCase();if(r){var o="function"==typeof t.addEventListener;if(o){var a=i(t.src);if(a){var d=s(a),p="function"==typeof d.parent[d.key];if(p){var l={};u.inPlace(d.parent,[d.key],"cb-",l),t.addEventListener("load",e,c(!1)),t.addEventListener("error",n,c(!1)),f.emit("new-jsonp",[t.src],l)}}}}}function o(){return"addEventListener"in window}function i(t){var e=t.match(d);return e?e[1]:null}function a(t,e){var n=t.match(l),r=n[1],o=n[3];return o?a(o,e[r]):e[r]}function s(t){var e=t.match(p);return e&&e.length>=3?{key:e[2],parent:a(e[1],window)}:{key:t,parent:window}}var c=t(23),f=t("ee").get("jsonp"),u=t("wrap-function")(f);if(e.exports=f,o()){var d=/[?&](?:callback|cb)=([^&#]+)/,p=/(.*)\.([^.]+)/,l=/^(\w+)(\.|$)(.*)$/,h=["appendChild","insertBefore","replaceChild"];Node&&Node.prototype&&Node.prototype.appendChild?u.inPlace(Node.prototype,h,"dom-"):(u.inPlace(HTMLElement.prototype,h,"dom-"),u.inPlace(HTMLHeadElement.prototype,h,"dom-"),u.inPlace(HTMLBodyElement.prototype,h,"dom-")),f.on("dom-start",function(t){r(t[0])})}},{}],11:[function(t,e,n){var r=t("ee").get("mutation"),o=t("wrap-function")(r),i=NREUM.o.MO;e.exports=r,i&&(window.MutationObserver=function(t){return this instanceof i?new i(o(t,"fn-")):i.apply(this,arguments)},MutationObserver.prototype=i.prototype)},{}],12:[function(t,e,n){function r(t){var e=i.context(),n=s(t,"executor-",e,null,!1),r=new f(n);return i.context(r).getCtx=function(){return e},r}var o=t("wrap-function"),i=t("ee").get("promise"),a=t("ee").getOrSetContext,s=o(i),c=t(31),f=NREUM.o.PR;e.exports=i,f&&(window.Promise=r,["all","race"].forEach(function(t){var e=f[t];f[t]=function(n){function r(t){return function(){i.emit("propagate",[null,!o],a,!1,!1),o=o||!t}}var o=!1;c(n,function(e,n){Promise.resolve(n).then(r("all"===t),r(!1))});var a=e.apply(f,arguments),s=f.resolve(a);return s}}),["resolve","reject"].forEach(function(t){var e=f[t];f[t]=function(t){var n=e.apply(f,arguments);return t!==n&&i.emit("propagate",[t,!0],n,!1,!1),n}}),f.prototype["catch"]=function(t){return this.then(null,t)},f.prototype=Object.create(f.prototype,{constructor:{value:r}}),c(Object.getOwnPropertyNames(f),function(t,e){try{r[e]=f[e]}catch(n){}}),o.wrapInPlace(f.prototype,"then",function(t){return function(){var e=this,n=o.argsToArray.apply(this,arguments),r=a(e);r.promise=e,n[0]=s(n[0],"cb-",r,null,!1),n[1]=s(n[1],"cb-",r,null,!1);var c=t.apply(this,n);return r.nextPromise=c,i.emit("propagate",[e,!0],c,!1,!1),c}}),i.on("executor-start",function(t){t[0]=s(t[0],"resolve-",this,null,!1),t[1]=s(t[1],"resolve-",this,null,!1)}),i.on("executor-err",function(t,e,n){t[1](n)}),i.on("cb-end",function(t,e,n){i.emit("propagate",[n,!0],this.nextPromise,!1,!1)}),i.on("propagate",function(t,e,n){this.getCtx&&!e||(this.getCtx=function(){if(t instanceof Promise)var e=i.context(t);return e&&e.getCtx?e.getCtx():this})}),r.toString=function(){return""+f})},{}],13:[function(t,e,n){var r=t("ee").get("raf"),o=t("wrap-function")(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],14:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t("wrap-function")(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],15:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){x.push(t),m&&(E?E.then(a):w?w(a):(R=-R,O.data=R))}function a(){for(var t=0;t<x.length;t++)r([],x[t]);x.length&&(x=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(7);var f=t("ee"),u=f.get("xhr"),d=t("wrap-function")(u),p=t(23),l=NREUM.o,h=l.XHR,m=l.MO,v=l.PR,w=l.SI,g="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],x=[];e.exports=u;var b=window.XMLHttpRequest=function(t){var e=new h(t);try{u.emit("new-xhr",[e],e),e.addEventListener(g,o,p(!1))}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(h,b),b.prototype=h.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),m){var E=v&&v.resolve();if(!w&&!v){var R=1,O=document.createTextNode(R);new m(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===g||a()})},{}],16:[function(t,e,n){function r(t){if(!s(t))return null;var e=window.NREUM;if(!e.loader_config)return null;var n=(e.loader_config.accountID||"").toString()||null,r=(e.loader_config.agentID||"").toString()||null,f=(e.loader_config.trustKey||"").toString()||null;if(!n||!r)return null;var h=l.generateSpanId(),m=l.generateTraceId(),v=Date.now(),w={spanId:h,traceId:m,timestamp:v};return(t.sameOrigin||c(t)&&p())&&(w.traceContextParentHeader=o(h,m),w.traceContextStateHeader=i(h,v,n,r,f)),(t.sameOrigin&&!u()||!t.sameOrigin&&c(t)&&d())&&(w.newrelicHeader=a(h,m,v,n,r,f)),w}function o(t,e){return"00-"+e+"-"+t+"-01"}function i(t,e,n,r,o){var i=0,a="",s=1,c="",f="";return o+"@nr="+i+"-"+s+"-"+n+"-"+r+"-"+t+"-"+a+"-"+c+"-"+f+"-"+e}function a(t,e,n,r,o,i){var a="btoa"in window&&"function"==typeof window.btoa;if(!a)return null;var s={v:[0,1],d:{ty:"Browser",ac:r,ap:o,id:t,tr:e,ti:n}};return i&&r!==i&&(s.d.tk=i),btoa(JSON.stringify(s))}function s(t){return f()&&c(t)}function c(t){var e=!1,n={};if("init"in NREUM&&"distributed_tracing"in NREUM.init&&(n=NREUM.init.distributed_tracing),t.sameOrigin)e=!0;else if(n.allowed_origins instanceof Array)for(var r=0;r<n.allowed_origins.length;r++){var o=h(n.allowed_origins[r]);if(t.hostname===o.hostname&&t.protocol===o.protocol&&t.port===o.port){e=!0;break}}return e}function f(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.enabled}function u(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.exclude_newrelic_header}function d(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&NREUM.init.distributed_tracing.cors_use_newrelic_header!==!1}function p(){return"init"in NREUM&&"distributed_tracing"in NREUM.init&&!!NREUM.init.distributed_tracing.cors_use_tracecontext_headers}var l=t(28),h=t(18);e.exports={generateTracePayload:r,shouldGenerateTrace:s}},{}],17:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<p;r++)t.removeEventListener(d[r],this.listener,!1);return e.protocol&&"data"===e.protocol?void g("Ajax/DataUrl/Excluded"):void(e.aborted||(n.duration=a.now()-this.startTime,this.loadCaptureCalled||4!==t.readyState?null==e.status&&(e.status=0):i(this,t),n.cbTime=this.cbTime,s("xhr",[e,n,this.startTime,this.endTime,"xhr"],this)))}}function o(t,e){var n=c(e),r=t.params;r.hostname=n.hostname,r.port=n.port,r.protocol=n.protocol,r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.parsedOrigin=n,t.sameOrigin=n.sameOrigin}function i(t,e){t.params.status=e.status;var n=v(e,t.lastSize);if(n&&(t.metrics.rxSize=n),t.sameOrigin){var r=e.getResponseHeader("X-NewRelic-App-Data");r&&(t.params.cat=r.split(", ").pop())}t.loadCaptureCalled=!0}var a=t("loader");if(a.xhrWrappable&&!a.disabled){var s=t("handle"),c=t(18),f=t(16).generateTracePayload,u=t("ee"),d=["load","error","abort","timeout"],p=d.length,l=t("id"),h=t(24),m=t(22),v=t(19),w=t(23),g=t(25).recordSupportability,y=NREUM.o.REQ,x=window.XMLHttpRequest;a.features.xhr=!0,t(15),t(8),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,e.loadCaptureCalled=!1,e.params=this.params||{},e.metrics=this.metrics||{},t.addEventListener("load",function(n){i(e,t)},w(!1)),h&&(h>34||h<10)||t.addEventListener("progress",function(t){e.lastSize=t.loaded},w(!1))}),u.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid);var n=f(this.parsedOrigin);if(n){var r=!1;n.newrelicHeader&&(e.setRequestHeader("newrelic",n.newrelicHeader),r=!0),n.traceContextParentHeader&&(e.setRequestHeader("traceparent",n.traceContextParentHeader),n.traceContextStateHeader&&e.setRequestHeader("tracestate",n.traceContextStateHeader),r=!0),r&&(this.dt=n)}}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=m(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"!==t.type||o.loadCaptureCalled||(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;s<p;s++)e.addEventListener(d[s],this.listener,w(!1))}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("xhr-resolved",function(){this.endTime=a.now()}),u.on("addEventListener-end",function(t,e){e instanceof x&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof x&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof x&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)}),u.on("fetch-before-start",function(t){function e(t,e){var n=!1;return e.newrelicHeader&&(t.set("newrelic",e.newrelicHeader),n=!0),e.traceContextParentHeader&&(t.set("traceparent",e.traceContextParentHeader),e.traceContextStateHeader&&t.set("tracestate",e.traceContextStateHeader),n=!0),n}var n,r=t[1]||{};"string"==typeof t[0]?n=t[0]:t[0]&&t[0].url?n=t[0].url:window.URL&&t[0]&&t[0]instanceof URL&&(n=t[0].href),n&&(this.parsedOrigin=c(n),this.sameOrigin=this.parsedOrigin.sameOrigin);var o=f(this.parsedOrigin);if(o&&(o.newrelicHeader||o.traceContextParentHeader))if("string"==typeof t[0]||window.URL&&t[0]&&t[0]instanceof URL){var i={};for(var a in r)i[a]=r[a];i.headers=new Headers(r.headers||{}),e(i.headers,o)&&(this.dt=o),t.length>1?t[1]=i:t.push(i)}else t[0]&&t[0].headers&&e(t[0].headers,o)&&(this.dt=o)}),u.on("fetch-start",function(t,e){this.params={},this.metrics={},this.startTime=a.now(),this.dt=e,t.length>=1&&(this.target=t[0]),t.length>=2&&(this.opts=t[1]);var n,r=this.opts||{},i=this.target;if("string"==typeof i?n=i:"object"==typeof i&&i instanceof y?n=i.url:window.URL&&"object"==typeof i&&i instanceof URL&&(n=i.href),o(this,n),"data"!==this.params.protocol){var s=(""+(i&&i instanceof y&&i.method||r.method||"GET")).toUpperCase();this.params.method=s,this.txSize=m(r.body)||0}}),u.on("fetch-done",function(t,e){if(this.endTime=a.now(),this.params||(this.params={}),"data"===this.params.protocol)return void g("Ajax/DataUrl/Excluded");this.params.status=e?e.status:0;var n;"string"==typeof this.rxSize&&this.rxSize.length>0&&(n=+this.rxSize);var r={txSize:this.txSize,rxSize:n,duration:a.now()-this.startTime};s("xhr",[this.params,r,this.startTime,this.endTime,"fetch"],this)})}},{}],18:[function(t,e,n){var r={};e.exports=function(t){if(t in r)return r[t];if(0===(t||"").indexOf("data:"))return{protocol:"data"};var e=document.createElement("a"),n=window.location,o={};e.href=t,o.port=e.port;var i=e.href.split("://");!o.port&&i[1]&&(o.port=i[1].split("/")[0].split("@").pop().split(":")[1]),o.port&&"0"!==o.port||(o.port="https"===i[0]?"443":"80"),o.hostname=e.hostname||n.hostname,o.pathname=e.pathname,o.protocol=i[0],"/"!==o.pathname.charAt(0)&&(o.pathname="/"+o.pathname);var a=!e.protocol||":"===e.protocol||e.protocol===n.protocol,s=e.hostname===document.domain&&e.port===n.port;return o.sameOrigin=a&&(!e.hostname||s),"/"===o.pathname&&(r[t]=o),o}},{}],19:[function(t,e,n){function r(t,e){var n=t.responseType;return"json"===n&&null!==e?e:"arraybuffer"===n||"blob"===n||"json"===n?o(t.response):"text"===n||""===n||void 0===n?o(t.responseText):void 0}var o=t(22);e.exports=r},{}],20:[function(t,e,n){function r(){}function o(t,e,n,r){return function(){return u.recordSupportability("API/"+e+"/called"),i(t+e,[f.now()].concat(s(arguments)),n?null:this,r),n?void 0:this}}var i=t("handle"),a=t(31),s=t(32),c=t("ee").get("tracer"),f=t("loader"),u=t(25),d=NREUM;"undefined"==typeof window.newrelic&&(newrelic=d);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",h=l+"ixn-";a(p,function(t,e){d[e]=o(l,e,!0,"api")}),d.addPageAction=o(l,"addPageAction",!0),d.setCurrentRouteName=o(l,"routeName",!0),e.exports=newrelic,d.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(h+"tracer",[f.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],n),t}finally{c.emit("fn-end",[f.now()],n)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){m[e]=o(h,e)}),newrelic.noticeError=function(t,e){"string"==typeof t&&(t=new Error(t)),u.recordSupportability("API/noticeError/called"),i("err",[t,f.now(),!1,e])}},{}],21:[function(t,e,n){function r(t){if(NREUM.init){for(var e=NREUM.init,n=t.split("."),r=0;r<n.length-1;r++)if(e=e[n[r]],"object"!=typeof e)return;return e=e[n[n.length-1]]}}e.exports={getConfiguration:r}},{}],22:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],23:[function(t,e,n){var r=!1;try{var o=Object.defineProperty({},"passive",{get:function(){r=!0}});window.addEventListener("testPassive",null,o),window.removeEventListener("testPassive",null,o)}catch(i){}e.exports=function(t){return r?{passive:!0,capture:!!t}:!!t}},{}],24:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],25:[function(t,e,n){function r(t,e){var n=[a,t,{name:t},e];return i("storeMetric",n,null,"api"),n}function o(t,e){var n=[s,t,{name:t},e];return i("storeEventMetrics",n,null,"api"),n}var i=t("handle"),a="sm",s="cm";e.exports={constants:{SUPPORTABILITY_METRIC:a,CUSTOM_METRIC:s},recordSupportability:r,recordCustom:o}},{}],26:[function(t,e,n){function r(){return s.exists&&performance.now?Math.round(performance.now()):(i=Math.max((new Date).getTime(),i))-a}function o(){return i}var i=(new Date).getTime(),a=i,s=t(33);e.exports=r,e.exports.offset=a,e.exports.getLastTimestamp=o},{}],27:[function(t,e,n){function r(t,e){var n=t.getEntries();n.forEach(function(t){"first-paint"===t.name?l("timing",["fp",Math.floor(t.startTime)]):"first-contentful-paint"===t.name&&l("timing",["fcp",Math.floor(t.startTime)])})}function o(t,e){var n=t.getEntries();if(n.length>0){var r=n[n.length-1];if(f&&f<r.startTime)return;var o=[r],i=a({});i&&o.push(i),l("lcp",o)}}function i(t){t.getEntries().forEach(function(t){t.hadRecentInput||l("cls",[t])})}function a(t){var e=navigator.connection||navigator.mozConnection||navigator.webkitConnection;if(e)return e.type&&(t["net-type"]=e.type),e.effectiveType&&(t["net-etype"]=e.effectiveType),e.rtt&&(t["net-rtt"]=e.rtt),e.downlink&&(t["net-dlink"]=e.downlink),t}function s(t){if(t instanceof w&&!y){var e=Math.round(t.timeStamp),n={type:t.type};a(n),e<=h.now()?n.fid=h.now()-e:e>h.offset&&e<=Date.now()?(e-=h.offset,n.fid=h.now()-e):e=h.now(),y=!0,l("timing",["fi",e,n])}}function c(t){"hidden"===t&&(f=h.now(),l("pageHide",[f]))}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var f,u,d,p,l=t("handle"),h=t("loader"),m=t(30),v=t(23),w=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){u=new PerformanceObserver(r);try{u.observe({entryTypes:["paint"]})}catch(g){}d=new PerformanceObserver(o);try{d.observe({entryTypes:["largest-contentful-paint"]})}catch(g){}p=new PerformanceObserver(i);try{p.observe({type:"layout-shift",buffered:!0})}catch(g){}}if("addEventListener"in document){var y=!1,x=["click","keydown","mousedown","pointerdown","touchstart"];x.forEach(function(t){document.addEventListener(t,s,v(!1))})}m(c)}},{}],28:[function(t,e,n){function r(){function t(){return e?15&e[n++]:16*Math.random()|0}var e=null,n=0,r=window.crypto||window.msCrypto;r&&r.getRandomValues&&(e=r.getRandomValues(new Uint8Array(31)));for(var o,i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx",a="",s=0;s<i.length;s++)o=i[s],"x"===o?a+=t().toString(16):"y"===o?(o=3&t()|8,a+=o.toString(16)):a+=o;return a}function o(){return a(16)}function i(){return a(32)}function a(t){function e(){return n?15&n[r++]:16*Math.random()|0}var n=null,r=0,o=window.crypto||window.msCrypto;o&&o.getRandomValues&&Uint8Array&&(n=o.getRandomValues(new Uint8Array(t)));for(var i=[],a=0;a<t;a++)i.push(e().toString(16));return i.join("")}e.exports={generateUuid:r,generateSpanId:o,generateTraceId:i}},{}],29:[function(t,e,n){function r(t,e){if(!o)return!1;if(t!==o)return!1;if(!e)return!0;if(!i)return!1;for(var n=i.split("."),r=e.split("."),a=0;a<r.length;a++)if(r[a]!==n[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}e.exports={agent:o,version:i,match:r}},{}],30:[function(t,e,n){function r(t){function e(){t(s&&document[s]?document[s]:document[i]?"hidden":"visible")}"addEventListener"in document&&a&&document.addEventListener(a,e,o(!1))}var o=t(23);e.exports=r;var i,a,s;"undefined"!=typeof document.hidden?(i="hidden",a="visibilitychange",s="visibilityState"):"undefined"!=typeof document.msHidden?(i="msHidden",a="msvisibilitychange"):"undefined"!=typeof document.webkitHidden&&(i="webkitHidden",a="webkitvisibilitychange",s="webkitVisibilityState")},{}],31:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],32:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],33:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?f(t,c,a):a()}function n(n,r,o,i,a){if(a!==!1&&(a=!0),!l.aborted||i){t&&a&&t(n,r,o);for(var s=e(o),c=m(n),f=c.length,u=0;u<f;u++)c[u].apply(s,r);var p=d[y[n]];return p&&p.push([x,n,r,s]),s}}function i(t,e){g[t]=m(t).concat(e)}function h(t,e){var n=g[t];if(n)for(var r=0;r<n.length;r++)n[r]===e&&n.splice(r,1)}function m(t){return g[t]||[]}function v(t){return p[t]=p[t]||o(n)}function w(t,e){l.aborted||u(t,function(t,n){e=e||"feature",y[n]=e,e in d||(d[e]=[])})}var g={},y={},x={on:i,addEventListener:i,removeEventListener:h,emit:n,get:v,listeners:m,context:e,buffer:w,abort:s,aborted:!1};return x}function i(t){return f(t,c,a)}function a(){return new r}function s(){(d.api||d.feature)&&(l.aborted=!0,d=l.backlog={})}var c="nr@context",f=t("gos"),u=t(31),d={},p={},l=e.exports=o();e.exports.getOrSetContext=i,l.backlog=d},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!T++){var t=O.info=NREUM.info,e=m.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();c(E,function(e,n){t[e]||(t[e]=n)});var n=a();s("mark",["onload",n+O.offset],null,"api"),s("timing",["load",n]);var r=m.createElement("script");0===t.agent.indexOf("http://")||0===t.agent.indexOf("https://")?r.src=t.agent:r.src=l+"://"+t.agent,e.parentNode.insertBefore(r,e)}}function o(){"complete"===m.readyState&&i()}function i(){s("mark",["domContent",a()+O.offset],null,"api")}var a=t(26),s=t("handle"),c=t(31),f=t("ee"),u=t(29),d=t(21),p=t(23),l=d.getConfiguration("ssl")===!1?"http":"https",h=window,m=h.document,v="addEventListener",w="attachEvent",g=h.XMLHttpRequest,y=g&&g.prototype,x=!1;NREUM.o={ST:setTimeout,SI:h.setImmediate,CT:clearTimeout,XHR:g,REQ:h.Request,EV:h.Event,PR:h.Promise,MO:h.MutationObserver};var b=""+location,E={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-spa-1216.min.js"},R=g&&y&&y[v]&&!/CriOS/.test(navigator.userAgent),O=e.exports={offset:a.getLastTimestamp(),now:a,origin:b,features:{},xhrWrappable:R,userAgent:u,disabled:x};if(!x){t(20),t(27),m[v]?(m[v]("DOMContentLoaded",i,p(!1)),h[v]("load",r,p(!1))):(m[w]("onreadystatechange",o),h[w]("onload",r)),s("mark",["firstbyte",a.getLastTimestamp()],null,"api");var T=0}},{}],"wrap-function":[function(t,e,n){function r(t,e){function n(e,n,r,c,f){function nrWrapper(){var i,a,u,p;try{a=this,i=d(arguments),u="function"==typeof r?r(i,a):r||{}}catch(l){o([l,"",[i,a,c],u],t)}s(n+"start",[i,a,c],u,f);try{return p=e.apply(a,i)}catch(h){throw s(n+"err",[i,a,h],u,f),h}finally{s(n+"end",[i,a,p],u,f)}}return a(e)?e:(n||(n=""),nrWrapper[p]=e,i(e,nrWrapper,t),nrWrapper)}function r(t,e,r,o,i){r||(r="");var s,c,f,u="-"===r.charAt(0);for(f=0;f<e.length;f++)c=e[f],s=t[c],a(s)||(t[c]=n(s,u?c+r:r,o,c,i))}function s(n,r,i,a){if(!h||e){var s=h;h=!0;try{t.emit(n,r,i,e,a)}catch(c){o([c,n,r,i],t)}h=s}}return t||(t=u),n.inPlace=r,n.flag=p,n}function o(t,e){e||(e=u);try{e.emit("internal-error",t)}catch(n){}}function i(t,e,n){if(Object.defineProperty&&Object.keys)try{var r=Object.keys(t);return r.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(i){o([i],n)}for(var a in t)l.call(t,a)&&(e[a]=t[a]);return e}function a(t){return!(t&&t instanceof Function&&t.apply&&!t[p])}function s(t,e){var n=e(t);return n[p]=t,i(t,n,u),n}function c(t,e,n){var r=t[e];t[e]=s(r,n)}function f(){for(var t=arguments.length,e=new Array(t),n=0;n<t;++n)e[n]=arguments[n];return e}var u=t("ee"),d=t(32),p="nr@original",l=Object.prototype.hasOwnProperty,h=!1;e.exports=r,e.exports.wrapFunction=s,e.exports.wrapInPlace=c,e.exports.argsToArray=f},{}]},{},["loader",2,17,5,3,4]);</script><meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, user-scalable=no" /><meta http-equiv="cleartype" content="on" /><link rel="shortcut icon" href="/Institutions/Franciscan-University/images/favicon.png" /><link href="/Institutions/Franciscan-University/styles/FranciscanCustom.css" rel="stylesheet" type="text/css" /><link href="/Institutions/Franciscan-University/styles/styles.css" rel="stylesheet" type="text/css" /><link href="/Institutions/Franciscan-University/styles/print.css" rel="stylesheet" type="text/css" media="print" />
+	 
+	 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js"></script>
+	 
+	 <script type="text/javascript" src="/scripts/insertHeaderFooter.js"></script>
+	 <script type="text/javascript" src="/scripts/treeListCDN.js"></script>
+     <script id="csNewRelicScript" type="text/javascript" src="/scripts/newRelicCustom.js" clientid="{B4E1E13B-2257-47F8-83A8-B30FFBA14882}"></script>
+	 <script type="text/javascript" src="/scripts/coursepopup.js"></script>
+	 <script type="text/javascript" src="/Institutions/Franciscan-University/scripts/newscript.js"></script>
+     <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/themes/smoothness/jquery-ui.css" rel="Stylesheet" type="text/css" /></head>
+
+<body >
+		<form method="post" action="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/" id="Form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="vJvgkuqTx9U+xFNpFzZqFbqrTmt+R0AylNtf8UF/x4Kbha6Xtlt0MviVjlSGtStedq6vlwXpr9tanUhRTNIFreVGlzr8KpEI/qpUWiW3ZE6PvXiIQ0I97Ua+gtw04wGs" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="33A2AB89" />
+</div>
+			<div id="pagewrapper1">
+				<div id="pagewrapper2">
+					<div id="banner">
+					<!--LOGO AND HEADER LINKS CAN GO HERE-->
+					<div class="headerSource">
+                      <header class="deptOrProgram" style="height: 139px;">      
+				<section class="departmentRow row clearfix equalHeights">
+                <!-- Logo -->
+                <article class="logoContainer">
+                    <h1 class="logo">
+                        <span>Franciscan University of Steubenville</span>
+                        <a href="http://franciscan.edu/">                    
+                            <img src="/Institutions/Franciscan-University/images/logo_department.png" alt="logo department" />
+                        </a>
+                    </h1>   
+                </article> 	
+				</section> 
+        </header>   
+ </div> 
+</div><!-- end banner --> 
+					
+					<div id="middle">			
+					<div id="breadcrumb">
+								<p id="breadcrumbs"><a href="/en/2025-2026/undergraduate-catalog-2025-2026">Undergraduate Catalog 2025-2026</a> &gt; <a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs">Academic Programs</a> &gt; Computer Science</p>
+							</div><!-- end of breadcrumb -->
+						<!--LEFT NAV-->
+						<div id="leftpanel">
+
+                      <div id="searchtoggle">	</div>				
+					  
+<link href="/css/styles/search.css" rel="stylesheet" type="text/css" />
+<script>
+    function displayResult() {
+        $("#main, #main-content").html("<p>Loading search results...</p>");
+        var protocol = window.location.protocol;
+        var searchTerm = $("#leftcolumn_0_txtBxTerm").val();
+        var searchURL = protocol + "//iq2.smartcatalogiq.com/?sc_itemid={9FEB2070-D9F0-42FC-8433-F742E450E191}&q=" + searchTerm;
+        if ($("#leftcolumn_0_drpSearchType").val() === "programs") {
+            searchURL = searchURL + "&f=programs";
+        }
+        if ($("#leftcolumn_0_drpSearchType").val() === "courses") {
+            searchURL = searchURL + "&f=courses";
+        }
+        getAndInsertResult(searchURL);
+        return false;
+    }
+
+    function getAndInsertResult(searchURL) {
+        $.get(
+            searchURL,
+            function (data) {
+                // Remove any leading whitespaces and blank lines in the search results page to allow jquery to parse it as html
+                var maincontent = $(data.replace(/^\s*[\r\n]/gm, '')).find("#main, #main-content");
+                if (!(window.location.hostname.toLowerCase().startsWith("iq"))) {
+                    maincontent.find("a").each(function (index) {
+                        var href = $(this).attr("href");
+                        // Don't alter the element if there is no href attribute
+                        if (typeof href !== 'undefined' && href !== false) {
+                            // expect search result href to be like "/Catalogs/City-University-of-Seattle/2021-2022/Catalog/Course-Descriptions/CS-Computer-Science/500/CS-570"
+                            // OR "/en/Catalogs/City-University-of-Seattle/2021-2022/Catalog/Course-Descriptions/CS-Computer-Science/500/CS-570"
+                            var instName = "Franciscan-University";
+                            var pathParts = href.split("/");
+                            var instPartIndex = pathParts.findIndex(x => x.toLowerCase() === instName.toLowerCase())
+                            var replacementPath = "/" + pathParts.slice(instPartIndex + 1).join("/");
+                            $(this).attr("href", replacementPath);
+                        }
+                    });
+                }
+
+                var paginationcontent = maincontent.find(".sc-searchPagination");
+                paginationcontent.find("a").each(function (index) {
+                    var href = $(this).attr("href");
+                    if (typeof href !== 'undefined' && href !== false) {
+                        // expect search pagination hrefs to be like "/?q=test&page=2"
+                        var params = href.replace("?", "&").replace("/", "");
+                        var paginatedSearchURL = window.location.protocol + "//iq2.smartcatalogiq.com/?sc_itemid={9FEB2070-D9F0-42FC-8433-F742E450E191}" + params;
+                        $(this).click(function(){
+                            getAndInsertResult(paginatedSearchURL);
+                            return false;
+                        });
+                    }
+                });
+
+                var paginationnavlinks = maincontent.find("a.sc-searchPagination-nav");
+                paginationnavlinks.each(function (index) {
+                    var href = $(this).attr("href");
+                    if (typeof href !== 'undefined' && href !== false) {
+                        // expect search pagination hrefs to be like "/?q=test&page=2"
+                        var params = href.replace("?", "&").replace("/", "");
+                        var paginatedSearchURL = window.location.protocol + "//iq2.smartcatalogiq.com/?sc_itemid={9FEB2070-D9F0-42FC-8433-F742E450E191}" + params;
+                        $(this).click(function(){
+                            getAndInsertResult(paginatedSearchURL);
+                            return false;
+                        });
+                    }
+                });
+                $("#main,#main-content").html(maincontent.contents());
+            }
+        );
+    }
+
+    $(document).ready(function () {
+        $('#leftcolumn_0_txtBxTerm').keypress(function (event) {
+            var keycode = (event.keyCode ? event.keyCode : event.which);
+            if (keycode == '13') {
+                event.preventDefault();
+                displayResult();
+                return false;
+            }
+        });
+    });
+</script>
+
+<div id="leftcolumn_0_Panel1">
+	<div class="sidebox">
+		<div class="hdr">
+			<label for="leftcolumn_0_txtBxTerm" id="leftcolumn_0_searchTextLabel">Catalog Search</label>
+		</div>
+		<div class="sideboxbrdr">
+			<input aria-label="Search Catalog" name="leftcolumn_0$txtBxTerm" type="text" id="leftcolumn_0_txtBxTerm">
+			<div style="text-indent: -999em;">
+				<label for="leftcolumn_0_drpSearchType" id="leftcolumn_0_filterLabel">Search Options</label>
+			</div>
+			<select name="leftcolumn_0$drpSearchType" id="leftcolumn_0_drpSearchType">
+				<option selected="selected" value="">Entire Catalog</option>
+				<option value="programs">Programs</option>
+				<option value="courses">Courses</option>
+			</select>
+			<button type="button" name="leftcolumn_0$btnSubmit" id="leftcolumn_0_btnSubmit" onclick="displayResult()">Search</button>
+            <div style="display:none;" id="catalogBaseUrl">http://franciscan.smartcatalogiq.com/</div>
+			<div style="display:none;" id="indexId">5adc41ec-feb7-41c6-a7d8-4be69b8f18d0</div>
+			<div style="display:none;" id="searchUrl">https://searchproxy.smartcatalogiq.com/search</div>
+			<div style="display:none;" id="itemId">00492e07-bf82-4b26-ad3a-0f0e88b53d48</div>
+			<div style="display:none;" id="category">other</div>
+
+		</div>
+	</div>
+</div>
+                <script>
+                    $(function () {
+                        if (window.location.search.includes('website_preview')) {
+                            $('#leftpanel').hide();
+                        }
+                    });
+                </script>
+                <div id='navJsonPath' style='display:none;'>/Institutions/Franciscan-University/json/2025-2026/Undergraduate-Catalog-2025-2026-local.json</div><div id='navJsonPathCDN' style='display:none;'>/Institutions/Franciscan-University/json/2025-2026/Undergraduate-Catalog-2025-2026.json</div><div class="sidebox">
+	<div class="hdr">
+		Contents
+	</div>
+</div>
+						 <div class="toc">
+							<ul id="navLocal" class="navLocal">
+	<li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/general-information">General Information</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/admission-to-undergraduate-studies">Admission to Undergraduate Studies</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/financial-information">Financial Information</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/the-student-experience">The Student Experience</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/registration-and-enrollment">Registration and Enrollment</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/grade-information">Grade Information</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-and-university-policies">Academic and University Policies</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/degree-requirements-and-graduation">Degree Requirements and Graduation</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/special-academic-features">Special Academic Features</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/student-support-services">Student Support Services</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/our-schools">Our Schools</a></li><li class="hasChildren active"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs">Academic Programs</a><ul>
+		<li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/accounting">Accounting</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/aerospace-studies-minor">Aerospace Studies (minor program only)</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/anthropology">Anthropology</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/art">Art</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/biology">Biology</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/business-administration">Business Administration</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/catechetics-and-evangelization">Catechetics and Evangelization</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/chemistry">Chemistry and Biochemistry</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/child-development">Child Development</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics">Classics</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/communication-arts">Communication Arts</a></li><li class="hasChildren active"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science">Computer Science</a><ul>
+			<li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/computer-science-bachelor-of-science">Computer Science, Bachelor of Science</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/computer-science-cybersecurity-bachelor-of-science">Computer Science (Cybersecurity Concentration), Bachelor of Science</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/computer-science-minor">Computer Science Minor</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/bioinformatics-certificate-program">Bioinformatics Certificate Program</a></li>
+		</ul></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/criminal-justice">Criminal Justice</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/economics">Economics</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education">Education</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering">Engineering</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/english">English</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/entrepreneurship-minor">Entrepreneurship (minor program only)</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/exercise-science-minor">Exercise Science (minor program only)</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/finance">Finance</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/forensic-science-minor">Forensic Science (minor program only)</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/french">French</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/german">German</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/history">History</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/honors-program">Honors Program</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/human-development-and-family-studies">Human Development and Family Studies</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/human-life-studies-minor-program-only">Human Life Studies (minor program only)</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/humanities-and-catholic-culture">Humanities and Catholic Culture</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/legal-studies-minor">Legal Studies (minor program only)</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/management">Management</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/marketing">Marketing</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/mathematical-science">Mathematical Science</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/military-science-army-rotc-program">Military Science (Army ROTC Program)</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/modern-languages-and-literatures">Modern Languages and Literatures</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/natural-and-applied-sciences">Natural and Applied Sciences</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/nursing">Nursing</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/philosophy">Philosophy</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/physics">Physics</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/political-science">Political Science</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/pre-pharmacy">Pre-Pharmacy</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/psychology">Psychology</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/sacred-music">Sacred Music</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/social-work">Social Work</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/sociology-minor">Sociology (minor program only)</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/spanish">Spanish</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theatre">Theatre</a></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology">Theology</a></li>
+	</ul></li><li class="hasChildren"><a href="/en/2025-2026/undergraduate-catalog-2025-2026/courses">Courses</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/office-of-academic-effectiveness">Office of Academic Effectiveness</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/board-of-trustees">Board of Trustees</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/shared-governance-council">Shared Governance Council</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/university-faculty-and-staff">University Faculty and Staff </a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/accreditation-and-memberships">Accreditation and Memberships</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/appendix-a">Appendix A</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/appendix-b">Appendix B</a></li>
+</ul>
+					           <div class="sidebox">
+									<div class="sidebox">
+	<div class="hdr">
+		Catalog Links
+	</div><div class="sideboxbrdr">
+		<ul>
+			<li><a href="/en/2025-2026/undergraduate-catalog-2025-2026">Catalog Home</a></li><li><a href="/en/2025-2026/undergraduate-catalog-2025-2026/site-map">Site Map</a></li><li><a href="/en">All Catalogs</a></li>
+		</ul>
+	</div>
+</div>
+								</div><!-- end of sidebox -->
+								<div class="sidebox">
+	<div class="hdr">
+		Share
+	</div><div class="sideboxbrdr">
+		<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_print"></a>
+</div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4db17d15194e924f"></script>
+<!-- AddThis Button END -->    
+
+	</div>
+</div>
+							</div><!-- end of TOC -->
+						</div><!--end of leftpanel-->
+						<!-- Main content area -->
+						<div id="rightpanel">
+							<div id="sc-rightpanel-top">
+								<div id="sc-top-links">
+									<span class="mc_launch_pad" style="display: block;"> 
+										<span class="print"><a href="javascript:window.print()">Print this page</a></span>
+									</span>
+									
+
+<script type="text/javascript">
+			document.scContextItemId = '00492E07-BF82-4B26-AD3A-0F0E88B53D48';
+            document.scCDNURL = 'https://cdn-prod.smartcatalogiq.com/';
+</script>
+<div id="catalogJsonPath" style="display:none;">/Institutions/Franciscan-University/json/catalogs.json</div>
+<div id="currentCatalogID" style="display:none;">5ADC41EC-FEB7-41C6-A7D8-4BE69B8F18D0</div>
+<script type="text/javascript" src="https://cdn-prod.smartcatalogiq.com/catalog/bundle.js"></script>
+
+<div id="catalog-dropdown"></div>
+
+								</div><!--end of sc-top-links-->
+							</div><!--end sc-rightpanel-top-->
+							<div id="main">
+								<h1 Id="h1516">
+	Computer Science
+</h1><p class="sc-BodyTextNS">Dr. Justin Greenly, chair</p>
+<p class="sc-BodyTextNS">Dr. Tyler Brown</p>
+Prof. Jose Roberto Lopez&nbsp;&nbsp;
+<p class="sc-BodyTextNS">Rev. Dr. Stephen Frezza, PSEM</p>
+<p class="sc-BodyTextNS">Dr. Fernanda Psihas&nbsp;</p>
+<p class="sc-BodyTextNS">Dr. Michael Seibert</p>
+<p class="sc-BodyTextNS">&nbsp;</p>
+<p class="sc-BodyText"><strong></strong></p>
+<p class="sc-BodyText"><strong></strong>The Engineering and Computing programs at Franciscan University of Steubenville aim to prepare students to bring value to people through the development of technology. Guided by our Catholic faith, driven by innovation, we form virtuous engineering and computing professionals to serve the authentic good with skill and excellence.&nbsp;<br />
+<br />
+The department offers four different degree pathways: Computer Science, Mechanical Engineering, Software Engineering, and various Dual-Degree &ldquo;Pre-Engineering&rdquo; options in collaboration with partner schools. Each pathway offers students the opportunity to develop competence in a wide variety of engineering and computing disciplines and leverages the University&rsquo;s commitment to Dynamic Orthodoxy with coursework and retreats that foster virtue formation and are built firmly on the Catholic intellectual tradition.&nbsp;&nbsp;</p>
+<h2 class="sc-BodyText">Mission</h2>
+<p class="sc-BodyText">
+The mission of the Engineering and Computing Department is to form the intellectual and spiritual minds of the students through rigorous academic study, practical application of course material in internship and co-op opportunities, and retreat programs that focus on the continuous growth of virtues in the lives of students. The Engineering programs emphasize the development of professional and personal virtue unique to the Franciscan educational culture, preparing students to successfully seek employment in their chosen industry, while living in Truth and developing in virtue.&nbsp;</p>
+<p class="sc-BodyText">While engaged in careers or advanced studies, our Computer Science graduates will be recognized for:</p>
+<ol>
+    <li class="sc-BodyText"><strong><em>Excellence: </em></strong>Applying and improving advanced computing and software development skills to solve complex computing problems; Seeking and receiving mentorship; Excelling in collaboration, communication, and leadership within teams. </li>
+    <li class="sc-BodyText"><strong><em>Values: </em></strong>Being rooted in the Catholic Faith and backed by reason; demonstrating resolute adherence to strong moral and ethical principles and values: coupling a strong work ethic, integrity and responsibility for the truth with technology expertise.</li>
+    <li class="sc-BodyText"><strong><em>Impact:</em></strong> Consistently and prudently adapting the best technologies and methods, building a Catholic Engineering culture, mentoring others, positively impacting their workplace, community, nation and world.</li>
+</ol>
+<h2 class="sc-BodyText"><strong>Program Educational Objectives:</strong></h2>
+<p class="sc-BodyText">The engineering and computing programs at Franciscan University of Steubenville form graduates in virtue who are armed to rebuild the Church and sanctify the world. By educating and forming technically competent and personally balanced disciples of Jesus Christ who are prepared personally and professionally to act as leaven in transforming the culture, the programs succeed in delivering to the world joyful and courageous individuals who proclaim the truth of the Gospel from the heart of the Church. The programs foster a community of encounter and conversion, including the students, faculty, staff, alumni, and employers.&nbsp;</p>
+<h2 class="sc-SubHeading"><strong>Overview:</strong></h2>
+<p class="sc-BodyText">The Computer Science Major implements a curriculum designed to meet or exceed the requirements required of the ABET Computing Accreditation Commission (CAC) for Computer Science. The program includes formative courses in mathematics and natural science in addition to the computing courses that provide substantial coverage of algorithms and complexity, computer science theory, concepts of programming languages, security and software development. This includes coursework in at least three general-purpose programming languages, exposure to computer architecture and organization, information management, networking and communication, operating systems, and parallel and distributed computing. As with other department programs, it culminates with a major project that requires integration and application of knowledge and skills acquired in earlier course work.&nbsp;</p>
+<h2 class="sc-SubHeading"><strong>Aims:</strong></h2>
+<p class="sc-BodyText">As a result of satisfying the BS Computer Science program requirements, students are positioned to:&nbsp;</p>
+<ul>
+    <li class="sc-BodyText">
+    <p class="sc-BodyText">Analyze complex computing problems and apply principles of computing to meet customer requirements&nbsp;</p>
+    </li>
+    <li class="sc-BodyText">
+    <p class="sc-BodyText">Lead industry or government technology team efforts&nbsp;</p>
+    </li>
+    <li class="sc-BodyText">
+    <p class="sc-BodyText">Pursue an academic and/or research CS career&nbsp;</p>
+    </li>
+    <li class="sc-BodyText">
+    <p class="sc-BodyText">Efficiently and effectively utilize modern computing methodologies&nbsp;</p>
+    </li>
+    <li class="sc-BodyText">
+    <p class="sc-BodyText">Incorporate informed use of AI/ML&nbsp;</p>
+    </li>
+    <li class="sc-BodyText">
+    <p class="sc-BodyText">Develop original products for the benefit of persons and our global digital society&nbsp;</p>
+    </li>
+</ul>
+<p class="sc-BodyText">Through this, they will glorify the Lord through their chosen vocation.&nbsp;</p>
+<h2 class="sc-SubHeading"><strong>Assessment Learning Outcomes:</strong></h2>
+<p class="sc-BodyText">
+As a graduate in the BS Computer Science program, students will demonstrate the ability to:</p>
+<ol>
+    <li>
+    <p class="sc-BodyText">Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.&nbsp;</p>
+    </li>
+    <li>
+    <p class="sc-BodyText">Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program&rsquo;s discipline.&nbsp;</p>
+    </li>
+    <li>
+    <p class="sc-BodyText">Communicate effectively in a variety of professional contexts.&nbsp;</p>
+    </li>
+    <li>
+    <p class="sc-BodyText">Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.&nbsp;</p>
+    </li>
+    <li>
+    <p class="sc-BodyText">Function effectively as a member or leader of a team engaged in computing system development.&nbsp;</p>
+    </li>
+    <li>
+    <p class="sc-BodyText">Apply computer science theory and software development fundamentals to produce computing-based solutions.&nbsp;</p>
+    </li>
+    <li>
+    <p class="sc-BodyText">Acquire and apply new knowledge as needed, using appropriate learning strategies.&nbsp;</p>
+    </li>
+    <li>
+    <p class="sc-BodyText">Apply Catholic ethical principles guided by virtue to questions in industry and of technology development.&nbsp;</p>
+    </li>
+</ol>
+<p>&nbsp;</p>
+<p><a href="/en/2025-2026/undergraduate-catalog-2025-2026/courses/csc-computer-science-course-descriptions">Computer Science Course Descriptions</a></p><div class="combinedChild">
+
+</div><div class="sc-parentlink">
+	<h3 class="sc-relatedlinklabel">
+		Up one level
+	</h3><ul>
+		<li><p><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs">Academic Programs</a></p></li>
+	</ul>
+</div><div class="sc-childlinks">
+	<h3 class="sc-relatedlinklabel">
+		In this section
+	</h3><ul>
+		<li><p><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/computer-science-bachelor-of-science">Computer Science, Bachelor of Science</a></p></li><li><p><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/computer-science-cybersecurity-bachelor-of-science">Computer Science (Cybersecurity Concentration), Bachelor of Science</a></p></li><li><p><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/computer-science-minor">Computer Science Minor</a></p></li><li><p><a href="/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/bioinformatics-certificate-program">Bioinformatics Certificate Program</a></p></li>
+	</ul>
+</div>
+							</div><!-- end main -->
+						</div><!--end of rightpanel-->
+						<div style="clear: both;"></div>
+					</div><!--end of middle-->
+					
+		<!-- Footer -->
+					<div id="footer">
+					<!--FOOTER LINKS AND IMAGES CAN GO HERE-->
+
+					         <footer style="height:80px;">
+
+                <section class="footerTopSection row clearfix equalHeights">
+
+                    <!-- Footer Left Column -->
+                    <article class="footerLeftCol large-4">
+                        <div id="ctl00_ContentBlockFooterLeft">
+	<a href="http://franciscan.edu/home.aspx"><img class="footerLogo" alt="Franciscan University Of Steubenville" src="/Institutions/Franciscan-University/images/logoTxt.png" /> </a> 
+</div>
+                    </article>
+
+                    <!-- Footer Middle Column -->
+
+
+                    <!-- Footer Right Column -->
+
+
+                </section>
+
+                <!-- Copyright -->
+
+            </footer>
+					<p id="footerSC"><a href="https://www.academiccatalog.com/" title="SmartCatalog IQ" target="_blank">Powered by SmartCatalog IQ</a></p>
+					</div><!--end of footer-->
+					
+				</div><!--end of pagwrapper2 -->
+			</div><!--end of pagewrapper1-->
+		</form>
+	</body>
+</html>

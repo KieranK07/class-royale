@@ -1,0 +1,1803 @@
+{
+  "department": "English",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "English (British and American Literature Concentration), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/english/english-british-and-american-literature-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ENG 201"
+          ],
+          "title": "Literary Genres and Critical Approaches",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 405"
+          ],
+          "title": "Studies in Shakespeare",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-A)*",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-A)*",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-B)*",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-C)*",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-D)*",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-E)*",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-F)*",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Literary Genres and Critical Approaches",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies OR Studies in Shakespeare",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325",
+            "ENG 405"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 434"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "English Elective (Literature-A)*",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "English Elective (Literature-A)*",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "English Elective (Literature-B)*",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-6",
+          "label": "English Elective (Literature-C)*",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-7",
+          "label": "English Elective (Literature-D)*",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-8",
+          "label": "English Elective (Literature-E)*",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-9",
+          "label": "English Elective (Literature-F)*",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the English Major British and American Literature Concentration:",
+          "text": "The choice of English electives and what semester or year they are offered is regulated by the department. The department requires at least 9 hours in British literature and 6 hours in American literature. (A) American: Two from ENG 235, ENG 300, ENG 301, ENG 302, ENG 415, or ENG 421 (at least one of the two must be 300, 301, 302, or 415); (B) Single Author: One from ENG 324, ENG 331, or ENG 447; (C) Early Period: One from ENG 326, ENG 335 or ENG 340; (D) 19th Century: One from ENG 345 or ENG 346; (E) Modern Period: One from ENG 350, ENG 410, ENG 416, ENG 440, or ENG 445; (F) Literature Elective: May be fulfilled by any upper level (300-400 level) literature course offered by the English Department which has not already been applied to categories A through E.",
+          "codes": [
+            "ENG 235",
+            "ENG 300",
+            "ENG 301",
+            "ENG 302",
+            "ENG 415",
+            "ENG 421",
+            "ENG 324",
+            "ENG 331",
+            "ENG 447",
+            "ENG 326",
+            "ENG 335",
+            "ENG 340",
+            "ENG 345",
+            "ENG 346",
+            "ENG 350",
+            "ENG 410",
+            "ENG 416",
+            "ENG 440",
+            "ENG 445"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "British and American Literature Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/english/british-and-american-literature-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 300"
+          ],
+          "title": "American Poetry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 301"
+          ],
+          "title": "American Literature to 1865",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 302"
+          ],
+          "title": "American Literature from 1865",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 415"
+          ],
+          "title": "The American Novel",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 324"
+          ],
+          "title": "Shakespeare's Histories and Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 331"
+          ],
+          "title": "Studies in Chaucer",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 335"
+          ],
+          "title": "The English Renaissance",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 336"
+          ],
+          "title": "The Metaphysical Poets",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 340"
+          ],
+          "title": "Eighteenth-Century Literature",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 405"
+          ],
+          "title": "Studies in Shakespeare",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 447"
+          ],
+          "title": "Milton",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 300"
+          ],
+          "title": "American Poetry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 301"
+          ],
+          "title": "American Literature to 1865",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 302"
+          ],
+          "title": "American Literature from 1865",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 326"
+          ],
+          "title": "English Literature of the Medieval Period",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 331"
+          ],
+          "title": "Studies in Chaucer",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 335"
+          ],
+          "title": "The English Renaissance",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 336"
+          ],
+          "title": "The Metaphysical Poets",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 340"
+          ],
+          "title": "Eighteenth-Century Literature",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 345"
+          ],
+          "title": "The Romantic Movement",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 346"
+          ],
+          "title": "The Victorian Period",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 350"
+          ],
+          "title": "Modern Drama",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 404"
+          ],
+          "title": "English Drama",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 409"
+          ],
+          "title": "The Development of the English Novel",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 410"
+          ],
+          "title": "The Modern British Novel",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 415"
+          ],
+          "title": "The American Novel",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 430"
+          ],
+          "title": "Literary Criticism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 440"
+          ],
+          "title": "Modern Poetry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 445"
+          ],
+          "title": "Modern Short Fiction",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 447"
+          ],
+          "title": "Milton",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 449"
+          ],
+          "title": "Modern Criticism",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "One of the following:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 300",
+            "ENG 301",
+            "ENG 302",
+            "ENG 415"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-2",
+          "label": "One of the following:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 324",
+            "ENG 331",
+            "ENG 335",
+            "ENG 336",
+            "ENG 340",
+            "ENG 405",
+            "ENG 447"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-3",
+          "label": "Three of the following:",
+          "subgroup": null,
+          "count": 3,
+          "unit": "courses",
+          "options": [
+            "ENG 300",
+            "ENG 301",
+            "ENG 302",
+            "ENG 326",
+            "ENG 331",
+            "ENG 335",
+            "ENG 336",
+            "ENG 340",
+            "ENG 345",
+            "ENG 346",
+            "ENG 350",
+            "ENG 404",
+            "ENG 409",
+            "ENG 410",
+            "ENG 415",
+            "ENG 430",
+            "ENG 440",
+            "ENG 445",
+            "ENG 447",
+            "ENG 449"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "English (Writing Concentration), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/english/english-writing-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 201"
+          ],
+          "title": "Literary Genres and Critical Approaches",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 225"
+          ],
+          "title": "Advanced Composition I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 322"
+          ],
+          "title": "Rhetoric",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 327"
+          ],
+          "title": "English Grammar for Teachers and Writers",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 405"
+          ],
+          "title": "Studies in Shakespeare",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 332"
+          ],
+          "title": "Creative Writing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 406"
+          ],
+          "title": "Fiction Writing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 407"
+          ],
+          "title": "Poetry Writing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Writing Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Literature elective courses",
+          "credits": 12,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Literary Genres and Critical Approaches",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 201"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Advanced Composition I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 225"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Rhetoric",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 322"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "English Grammar for Teachers and Writers",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 327"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies OR Studies in Shakespeare",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325",
+            "ENG 405"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Creative Writing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 332"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Fiction Writing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 406"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Poetry Writing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 407"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 434"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Writing Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Literature elective courses",
+          "subgroup": null,
+          "count": 12,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 12
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the English Major Writing Concentration:",
+          "text": "The choice of English literature electives is regulated by the department. The department requires at least 3 credits in American Literature, 3 credits in British Literature, 3 credits in Contemporary or Modern Literature, and at least 3 credits in either British Literature, American Literature, or World Literature. The Department requires one Writing Elective selected from among the following courses: Business and Professional Writing (ENG 320), Teaching Writing as a Process (ENG 328), Editing and Proofreading (ENG 390).",
+          "codes": [
+            "ENG 320",
+            "ENG 328",
+            "ENG 390"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "English with AYA Licensure: (British and American Literature Concentration), Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/english/english-with-aya-licensure-british-and-american-literature-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ENG 210"
+          ],
+          "title": "Epic and the Person",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "History Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elementary Foreign Language OR Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 211"
+          ],
+          "title": "Lyric and Dramatic Voices",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elementary Foreign Language OR Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "ENG 201"
+          ],
+          "title": "Literary Genres and Critical Approaches",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 235"
+          ],
+          "title": "African-American Literature",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 280"
+          ],
+          "title": "English Phonology and Phonography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-B)*",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "ENG 301"
+          ],
+          "title": "American Literature to 1865",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 302"
+          ],
+          "title": "American Literature from 1865",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 327"
+          ],
+          "title": "English Grammar for Teachers and Writers",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "ENG 405"
+          ],
+          "title": "Studies in Shakespeare",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 305"
+          ],
+          "title": "Teaching English Language Arts",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-C)*",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "ENG 345"
+          ],
+          "title": "The Romantic Movement",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 346"
+          ],
+          "title": "The Victorian Period",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 328"
+          ],
+          "title": "Teaching Writing as a Process",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 416"
+          ],
+          "title": "Modern World Literature",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "English Elective (Literature-F)*",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 414"
+          ],
+          "title": "Adolescence and Young Adult Student Teaching",
+          "credits": 9,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Epic and the Person",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 210"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Pre-Field Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Foundations of Education",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "History Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "Natural Science Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Elementary Foreign Language OR Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-6",
+          "label": "Lyric and Dramatic Voices",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 211"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Philosophy Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Elementary Foreign Language OR Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Literary Genres and Critical Approaches",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 201"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "African-American Literature",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 235"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "English Phonology and Phonography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 280"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Early Experience I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Mathematics for Early and Middle Grade Teachers I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 121"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Theology Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-19",
+          "label": "American Founding Principles Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-20",
+          "label": "English Elective (Literature-B)*",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-21",
+          "label": "Philosophy Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-23",
+          "label": "American Literature to 1865 OR American Literature from 1865",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 301",
+            "ENG 302"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "English Grammar for Teachers and Writers",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 327"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Early Experience II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Educational Psychology",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Natural Science Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-28",
+          "label": "Theology Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-29",
+          "label": "Shakespeare: The Tragedies and Tragi-Comedies OR Studies in Shakespeare",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 325",
+            "ENG 405"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Teaching English Language Arts",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 305"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Content Area Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "English Elective (Literature-C)*",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-33",
+          "label": "Philosophy Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-34",
+          "label": "Theology Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-35",
+          "label": "The Romantic Movement OR The Victorian Period",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 345",
+            "ENG 346"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Teaching Writing as a Process",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 328"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Modern World Literature",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 416"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "English Elective (Literature-F)*",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-41",
+          "label": "Senior Thesis",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 434"
+          ]
+        },
+        {
+          "id": "grp-42",
+          "label": "Teaching Strategies",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-43",
+          "label": "Adolescence and Young Adult Student Teaching",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 414"
+          ]
+        },
+        {
+          "id": "grp-44",
+          "label": "Coordinating Seminar",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Students seeking licensure to teach English on the high school level (AYA Grades 7-12, Ages 12-21) should follow the following course sequence. Students will be declared as English majors (choose one of the above concentrations) and EDU AYALA majors. Students need to work with BOTH majors to earn the bachelor of arts degree from Franciscan University.",
+          "codes": []
+        },
+        {
+          "section": "Senior Year",
+          "text": "* The choice of English electives and what semester they are offered is regulated by the department. The department requires at least 9 hours in British literature and 6 hours in American literature. (A) American: Two from ENG 235, ENG 300, ENG 301, ENG 302, ENG 415 or ENG 421 (at least one of the two must be ENG 300, ENG 301, ENG 302, or ENG 415); (B) Single Author: One from ENG 324, ENG 331, 405, or ENG 447;(C) Early Period: One from ENG 326, ENG 335 or ENG 340; (D) 19th Century: One from ENG 345 or ENG 346; (E) Modern Period: One from ENG 350, ENG 410, ENG 416, ENG 440 or ENG 445; (F) Miscellaneous: One from ENG 336, ENG 375, ENG 404, ENG 409, or ENG 430; or any additional course from B-F.",
+          "codes": [
+            "ENG 235",
+            "ENG 300",
+            "ENG 301",
+            "ENG 302",
+            "ENG 415",
+            "ENG 421",
+            "ENG 300",
+            "ENG 301",
+            "ENG 302",
+            "ENG 415",
+            "ENG 324",
+            "ENG 331",
+            "ENG 447",
+            "ENG 326",
+            "ENG 335",
+            "ENG 340",
+            "ENG 345",
+            "ENG 346",
+            "ENG 350",
+            "ENG 410",
+            "ENG 416",
+            "ENG 440",
+            "ENG 445",
+            "ENG 336",
+            "ENG 375",
+            "ENG 404",
+            "ENG 409",
+            "ENG 430"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "Writing Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/english/writing-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 225"
+          ],
+          "title": "Advanced Composition I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 332"
+          ],
+          "title": "Creative Writing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "3 Upper-Level English Writing Courses",
+          "credits": 9,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Advanced Composition I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 225"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Creative Writing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 332"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "3 Upper-Level English Writing Courses",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

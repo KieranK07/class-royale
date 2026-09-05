@@ -1,0 +1,20 @@
+{
+  "department": "Physics",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Physics",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/physics",
+      "kind": "department-page",
+      "narrative": [
+        "Dr. Valerie Plaus, chair",
+        "Dr. Fernanda Psihas",
+        "Courses in physics are offered each semester to support the majors of biology, chemistry, biochemistry, education, and engineering as well as to provide students with the opportunity to satisfy natural science core requirements.",
+        "Physics Course Descriptions"
+      ],
+      "mentionedCodes": [],
+      "slots": [],
+      "requirements": []
+    }
+  ]
+}

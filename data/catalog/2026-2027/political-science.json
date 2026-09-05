@@ -1,0 +1,517 @@
+{
+  "department": "Political Science",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Political Science, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/political-science/political-science-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "POL 101"
+          ],
+          "title": "Foundations of Politics and Government",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 233"
+          ],
+          "title": "International Politics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 291",
+            "PHL 391"
+          ],
+          "title": "Ancient/Medieval Political Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 292",
+            "PHL 392"
+          ],
+          "title": "Modern Political Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 293",
+            "PHL 393"
+          ],
+          "title": "Contemporary Political Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 320"
+          ],
+          "title": "Comparative Politics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 358"
+          ],
+          "title": "American Constitutional Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 361"
+          ],
+          "title": "American State and Local Government",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 347"
+          ],
+          "title": "Metropolitan Politics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Upper-level POL courses",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 290"
+          ],
+          "title": "Historical Methods",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 211",
+            "PHL 511"
+          ],
+          "title": "Metaphysics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 208"
+          ],
+          "title": "History of the United States II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Foundations of Politics and Government",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "American National Government",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "International Politics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 233"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Ancient/Medieval Political Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 291",
+            "PHL 391"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Modern Political Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 292",
+            "PHL 392"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Contemporary Political Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 293",
+            "PHL 393"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Comparative Politics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 320"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "American Constitutional Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 358"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "American State and Local Government OR Metropolitan Politics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 361",
+            "POL 347"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 435"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Upper-level POL courses",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        },
+        {
+          "id": "grp-11",
+          "label": "Historical Methods",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 290"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Metaphysics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 211",
+            "PHL 511"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "History of the United States I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 207"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "History of the United States II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 208"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Political Science Major:",
+          "text": "Note: POL 101, HST 207, HST 208, HST 290, PHL 113, PHL 211, and PHL 212 must be taken by the end of the student's fourth semester as a political science major.",
+          "codes": [
+            "POL 101",
+            "HST 207",
+            "HST 208",
+            "PHL 113",
+            "PHL 211",
+            "PHL 212"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Political Science Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/political-science/political-science-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "POL 101"
+          ],
+          "title": "Foundations of Politics and Government",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 233"
+          ],
+          "title": "International Politics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 291",
+            "PHL 391"
+          ],
+          "title": "Ancient/Medieval Political Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 292",
+            "PHL 392"
+          ],
+          "title": "Modern Political Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 320"
+          ],
+          "title": "Comparative Politics",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Foundations of Politics and Government",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "American National Government",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "International Politics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 233"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Ancient/Medieval Political Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 291",
+            "PHL 391"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Modern Political Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 292",
+            "PHL 392"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Comparative Politics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 320"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "department": "French",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "French, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/french/french-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [],
+          "title": "24 credits of upper-level (300-400) French courses",
+          "credits": 24,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FRN 434"
+          ],
+          "title": "Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FRN 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "24 credits of upper-level (300-400) French courses",
+          "subgroup": null,
+          "count": 24,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 24
+        },
+        {
+          "id": "grp-1",
+          "label": "Thesis OR Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FRN 434",
+            "FRN 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the French Major:",
+          "text": "Degree Requirements: 25 credit hours, including eight courses from FRN 300-400 level, and FRN 434 or FRN 435.",
+          "codes": [
+            "FRN 434",
+            "FRN 435"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the French Major:",
+          "text": "Students may substitute a maximum of two non-FRN-coded courses from among: HST 323 The Medieval World; HST 324 Renaissance and Reformation; HST 327 French Revolution; HST 339 Knighthood and Chivalry; HST 342 The Crusades. With permission (based on course content in a specific semester) the following may also be applied to the French major requirements: ENG 318 European Romanticism; ENG 350 Modern Drama; ENG 423 Readings in World Literature; ENG 430 Literary Criticism; PHL 420 Existentialism.",
+          "codes": [
+            "HST 323",
+            "HST 324",
+            "HST 327",
+            "HST 339",
+            "HST 342",
+            "ENG 318",
+            "ENG 350",
+            "ENG 423",
+            "ENG 430",
+            "PHL 420"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the French Major:",
+          "text": "Students who are not prepared to enter the 300 level must begin with the Intermediate or Elementary-level courses as prerequisites. Placement in French courses will be determined by placement exam, waiver exam, or transfer credit. As not every incoming student will possess sufficient proficiency to enter the 300-level courses, the typical program sheet will reflect the program of a student who starts at the intermediate level.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the French Major:",
+          "text": "All French majors are strongly encouraged to spend at least one semester or summer term of study abroad in a French-speaking nation or territory (typically France or Quebec) at a college or university in which the language of instruction is French. Credits earned during study abroad can be transferred to Franciscan University with departmental approval.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "French Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/french/french-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "FRN 201"
+          ],
+          "title": "Intermediate French I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "FRN 202"
+          ],
+          "title": "Intermediate French II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Upper-level French courses",
+          "credits": 12,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Intermediate French I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FRN 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Intermediate French II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "FRN 202"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Upper-level French courses",
+          "subgroup": null,
+          "count": 12,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 12
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

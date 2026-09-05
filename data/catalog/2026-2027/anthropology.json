@@ -1,0 +1,430 @@
+{
+  "department": "Anthropology",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Anthropology, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/anthropology/anthropology-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ANT 101"
+          ],
+          "title": "Cultural Anthropology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 102"
+          ],
+          "title": "Introduction to Physical Anthropology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 207"
+          ],
+          "title": "Archaeology Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 208"
+          ],
+          "title": "Anthropological Linguistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 403"
+          ],
+          "title": "Archaeology Field School I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 404"
+          ],
+          "title": "Archaeology Field School II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 406"
+          ],
+          "title": "Archaeology Lab",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Anthropology Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Anthropology Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Anthropology Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 104"
+          ],
+          "title": "Freshman English II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 320"
+          ],
+          "title": "Ancient History",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Science Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Science Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Science Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Cultural Anthropology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introduction to Physical Anthropology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 102"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Archaeology Theory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 207"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Anthropological Linguistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 208"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Archaeology Field School I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 403"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Archaeology Field School II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 404"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Archaeology Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 406"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ANT 435"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Anthropology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-9",
+          "label": "Anthropology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Anthropology Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Survey of Biological Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 106"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Anatomy and Physiology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 133"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Freshman English I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Freshman English II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 104"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Ancient History",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 320"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Science Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Science Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Science Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Anthropology Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/anthropology/anthropology-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ANT 101"
+          ],
+          "title": "Cultural Anthropology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 102"
+          ],
+          "title": "Introduction to Physical Anthropology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 207"
+          ],
+          "title": "Archaeology Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ANT 208"
+          ],
+          "title": "Anthropological Linguistics",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "3 of these 4 required and 9 credits in other anthropology courses.",
+          "subgroup": null,
+          "count": 3,
+          "unit": "courses",
+          "options": [
+            "ANT 101",
+            "ANT 102",
+            "ANT 207",
+            "ANT 208"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [
+        "3 of these 4 required and 9 credits in other anthropology courses."
+      ],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

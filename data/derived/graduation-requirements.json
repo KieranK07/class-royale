@@ -1,0 +1,493 @@
+{
+  "catalogYear": "2025-2026",
+  "rules": [
+    {
+      "rule": "Students must meet a second/foreign language requirement",
+      "number": null,
+      "unit": null,
+      "appliesTo": "BA",
+      "evidence": "Students completing a Bachelor of Arts program must meet a second/foreign language requirement that is taught at Franciscan University of Steubenville or for which an appropriate examination can be given.",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "Foreign language requirement can be fulfilled by demonstrating proficiency at the intermediate level",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "Students may earn credits on their transcripts and fulfill the second/foreign language requirement by demonstrating proficiency at the intermediate level (e.g., transfer credit, or credit by examination such as the CLEP or AP exams).",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "Courses for the foreign language requirement may not be foreign literature courses conducted in English",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "These courses may not include foreign literature courses conducted in English.",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "Foreign language requirement can be satisfied by transfer credit with appropriate proficiency demonstration",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "Students may earn credits on their transcripts and fulfill the second/foreign language requirement by demonstrating proficiency at the intermediate level (e.g., transfer credit, or credit by examination such as the CLEP or AP exams).",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "Foreign language requirement can be satisfied by credit by examination (CLEP or AP exams)",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "Students may earn credits on their transcripts and fulfill the second/foreign language requirement by demonstrating proficiency at the intermediate level (e.g., transfer credit, or credit by examination such as the CLEP or AP exams).",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "Waiver exam may satisfy the foreign language requirement with an appropriate score, but does not provide university credits on transcript",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "Franciscan University offers a waiver exam that may satisfy the second/foreign language requirement with an appropriate score; however, this exam does not provide university credits for the student on the transcript.",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "American Sign Language (ASL) counts as foreign language credit if it meets intermediate level two proficiency requirement",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "American Sign Language (ASL) counts for foreign language credit similar to any other foreign language that is not offered at FUS (ex: Italian, Chinese). The requirements for ASL are the same as those for any other language, with intermediate level two proficiency required.",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "ASL credit may be transferred according to the University's transfer policy",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "Though Franciscan University does not offer ASL, students may transfer credit according to the University's transfer policy.",
+      "source": "grad-foreign-language-requirement"
+    },
+    {
+      "rule": "Academic minor requires minimum credits",
+      "number": 18,
+      "unit": "semester credit hours",
+      "appliesTo": "minors",
+      "evidence": "A minor requires a minimum of 18 semester credit hours with a 2.00 quality point average.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Academic minor requires minimum GPA",
+      "number": 2,
+      "unit": "gpa",
+      "appliesTo": "minors",
+      "evidence": "A minor requires a minimum of 18 semester credit hours with a 2.00 quality point average.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Transfer students must earn upper-level credits at Franciscan for minor qualification",
+      "number": 6,
+      "unit": "semester credit hours",
+      "appliesTo": "minors",
+      "evidence": "To qualify for an academic minor, transfer students must earn at least 6 graded semester credit hours in upper-level classes at Franciscan University of Steubenville.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "All associate degree programs require final credits earned at Franciscan",
+      "number": 15,
+      "unit": "credits",
+      "appliesTo": "AA/AS",
+      "evidence": "All associate degree programs require that the final 15 credits be earned at Franciscan University of Steubenville.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Associate degree programs require overall GPA",
+      "number": 2,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "An overall quality point average of 2.00 in all courses as well as a 2.00 average in the major courses is required.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Associate degree programs require major GPA",
+      "number": 2,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "An overall quality point average of 2.00 in all courses as well as a 2.00 average in the major courses is required.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Second bachelor's degree requires minimum additional credits",
+      "number": 30,
+      "unit": "semester credit hours",
+      "appliesTo": "all",
+      "evidence": "A minimum of 30 semester credit hours, beyond those earned prior to awarding of the first degree, must be completed with a 2.00 QPA.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Second bachelor's degree requires minimum GPA",
+      "number": 2,
+      "unit": "qpa",
+      "appliesTo": "all",
+      "evidence": "A minimum of 30 semester credit hours, beyond those earned prior to awarding of the first degree, must be completed with a 2.00 QPA.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Second bachelor's degree earning BA requires modern or classical language requirement",
+      "number": null,
+      "unit": null,
+      "appliesTo": "BA",
+      "evidence": "Current core and major curriculum requirements must be fulfilled including the modern or classical language requirement if a Bachelor of Arts degree is being earned.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Second major post-degree requires major GPA",
+      "number": 2,
+      "unit": "qpa",
+      "appliesTo": "all",
+      "evidence": "A 2.00 QPA in the major field of study must be earned.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Second major post-degree from BS to BA requires modern or classical language",
+      "number": null,
+      "unit": null,
+      "appliesTo": "BA",
+      "evidence": "If the previous major earned a Bachelor of Science degree, but the new degree is in the Bachelor of Arts area, the modern or classical language requirement must be met.",
+      "source": "grad-other-degree-options"
+    },
+    {
+      "rule": "Minimum credit hours required for baccalaureate degree",
+      "number": 124,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Earn a minimum of 124 credit hours for a baccalaureate degree or 60 credit hours for an associate degree, including core and major requirements, with the necessary grade point average (2.00 minimum in the major and overall).",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum credit hours required for associate degree",
+      "number": 60,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Earn a minimum of 124 credit hours for a baccalaureate degree or 60 credit hours for an associate degree, including core and major requirements, with the necessary grade point average (2.00 minimum in the major and overall).",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum GPA in major and overall",
+      "number": 2,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "Earn a minimum of 124 credit hours for a baccalaureate degree or 60 credit hours for an associate degree, including core and major requirements, with the necessary grade point average (2.00 minimum in the major and overall).",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum credits from Franciscan University for baccalaureate degree",
+      "number": 30,
+      "unit": "credits",
+      "appliesTo": "bachelor's",
+      "evidence": "For the baccalaureate degree, a student must take at least 30 credits from FUS With approval of the department chair, students may be allowed to take up to 6 of the final 30 credits at another institution, otherwise they will take the final 30 from FUS.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum transfer credits allowed for baccalaureate degree (of final 30)",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "bachelor's",
+      "evidence": "For the baccalaureate degree, a student must take at least 30 credits from FUS With approval of the department chair, students may be allowed to take up to 6 of the final 30 credits at another institution, otherwise they will take the final 30 from FUS.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum credits from Franciscan University for associate degree",
+      "number": 15,
+      "unit": "credits",
+      "appliesTo": "AA/AS",
+      "evidence": "For the associate degree, a student must take at least 15 credits from FUS. With the approval of the department chair, students may be allowed to take up to 3 of the final 15 at another institution; otherwise, they will take the final 15 from FUS.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum transfer credits allowed for associate degree (of final 15)",
+      "number": 3,
+      "unit": "credits",
+      "appliesTo": "AA/AS",
+      "evidence": "For the associate degree, a student must take at least 15 credits from FUS. With the approval of the department chair, students may be allowed to take up to 3 of the final 15 at another institution; otherwise, they will take the final 15 from FUS.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum upper-level credits in major at FUS for baccalaureate degree",
+      "number": 12,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Complete a minimum of 12 credit hours in upper-level courses with your academic major at FUS for a baccalaureate degree and a minimum of 6 for an associate degree.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum upper-level credits in major at FUS for associate degree",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Complete a minimum of 12 credit hours in upper-level courses with your academic major at FUS for a baccalaureate degree and a minimum of 6 for an associate degree.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum credit hours required for minor",
+      "number": 18,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Minors must include at least 18 credit hours of required courses, with a minimum of 6 credits earned at FUS.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum credits at FUS for minor",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Minors must include at least 18 credit hours of required courses, with a minimum of 6 credits earned at FUS.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum cumulative GPA for graduation with honors",
+      "number": 3.5,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "To qualify for honors, students must attain at least a cumulative grade point average of 3.5 as determined by the Registrar.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Cum laude honor GPA minimum",
+      "number": 3.5,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "The qualifying cumulative grade point averages determine the following honors at the time of graduation: 3.50-3.699, cum laude; 3.7-3.899, magna cum laude; and 3.9-4.00, summa cum laude.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Magna cum laude honor GPA minimum",
+      "number": 3.7,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "The qualifying cumulative grade point averages determine the following honors at the time of graduation: 3.50-3.699, cum laude; 3.7-3.899, magna cum laude; and 3.9-4.00, summa cum laude.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Summa cum laude honor GPA minimum",
+      "number": 3.9,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "The qualifying cumulative grade point averages determine the following honors at the time of graduation: 3.50-3.699, cum laude; 3.7-3.899, magna cum laude; and 3.9-4.00, summa cum laude.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum credit hours at FUS for transfer students to qualify for honors",
+      "number": 62,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Transfer students must earn a minimum of 62 credit hours at Franciscan University in addition to maintaining a cumulative grade point average of 3.5 or higher.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum GPA for transfer students to qualify for honors",
+      "number": 3.5,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "Transfer students must earn a minimum of 62 credit hours at Franciscan University in addition to maintaining a cumulative grade point average of 3.5 or higher.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Minimum additional credit hours for second degree from same institution to qualify for honors",
+      "number": 30,
+      "unit": "credits",
+      "appliesTo": "graduate (not undergrad)",
+      "evidence": "Students who return to the University for a second degree, with their first degree from the University, must earn an additional minimum of 30 semester credit hours to be eligible to graduate with honors.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum credits to complete after spring semester to participate in August commencement (undergraduate)",
+      "number": 8,
+      "unit": "credits",
+      "appliesTo": "undergraduate",
+      "evidence": "Undergraduate students must have eight or fewer credits to complete after the spring semester.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum remaining credits for Graduate Business to participate in commencement",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "graduate (not undergrad)",
+      "evidence": "Graduate Business: no more than six credits hours remaining.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum remaining credits for Graduate Catholic Studies to participate in commencement",
+      "number": 8,
+      "unit": "credits",
+      "appliesTo": "graduate (not undergrad)",
+      "evidence": "Graduate Catholic Studies: no more than eight credit hours remaining.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum remaining credits for Graduate Criminal Justice to participate in commencement",
+      "number": 8,
+      "unit": "credits",
+      "appliesTo": "graduate (not undergrad)",
+      "evidence": "Graduate Criminal Justice: no more than eight credit hours remaining.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum remaining credits for Graduate Nursing to participate in commencement",
+      "number": 8,
+      "unit": "credits",
+      "appliesTo": "graduate (not undergrad)",
+      "evidence": "Graduate Nursing: no more than eight credit hours remaining.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "Maximum remaining credits for Graduate Philosophy to participate in commencement",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "graduate (not undergrad)",
+      "evidence": "Graduate Philosophy: no more than six credit hours remaining.",
+      "source": "grad-graduation-requirements"
+    },
+    {
+      "rule": "BA/BS major programs require a minimum of 24 credit hours in upper level courses",
+      "number": 24,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Each BA/BS major program consists of elementary courses and a minimum of 24 credit hours in upper level courses in which a student must earn at least a C (2.00) average.",
+      "source": "grad-major-programs"
+    },
+    {
+      "rule": "Students in upper level courses must earn at least a C (2.00) average",
+      "number": 2,
+      "unit": "gpa",
+      "appliesTo": "all",
+      "evidence": "Each BA/BS major program consists of elementary courses and a minimum of 24 credit hours in upper level courses in which a student must earn at least a C (2.00) average.",
+      "source": "grad-major-programs"
+    },
+    {
+      "rule": "Bachelor of Arts programs require intermediate knowledge of a modern or classical language",
+      "number": null,
+      "unit": null,
+      "appliesTo": "BA",
+      "evidence": "Intermediate knowledge of a modern or classical language is required in all Bachelor of Arts programs.",
+      "source": "grad-major-programs"
+    },
+    {
+      "rule": "Minimum credits required for graduation",
+      "number": 124,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Sufficient elective course credits to complete at least the 124 credits needed for graduation are required.",
+      "source": "grad-elective-courses"
+    },
+    {
+      "rule": "Maximum credits from AP/CLEP/IB/DANTES/DSST exams combined",
+      "number": 36,
+      "unit": "credits",
+      "appliesTo": "bachelor's",
+      "evidence": "A maximum of 36 credits can be awarded from a combination of these exams (maximum of 30 credits from CLEP or International Baccalaureate).",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Maximum credits from CLEP or International Baccalaureate specifically",
+      "number": 30,
+      "unit": "credits",
+      "appliesTo": "bachelor's",
+      "evidence": "A maximum of 36 credits can be awarded from a combination of these exams (maximum of 30 credits from CLEP or International Baccalaureate).",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Transfer course must be worth at least 2/3 of the FUS equivalent credit value",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "To meet a Franciscan University requirement, a class must be worth at least 2/3 of the credit required for the FUS equivalent.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Developmental and remedial courses cannot be applied to degree requirements",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "These courses cannot be applied to degree requirements and therefore will not transfer.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Bachelor of Arts/Science: Must complete final 30 consecutive credits at FUS",
+      "number": 30,
+      "unit": "credits",
+      "appliesTo": "BA",
+      "evidence": "Bachelor of Arts/Science: Students must complete their final 30 consecutive credits at FUS.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Bachelor of Arts/Science: May take up to 6 of final 30 credits elsewhere with department chair approval",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "With approval of the department chair, students may be allowed to take up to 6 of the final 30 credits at another institution.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Bachelor of Arts/Science: Must complete at least 12 upper-level credits in major at FUS",
+      "number": 12,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "They must also complete at least 12 upper-level credits in their major at Franciscan.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Associate of Arts: Must complete final 15 consecutive credits at FUS",
+      "number": 15,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Associate of Arts: Students must complete their final 15 consecutive credits at FUS.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Associate of Arts: May take up to 3 of final 15 credits elsewhere with department chair approval",
+      "number": 3,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "With the approval of the department chair, students may be allowed to take up to 3 of the final 15 at another institution.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Associate of Arts: Must complete at least 6 upper-level credits in major at FUS",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "They must also complete at least 6 upper-level credits in their major at Franciscan.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Minor: Must complete at least 6 of 18 required credits in upper-level classes at FUS",
+      "number": 6,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "Students must complete at least 6 of the 18 required semester credit hours in upper-level classes at Franciscan.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Internship credits do not transfer",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "Internship credits do not transfer to Franciscan.",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Maximum 15 credits for general electives with no FUS equivalent",
+      "number": 15,
+      "unit": "credits",
+      "appliesTo": "all",
+      "evidence": "A maximum of 15 credits for general electives may be awarded for courses with no FUS equivalent (e.g., Emergency Medical Technician coursework).",
+      "source": "grad-transfer-credit-policy"
+    },
+    {
+      "rule": "Pass/fail grades do not transfer unless officially verified as equivalent to C or higher",
+      "number": null,
+      "unit": null,
+      "appliesTo": "all",
+      "evidence": "Pass/fail grades do not transfer unless the credit-granting institution can officially verify a pass grade is equivalent to a C grade or higher.",
+      "source": "grad-transfer-credit-policy"
+    }
+  ]
+}

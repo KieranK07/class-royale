@@ -1,0 +1,550 @@
+{
+  "department": "German",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "German, Bachelor of Arts Degree",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/german/german-bachelor-of-arts-degree",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "GRM 333",
+            "FLM 333"
+          ],
+          "title": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present I",
+          "credits": 2,
+          "subLabel": "Content-Area Courses"
+        },
+        {
+          "codes": [
+            "GRM 334"
+          ],
+          "title": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present II",
+          "credits": 2,
+          "subLabel": "Content-Area Courses"
+        },
+        {
+          "codes": [
+            "GRM 380"
+          ],
+          "title": "Readings in German Literature",
+          "credits": 2,
+          "subLabel": "Content-Area Courses"
+        },
+        {
+          "codes": [
+            "GRM 426"
+          ],
+          "title": "Issues in German Culture and Literature I: From the Beginnings through 1249",
+          "credits": 4,
+          "subLabel": "Content-Area Courses"
+        },
+        {
+          "codes": [
+            "GRM 427"
+          ],
+          "title": "Issues in German Culture and Literature II: From 1250 through 1699",
+          "credits": 4,
+          "subLabel": "Content-Area Courses"
+        },
+        {
+          "codes": [
+            "GRM 428"
+          ],
+          "title": "Issues in German Culture and Literature III: From 1700 through 1849",
+          "credits": 4,
+          "subLabel": "Content-Area Courses"
+        },
+        {
+          "codes": [
+            "GRM 429"
+          ],
+          "title": "Issues in German Culture and Literature IV: From 1850 through the Present",
+          "credits": 4,
+          "subLabel": "Content-Area Courses"
+        },
+        {
+          "codes": [
+            "GRM 303"
+          ],
+          "title": "Advanced Composition and Conversation I",
+          "credits": 4,
+          "subLabel": "Language-Skills Courses"
+        },
+        {
+          "codes": [
+            "GRM 304"
+          ],
+          "title": "Advanced Composition and Conversation II",
+          "credits": 4,
+          "subLabel": "Language-Skills Courses"
+        },
+        {
+          "codes": [
+            "GRM 305",
+            "FLM 305"
+          ],
+          "title": "German through Film and Readings I",
+          "credits": 4,
+          "subLabel": "Language-Skills Courses"
+        },
+        {
+          "codes": [
+            "GRM 306"
+          ],
+          "title": "German through Film and Readings II",
+          "credits": 4,
+          "subLabel": "Language-Skills Courses"
+        },
+        {
+          "codes": [
+            "GRM 311"
+          ],
+          "title": "German to English Translation",
+          "credits": 2,
+          "subLabel": "Language-Skills Courses"
+        },
+        {
+          "codes": [
+            "GRM 312"
+          ],
+          "title": "English to German Translation",
+          "credits": 2,
+          "subLabel": "Language-Skills Courses"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present I",
+          "subgroup": "Content-Area Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 333",
+            "FLM 333"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present II",
+          "subgroup": "Content-Area Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 334"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Readings in German Literature",
+          "subgroup": "Content-Area Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 380"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Issues in German Culture and Literature I: From the Beginnings through 1249",
+          "subgroup": "Content-Area Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 426"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Issues in German Culture and Literature II: From 1250 through 1699",
+          "subgroup": "Content-Area Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 427"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Issues in German Culture and Literature III: From 1700 through 1849",
+          "subgroup": "Content-Area Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 428"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Issues in German Culture and Literature IV: From 1850 through the Present",
+          "subgroup": "Content-Area Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 429"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Advanced Composition and Conversation I",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 303"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Advanced Composition and Conversation II",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 304"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "German through Film and Readings I",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 305",
+            "FLM 305"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "German through Film and Readings II",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 306"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "German to English Translation",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 311"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "English to German Translation",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 312"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the German Major:",
+          "text": "24 credit hours at the 300-400 levels; at least 12 of these credit hours must be in the content area of culture, literature, film or linguistics (vs. language skills courses). In addition to the above, 1 credit hour of GRM 434 (Senior Thesis) or GRM 435 (Coordinating Seminar) is required.",
+          "codes": [
+            "GRM 434",
+            "GRM 435"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the German Major:",
+          "text": "The following courses satisfy the content-area requirement in culture, literature, film or linguistics:",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the German Major:",
+          "text": "The department adjudicates which transfer courses fulfill this content-area requirement.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "German Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/german/german-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "GRM 303"
+          ],
+          "title": "Advanced Composition and Conversation I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 304"
+          ],
+          "title": "Advanced Composition and Conversation II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 305",
+            "FLM 305"
+          ],
+          "title": "German through Film and Readings I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 306"
+          ],
+          "title": "German through Film and Readings II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 311"
+          ],
+          "title": "German to English Translation",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 312"
+          ],
+          "title": "English to German Translation",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 333",
+            "FLM 333"
+          ],
+          "title": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present I",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 334"
+          ],
+          "title": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present II",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 380"
+          ],
+          "title": "Readings in German Literature",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 426"
+          ],
+          "title": "Issues in German Culture and Literature I: From the Beginnings through 1249",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 427"
+          ],
+          "title": "Issues in German Culture and Literature II: From 1250 through 1699",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 428"
+          ],
+          "title": "Issues in German Culture and Literature III: From 1700 through 1849",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GRM 429"
+          ],
+          "title": "Issues in German Culture and Literature IV: From 1850 through the Present",
+          "credits": 4,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Advanced Composition and Conversation I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 303"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Advanced Composition and Conversation II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 304"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "German through Film and Readings I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 305",
+            "FLM 305"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "German through Film and Readings II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 306"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "German to English Translation",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 311"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "English to German Translation",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 312"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 333",
+            "FLM 333"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "The Aftermath of the Nazi Horror in German-Language Film from 1946 to the Present II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 334"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Readings in German Literature",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 380"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Issues in German Culture and Literature I: From the Beginnings through 1249",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 426"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Issues in German Culture and Literature II: From 1250 through 1699",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 427"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Issues in German Culture and Literature III: From 1700 through 1849",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 428"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Issues in German Culture and Literature IV: From 1850 through the Present",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GRM 429"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Minor Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "18 credit hours at the 200 level and above. At least 12 of these credit hours must be at the 300-400 levels; at least 4 of these credits must be in the content areas of culture, literature, film, or linguistics (vs. language skills courses).",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "12 of the credit hour requirement at the 300-400 level can be selected from the following:",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

@@ -1,0 +1,5010 @@
+{
+  "department": "Education",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Education Primary P-5 Licensure, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-primary-p-5-licensure-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 215"
+          ],
+          "title": "Activities/Games/Drama for the Young Child",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 300"
+          ],
+          "title": "Active Learning for Young Children in Science and Social Studies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 305"
+          ],
+          "title": "Teaching English Language Arts",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 318"
+          ],
+          "title": "Child and Adolescent Literature",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 321"
+          ],
+          "title": "Inclusive Early Childhood Education",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 325"
+          ],
+          "title": "Assessment and Intervention Practices for Young Children with Mild Disabilities",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 330"
+          ],
+          "title": "Mathematics Methods in the Early and Middle Grades",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 344"
+          ],
+          "title": "Teaching Reading",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 345"
+          ],
+          "title": "Reading Diagnosis and Assessment",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 360"
+          ],
+          "title": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 365"
+          ],
+          "title": "Teaching Integrated Social Studies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 366"
+          ],
+          "title": "Preparing Educators for Virtual Contexts",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 410"
+          ],
+          "title": "Primary P-5 Student Teaching",
+          "credits": 9,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 106"
+          ],
+          "title": "Survey of Earth and Space Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 280"
+          ],
+          "title": "English Phonology and Phonography",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "GEO 122"
+          ],
+          "title": "Introduction to Geography",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 122"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Early Experience I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Early Experience II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Pre-Field Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Activities/Games/Drama for the Young Child",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 215"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Foundations of Education",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Active Learning for Young Children in Science and Social Studies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 300"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Teaching English Language Arts",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 305"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Child and Adolescent Literature",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 318"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Content Area Reading",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Inclusive Early Childhood Education",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 321"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Assessment and Intervention Practices for Young Children with Mild Disabilities",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 325"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Mathematics Methods in the Early and Middle Grades",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 330"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Teaching Reading",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 344"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Reading Diagnosis and Assessment",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 345"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 360"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Teaching Integrated Social Studies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 365"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Preparing Educators for Virtual Contexts",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 366"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Teaching Strategies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Primary P-5 Student Teaching",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 410"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Survey of Biological Science OR Survey of Earth and Space Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 106",
+            "PHY 106"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "English Phonology and Phonography",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 280"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Introduction to Geography",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GEO 122"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "History of Civilization I OR History of Civilization II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105",
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Mathematics for Early and Middle Grade Teachers I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 121"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Mathematics for Early and Middle Grade Teachers II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 122"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Survey of Physical Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 105"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Psychology of Human Development I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Educational Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "American Founding Principles Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-38",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-39",
+          "label": "Literature Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Education Intervention Specialist Mild/Moderate (Grades K-12), Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-intervention-specialist-mild-moderate-grades-k-12-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 318"
+          ],
+          "title": "Child and Adolescent Literature",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "MTH 122"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 325"
+          ],
+          "title": "Assessment and Intervention Practices for Young Children with Mild Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 280"
+          ],
+          "title": "English Phonology and Phonography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "SOC 101"
+          ],
+          "title": "Introductory Sociology",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "SWK 203"
+          ],
+          "title": "Introduction to Social Work",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "BIO 150"
+          ],
+          "title": "Nutrition and Health for Young Children",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 330"
+          ],
+          "title": "Mathematics Methods in the Early and Middle Grades",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 345"
+          ],
+          "title": "Reading Diagnosis and Assessment",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 346"
+          ],
+          "title": "Assessment and Interventions for Middle and High School Students with Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 366"
+          ],
+          "title": "Preparing Educators for Virtual Contexts",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 305"
+          ],
+          "title": "Teaching English Language Arts",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 321"
+          ],
+          "title": "Inclusive Early Childhood Education",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 360"
+          ],
+          "title": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 361"
+          ],
+          "title": "Assessment and Interventions for Students with Challenging Behavior",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 344"
+          ],
+          "title": "Teaching Reading",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 347"
+          ],
+          "title": "Assessment and Instruction of Students with Moderate Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PSY 401"
+          ],
+          "title": "Abnormal Psychology",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology OR Philosophy Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 411"
+          ],
+          "title": "Intervention Specialist Student Teaching",
+          "credits": 9,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Pre-Field Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Foundations of Education",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Mathematics for Early and Middle Grade Teachers I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 121"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "American Founding Principles Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-6",
+          "label": "Child and Adolescent Literature",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 318"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Survey of Biological Science",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 106"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Mathematics for Early and Middle Grade Teachers II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 122"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Psychology of Human Development I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Christian Moral Principles",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Early Experience I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Assessment and Intervention Practices for Young Children with Mild Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 325"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "English Phonology and Phonography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 280"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Introductory Sociology",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 101"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Introduction to Social Work",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 203"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Survey of Physical Science OR Nutrition and Health for Young Children",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 105",
+            "BIO 150"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "History of Civilization I OR History of Civilization II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105",
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Philosophy of the Human Person",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Educational Psychology",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Literature Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-23",
+          "label": "Early Experience II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Mathematics Methods in the Early and Middle Grades",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 330"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Reading Diagnosis and Assessment",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 345"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Assessment and Interventions for Middle and High School Students with Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 346"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Preparing Educators for Virtual Contexts",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 366"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Teaching English Language Arts",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 305"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Content Area Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Inclusive Early Childhood Education",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 321"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 360"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Assessment and Interventions for Students with Challenging Behavior",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 361"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Teaching Reading",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 344"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Assessment and Instruction of Students with Moderate Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 347"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Abnormal Psychology",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 401"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Theology OR Philosophy Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-38",
+          "label": "Teaching Strategies",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Intervention Specialist Student Teaching",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 411"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Coordinating Seminar",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "Education, Dual Licenses/Endorsement, Intervention Specialist Mild/Moderate (K-12); Primary P-5, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-dual-licenses-endorsement-intervention-specialist-mild-moderate-k-12-primary-p-5-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 318"
+          ],
+          "title": "Child and Adolescent Literature",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "MTH 122"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 215"
+          ],
+          "title": "Activities/Games/Drama for the Young Child",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 325"
+          ],
+          "title": "Assessment and Intervention Practices for Young Children with Mild Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 280"
+          ],
+          "title": "English Phonology and Phonography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "GEO 122"
+          ],
+          "title": "Introduction to Geography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHY 106"
+          ],
+          "title": "Survey of Earth and Space Science",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 330"
+          ],
+          "title": "Mathematics Methods in the Early and Middle Grades",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 344"
+          ],
+          "title": "Teaching Reading",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 346"
+          ],
+          "title": "Assessment and Interventions for Middle and High School Students with Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 366"
+          ],
+          "title": "Preparing Educators for Virtual Contexts",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 305"
+          ],
+          "title": "Teaching English Language Arts",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 321"
+          ],
+          "title": "Inclusive Early Childhood Education",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 345"
+          ],
+          "title": "Reading Diagnosis and Assessment",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 360"
+          ],
+          "title": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 361"
+          ],
+          "title": "Assessment and Interventions for Students with Challenging Behavior",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 300"
+          ],
+          "title": "Active Learning for Young Children in Science and Social Studies",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 347"
+          ],
+          "title": "Assessment and Instruction of Students with Moderate Disabilities",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 365"
+          ],
+          "title": "Teaching Integrated Social Studies",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 415"
+          ],
+          "title": "Dual Licensure (Primary P-5 and Intervention Specialist) Student Teaching",
+          "credits": 9,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Pre-Field Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Foundations of Education",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Mathematics for Early and Middle Grade Teachers I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 121"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "American Founding Principles Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-6",
+          "label": "Child and Adolescent Literature",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 318"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Mathematics for Early and Middle Grade Teachers II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 122"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Survey of Physical Science",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 105"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Psychology of Human Development I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Christian Moral Principles",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Early Experience I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Activities/Games/Drama for the Young Child",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 215"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Assessment and Intervention Practices for Young Children with Mild Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 325"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "English Phonology and Phonography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 280"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Introduction to Geography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GEO 122"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Survey of Earth and Space Science OR Survey of Biological Science",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 106",
+            "BIO 106"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "History of Civilization I OR History of Civilization II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105",
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Philosophy of the Human Person",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Educational Psychology",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Literature Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-23",
+          "label": "Early Experience II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Mathematics Methods in the Early and Middle Grades",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 330"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Teaching Reading",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 344"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Assessment and Interventions for Middle and High School Students with Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 346"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Preparing Educators for Virtual Contexts",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 366"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Teaching English Language Arts",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 305"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Content Area Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Inclusive Early Childhood Education",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 321"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Reading Diagnosis and Assessment",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 345"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 360"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Assessment and Interventions for Students with Challenging Behavior",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 361"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Active Learning for Young Children in Science and Social Studies",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 300"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Assessment and Instruction of Students with Moderate Disabilities",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 347"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Teaching Integrated Social Studies",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 365"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Foundations of Ethics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Teaching Strategies",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-41",
+          "label": "Dual Licensure (Primary P-5 and Intervention Specialist) Student Teaching",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 415"
+          ]
+        },
+        {
+          "id": "grp-42",
+          "label": "Coordinating Seminar",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "Education, Middle Childhood Language Arts/Social Studies (Ages 9-14, Grades 4-9), Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-middle-childhood-language-arts-social-studies-ages-9-14-grades-4-9-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 343"
+          ],
+          "title": "History of Ohio",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 122"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers II",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 104"
+          ],
+          "title": "Freshman English II",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 225"
+          ],
+          "title": "Advanced Composition I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 208"
+          ],
+          "title": "History of the United States II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 340"
+          ],
+          "title": "Colonial America",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 345"
+          ],
+          "title": "America: From Independence to Civil War, 1776-1860",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 235"
+          ],
+          "title": "African-American Literature",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 375"
+          ],
+          "title": "Women Writers",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 280"
+          ],
+          "title": "English Phonology and Phonography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 301"
+          ],
+          "title": "American Literature to 1865",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "GEO 122"
+          ],
+          "title": "Introduction to Geography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Economics Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 344"
+          ],
+          "title": "Teaching Reading",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 328"
+          ],
+          "title": "Teaching Writing as a Process",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 305"
+          ],
+          "title": "Teaching English Language Arts",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 318"
+          ],
+          "title": "Child and Adolescent Literature",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 360"
+          ],
+          "title": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 345"
+          ],
+          "title": "Reading Diagnosis and Assessment",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 365"
+          ],
+          "title": "Teaching Integrated Social Studies",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 327"
+          ],
+          "title": "English Grammar for Teachers and Writers",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 412"
+          ],
+          "title": "Middle Childhood Student Teaching",
+          "credits": 9,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Pre-Field Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Foundations of Education",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "History of the United States I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 207"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "History of Ohio",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 343"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Mathematics for Early and Middle Grade Teachers I OR Mathematics for Early and Middle Grade Teachers II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 121",
+            "MTH 122"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Freshman English I OR Freshman English II OR Advanced Composition I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103",
+            "ENG 104",
+            "ENG 225"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "History of the United States II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 208"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Colonial America OR America: From Independence to Civil War, 1776-1860",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 340",
+            "HST 345"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Literature Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Early Experience I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Survey of Biological Science",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 106"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "African-American Literature OR Women Writers",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 235",
+            "ENG 375"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "English Phonology and Phonography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 280"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "American Literature to 1865",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 301"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Introduction to Geography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GEO 122"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "History of Civilization I OR History of Civilization II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105",
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Psychology of Human Development I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Christian Moral Principles",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Economics Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Early Experience II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Teaching Reading",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 344"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Teaching Writing as a Process",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 328"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "American National Government",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Educational Psychology",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Teaching English Language Arts",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 305"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Child and Adolescent Literature",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 318"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Content Area Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 360"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Philosophy of the Human Person",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Reading Diagnosis and Assessment",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 345"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Teaching Integrated Social Studies",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 365"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "English Grammar for Teachers and Writers",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 327"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Foundations of Ethics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Survey of Physical Science",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 105"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Teaching Strategies",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Middle Childhood Student Teaching",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 412"
+          ]
+        },
+        {
+          "id": "grp-41",
+          "label": "Coordinating Seminar",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Freshman Year",
+          "text": "ENG 210, ENG 211: Literature Core",
+          "codes": [
+            "ENG 210",
+            "ENG 211"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "Education, Middle Childhood Mathematics/Social Studies (Ages 9-14, Grades 4-9), Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-middle-childhood-mathematics-social-studies-ages-9-14-grades-4-9-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 280"
+          ],
+          "title": "English Phonology and Phonography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 208"
+          ],
+          "title": "History of the United States II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "MTH 122"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "GEO 122"
+          ],
+          "title": "Introduction to Geography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 343"
+          ],
+          "title": "History of Ohio",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 123"
+          ],
+          "title": "MATH/AYA Mathematics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 155"
+          ],
+          "title": "Finite Mathematics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 210"
+          ],
+          "title": "Euclidean and Non-Euclidean Geometry",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 330"
+          ],
+          "title": "Mathematics Methods in the Early and Middle Grades",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 340"
+          ],
+          "title": "Colonial America",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 345"
+          ],
+          "title": "America: From Independence to Civil War, 1776-1860",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 160"
+          ],
+          "title": "Precalculus",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Economics Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 331"
+          ],
+          "title": "Problem Solving and Assessment in the Middle and Adolescent Grades",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 344"
+          ],
+          "title": "Teaching Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 360"
+          ],
+          "title": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 345"
+          ],
+          "title": "Reading Diagnosis and Assessment",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 365"
+          ],
+          "title": "Teaching Integrated Social Studies",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 220"
+          ],
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 412"
+          ],
+          "title": "Middle Childhood Student Teaching",
+          "credits": 9,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Survey of Biological Science",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 106"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Pre-Field Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Foundations of Education",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "English Phonology and Phonography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 280"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "History of the United States I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 207"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "History of the United States II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 208"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Mathematics for Early and Middle Grade Teachers II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 122"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Survey of Physical Science",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 105"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Literature Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Early Experience I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Introduction to Geography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GEO 122"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "History of Ohio",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 343"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "MATH/AYA Mathematics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 123"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Finite Mathematics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 155"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Euclidean and Non-Euclidean Geometry",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 210"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "History of Civilization I OR History of Civilization II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105",
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Philosophy of the Human Person",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Foundations of Ethics",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "American National Government",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Populations and Cross-Cultural Engagement",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Christian Moral Principles",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Early Experience II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Mathematics Methods in the Early and Middle Grades",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 330"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Colonial America OR America: From Independence to Civil War, 1776-1860",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 340",
+            "HST 345"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Precalculus",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 160"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Educational Psychology",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Economics Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-29",
+          "label": "Content Area Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Problem Solving and Assessment in the Middle and Adolescent Grades",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 331"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Teaching Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 344"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 360"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Reading Diagnosis and Assessment",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 345"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Teaching Integrated Social Studies",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 365"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Discrete Mathematics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 220"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Teaching Strategies",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Middle Childhood Student Teaching",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 412"
+          ]
+        },
+        {
+          "id": "grp-41",
+          "label": "Coordinating Seminar",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Freshman Year",
+          "text": "HST 207: American Founding Principles Core",
+          "codes": [
+            "HST 207"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "Education, Middle Childhood Math/Language Arts (Ages 9-14, Grades 4-9), Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-middle-childhood-math-language-arts-ages-9-14-grades-4-9-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 280"
+          ],
+          "title": "English Phonology and Phonography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 103"
+          ],
+          "title": "Freshman English I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 104"
+          ],
+          "title": "Freshman English II",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 225"
+          ],
+          "title": "Advanced Composition I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "MTH 122"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 235"
+          ],
+          "title": "African-American Literature",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 375"
+          ],
+          "title": "Women Writers",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 123"
+          ],
+          "title": "MATH/AYA Mathematics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 155"
+          ],
+          "title": "Finite Mathematics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 160"
+          ],
+          "title": "Precalculus",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 318"
+          ],
+          "title": "Child and Adolescent Literature",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 330"
+          ],
+          "title": "Mathematics Methods in the Early and Middle Grades",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 344"
+          ],
+          "title": "Teaching Reading",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 301"
+          ],
+          "title": "American Literature to 1865",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 328"
+          ],
+          "title": "Teaching Writing as a Process",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 210"
+          ],
+          "title": "Euclidean and Non-Euclidean Geometry",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 305"
+          ],
+          "title": "Teaching English Language Arts",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 331"
+          ],
+          "title": "Problem Solving and Assessment in the Middle and Adolescent Grades",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 360"
+          ],
+          "title": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 345"
+          ],
+          "title": "Reading Diagnosis and Assessment",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "ENG 327"
+          ],
+          "title": "English Grammar for Teachers and Writers",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 220"
+          ],
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 412"
+          ],
+          "title": "Middle Childhood Student Teaching",
+          "credits": 9,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Pre-Field Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Foundations of Education",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "English Phonology and Phonography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 280"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Freshman English I OR Freshman English II OR Advanced Composition I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 103",
+            "ENG 104",
+            "ENG 225"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Survey of Biological Science",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 106"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Mathematics for Early and Middle Grade Teachers II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 122"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Psychology of Human Development I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Literature Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Early Experience I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "African-American Literature OR Women Writers",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 235",
+            "ENG 375"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "MATH/AYA Mathematics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 123"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Finite Mathematics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 155"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Precalculus",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 160"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Survey of Physical Science",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 105"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Child and Adolescent Literature",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 318"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Mathematics Methods in the Early and Middle Grades",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 330"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "History of Civilization I OR History of Civilization II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105",
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Philosophy of the Human Person",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Christian Moral Principles",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Early Experience II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Teaching Reading",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 344"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "American Literature to 1865",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 301"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Teaching Writing as a Process",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 328"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "Euclidean and Non-Euclidean Geometry",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 210"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Teaching English Language Arts",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 305"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Content Area Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "Problem Solving and Assessment in the Middle and Adolescent Grades",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 331"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Middle School: Curriculum Methods & Management of Early Adolescents",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 360"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Educational Psychology",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Reading Diagnosis and Assessment",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 345"
+          ]
+        },
+        {
+          "id": "grp-34",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-35",
+          "label": "English Grammar for Teachers and Writers",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 327"
+          ]
+        },
+        {
+          "id": "grp-36",
+          "label": "Discrete Mathematics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 220"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-38",
+          "label": "Teaching Strategies",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Middle Childhood Student Teaching",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 412"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "Coordinating Seminar",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Freshman Year",
+          "text": "Literature Core: ENG 210 or ENG 211",
+          "codes": [
+            "ENG 210",
+            "ENG 211"
+          ]
+        },
+        {
+          "section": "Sophomore Year",
+          "text": "THE 101, THE 110: Theology Core",
+          "codes": [
+            "THE 101",
+            "THE 110"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "High School Teaching (Adolescent/Young Adult Licensure)",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/high-school-teaching-adolescent-young-adult-licensure",
+      "kind": "narrative",
+      "narrative": [
+        "Students wishing to teach on the high school level must major in a specific major (English, History, or Math) and work toward licensure with the prescribed programs of study located in each of the previous areas. Students will be listed with a primary major in either English, history or math and a secondary major in education with a concentration in AYALA (English), AYASS (History) or AYAMT (Math). Students must work with advisors in both the primary major and the Education Department to assure all requirements are met for graduation and licensure."
+      ],
+      "mentionedCodes": [],
+      "slots": [],
+      "requirements": []
+    }
+  ]
+}

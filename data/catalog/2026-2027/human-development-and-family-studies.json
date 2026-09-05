@@ -1,0 +1,451 @@
+{
+  "department": "Human Development and Family Studies",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Human Development and Family Studies, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/human-development-and-family-studies/human-development-and-family-studies",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 204",
+            "MTH 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 207"
+          ],
+          "title": "Psychology of Human Development II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 307"
+          ],
+          "title": "Experimental Psychology I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 350"
+          ],
+          "title": "Family, Gender, and Spiritual Issues in Counseling",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 407"
+          ],
+          "title": "Internship",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 409"
+          ],
+          "title": "Interviewing and Assessment",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "435"
+          ],
+          "title": "HDF Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Human Development and Family Studies elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Human Development and Family Studies elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Human Development and Family Studies elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 110"
+          ],
+          "title": "Human Biology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 150"
+          ],
+          "title": "Nutrition and Health for Children",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 203"
+          ],
+          "title": "Human Embryology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 202"
+          ],
+          "title": "Life Issues, Marriage, and the Family",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "LST 202"
+          ],
+          "title": "Survey of American Law II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 101"
+          ],
+          "title": "Introductory Sociology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 204"
+          ],
+          "title": "Marriage and Family",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 341"
+          ],
+          "title": "Christian Marriage",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 395"
+          ],
+          "title": "Theology of the Body",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 105"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Research Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 204",
+            "MTH 204"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Psychology of Human Development I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Psychology of Human Development II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 207"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Experimental Psychology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 307"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Family, Gender, and Spiritual Issues in Counseling",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 350"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Internship",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 407"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Interviewing and Assessment",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 409"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "HDF Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "435"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Human Development and Family Studies elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Human Development and Family Studies elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Human Development and Family Studies elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "Human Biology OR Anatomy and Physiology I OR General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 110",
+            "BIO 133",
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Nutrition and Health for Children OR Human Embryology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 150",
+            "BIO 203"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Life Issues, Marriage, and the Family",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HLS 202"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Survey of American Law II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "LST 202"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Introductory Sociology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 101"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Marriage and Family",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 204"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Christian Marriage OR Theology of the Body",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 341",
+            "THE 395"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for HDFS Major:",
+          "text": "Three HDFS Electives are required from the following: EDU 112 Individuals with Disabilities, PSY 209 Adolescent Psychology, PSY/SWK 351 Spirituality and the Helping Profession, PSY 401 Abnormal Psychology, SWK 209 Issues of Cultural Diversity, SWK 316 Social Work with the Elderly, SWK 318 Working with Children and Adolescents, SWK 413 Death Dying and Bereavement",
+          "codes": [
+            "SWK 351",
+            "PSY 401",
+            "SWK 316",
+            "SWK 318",
+            "SWK 413"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

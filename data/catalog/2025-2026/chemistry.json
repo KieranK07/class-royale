@@ -1,0 +1,2144 @@
+{
+  "department": "Chemistry and Biochemistry",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Chemistry, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/chemistry/chemistry-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 200"
+          ],
+          "title": "Chemistry Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 213"
+          ],
+          "title": "Inorganic Chemistry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 225"
+          ],
+          "title": "Fundamentals of Chemical Analysis",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 321"
+          ],
+          "title": "Thermodynamics and Kinetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 324"
+          ],
+          "title": "Kinetics and Thermodynamics Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 322"
+          ],
+          "title": "Principles of Spectroscopy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "and",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 325"
+          ],
+          "title": "Spectroscopy Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 323"
+          ],
+          "title": "Computational Chemistry",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 421"
+          ],
+          "title": "Foundations of Biochemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 434"
+          ],
+          "title": "Chemistry Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 437"
+          ],
+          "title": "Chemistry Research",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "CHM upper-level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "CHM upper-level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 162"
+          ],
+          "title": "Analytic Geometry and Calculus II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 171"
+          ],
+          "title": "Matrix Theory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 172"
+          ],
+          "title": "Matrix Theory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 261"
+          ],
+          "title": "Analytic Geometry and Calculus III",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 204",
+            "PSY 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 280"
+          ],
+          "title": "Numerical Computing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 265"
+          ],
+          "title": "Differential Equations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 220"
+          ],
+          "title": "University Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 221"
+          ],
+          "title": "University Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 222"
+          ],
+          "title": "University Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 224"
+          ],
+          "title": "University Physics III",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 223"
+          ],
+          "title": "University Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 225"
+          ],
+          "title": "University Physics III Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Chemistry Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 200"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Inorganic Chemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 213"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Fundamentals of Chemical Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 225"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Thermodynamics and Kinetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 321"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Kinetics and Thermodynamics Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 324"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Principles of Spectroscopy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 322"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Spectroscopy Laboratory OR Computational Chemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 325",
+            "CHM 323"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Foundations of Biochemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 421"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Chemistry Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 434"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Chemistry Research",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 437"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "CHM upper-level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-19",
+          "label": "CHM upper-level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-20",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Analytic Geometry and Calculus II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 162"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Matrix Theory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 171"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Matrix Theory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 172"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Analytic Geometry and Calculus III OR Research Statistics OR Numerical Computing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 261",
+            "MTH 204",
+            "PSY 204",
+            "CSC 280"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Differential Equations",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 265"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "University Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 220"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "University Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 221"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "University Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 222"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "University Physics III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 224"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "University Physics II Lab OR University Physics III Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 223",
+            "PHY 225"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Chemistry Major:",
+          "text": "Chemistry upper-level electives are CHM courses at 300- or 400-level, not including CHM 434 or CHM 437. Students have the option to take either PHY 223 University Physics II lab (1) when taking PHY 222 or PHY 225 University Physics III lab (1) when taking PHY 224.",
+          "codes": [
+            "CHM 434",
+            "CHM 437",
+            "PHY 223",
+            "PHY 222",
+            "PHY 225",
+            "PHY 224"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Chemistry, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/chemistry/chemistry-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 200"
+          ],
+          "title": "Chemistry Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 213"
+          ],
+          "title": "Inorganic Chemistry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 225"
+          ],
+          "title": "Fundamentals of Chemical Analysis",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 321"
+          ],
+          "title": "Thermodynamics and Kinetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 324"
+          ],
+          "title": "Kinetics and Thermodynamics Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 322"
+          ],
+          "title": "Principles of Spectroscopy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "and",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 325"
+          ],
+          "title": "Spectroscopy Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 323"
+          ],
+          "title": "Computational Chemistry",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 421"
+          ],
+          "title": "Foundations of Biochemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 434"
+          ],
+          "title": "Chemistry Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 437"
+          ],
+          "title": "Chemistry Research",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "CHM upper-level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "CHM upper-level elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 162"
+          ],
+          "title": "Analytic Geometry and Calculus II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 171"
+          ],
+          "title": "Matrix Theory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 172"
+          ],
+          "title": "Matrix Theory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 261"
+          ],
+          "title": "Analytic Geometry and Calculus III",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 204",
+            "PSY 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 280"
+          ],
+          "title": "Numerical Computing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 265"
+          ],
+          "title": "Differential Equations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 220"
+          ],
+          "title": "University Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 221"
+          ],
+          "title": "University Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 222"
+          ],
+          "title": "University Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 224"
+          ],
+          "title": "University Physics III",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 223"
+          ],
+          "title": "University Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 225"
+          ],
+          "title": "University Physics III Lab",
+          "credits": 1,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Chemistry Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 200"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Inorganic Chemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 213"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Fundamentals of Chemical Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 225"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Thermodynamics and Kinetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 321"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Kinetics and Thermodynamics Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 324"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Principles of Spectroscopy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 322"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Spectroscopy Laboratory OR Computational Chemistry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 325",
+            "CHM 323"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Foundations of Biochemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 421"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Chemistry Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 434"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Chemistry Research",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 437"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "CHM upper-level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-19",
+          "label": "CHM upper-level elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-20",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Analytic Geometry and Calculus II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 162"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Matrix Theory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 171"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Matrix Theory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 172"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Analytic Geometry and Calculus III OR Research Statistics OR Numerical Computing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 261",
+            "MTH 204",
+            "PSY 204",
+            "CSC 280"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Differential Equations",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 265"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "University Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 220"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "University Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 221"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "University Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 222"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "University Physics III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 224"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "University Physics II Lab OR University Physics III Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 223",
+            "PHY 225"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for the Chemistry Major:",
+          "text": "Chemistry upper-level electives are CHM courses at 300- or 400-level, not including CHM 434 or CHM 437. Students have the option to take either PHY 223 University Physics II lab (1) when taking PHY 222 or PHY 225 University Physics III lab (1) when taking PHY 224.",
+          "codes": [
+            "CHM 434",
+            "CHM 437",
+            "PHY 223",
+            "PHY 222",
+            "PHY 225",
+            "PHY 224"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Biochemistry, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/chemistry/biochemistry",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 204"
+          ],
+          "title": "Organic Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 205"
+          ],
+          "title": "Organic Chemistry I Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 206"
+          ],
+          "title": "Organic Chemistry II Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 225"
+          ],
+          "title": "Fundamentals of Chemical Analysis",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 321"
+          ],
+          "title": "Thermodynamics and Kinetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 324"
+          ],
+          "title": "Kinetics and Thermodynamics Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 421"
+          ],
+          "title": "Foundations of Biochemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 422"
+          ],
+          "title": "Foundations of Biochemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 423"
+          ],
+          "title": "Biochemistry Laboratory",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 434"
+          ],
+          "title": "Chemistry Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 437"
+          ],
+          "title": "Chemistry Research",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 404"
+          ],
+          "title": "Special Problems in Biology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 218"
+          ],
+          "title": "Sophomore Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 200"
+          ],
+          "title": "Chemistry Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 291"
+          ],
+          "title": "Genetics",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 426"
+          ],
+          "title": "Cell Physiology",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Biochemistry program elective 3-4 credits",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Biochemistry program elective 3-4 credits",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 162"
+          ],
+          "title": "Analytic Geometry and Calculus II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 220"
+          ],
+          "title": "University Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 221"
+          ],
+          "title": "University Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 112"
+          ],
+          "title": "General Physics I Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 222"
+          ],
+          "title": "University Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 223"
+          ],
+          "title": "University Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 113"
+          ],
+          "title": "General Physics II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 114"
+          ],
+          "title": "General Physics II Lab",
+          "credits": 1,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Organic Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 204"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Organic Chemistry I Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 205"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Organic Chemistry II Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 206"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Fundamentals of Chemical Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 225"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Thermodynamics and Kinetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 321"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Kinetics and Thermodynamics Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 324"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Foundations of Biochemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 421"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Foundations of Biochemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 422"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Biochemistry Laboratory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 423"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Chemistry Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 434"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Chemistry Research OR Special Problems in Biology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 437",
+            "BIO 404"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Sophomore Seminar OR Chemistry Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 218",
+            "CHM 200"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "General Biology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 143"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Genetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 291"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Cell Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 426"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Biochemistry program elective 3-4 credits",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Biochemistry program elective 3-4 credits",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-23",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Analytic Geometry and Calculus II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 162"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "University Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 220"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "University Physics I Lab OR General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 221",
+            "PHY 111"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "General Physics I Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 112"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "University Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 222"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "University Physics II Lab OR General Physics II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 223",
+            "PHY 113"
+          ]
+        },
+        {
+          "id": "grp-30",
+          "label": "General Physics II Lab",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 114"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Biochemistry Major",
+          "text": "BIO/CHM electives include: BIO 250, BIO 321, BIO 333, BIO 410, CHM 213, CHM 312, CHM 322, CHM 323, CHM 431",
+          "codes": [
+            "BIO 250",
+            "BIO 321",
+            "BIO 333",
+            "BIO 410",
+            "CHM 213",
+            "CHM 312",
+            "CHM 322",
+            "CHM 323",
+            "CHM 431"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Chemistry Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/chemistry/chemistry-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 112"
+          ],
+          "title": "General Chemistry II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 116"
+          ],
+          "title": "General Chemistry Laboratory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 117"
+          ],
+          "title": "General Chemistry Laboratory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 203"
+          ],
+          "title": "Organic Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 225"
+          ],
+          "title": "Fundamentals of Chemical Analysis",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Chemistry elective 200-400 level",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Chemistry elective 200-400 level",
+          "credits": null,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "General Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 111"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "General Chemistry II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "General Chemistry Laboratory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 116"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "General Chemistry Laboratory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 117"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Organic Chemistry I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 203"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Fundamentals of Chemical Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 225"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Chemistry elective 200-400 level",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        },
+        {
+          "id": "grp-7",
+          "label": "Chemistry elective 200-400 level",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": null
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "At least five credits in 200-400 level chemistry electives are required.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

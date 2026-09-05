@@ -1,0 +1,1098 @@
+{
+  "department": "Criminal Justice",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Criminal Justice, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/criminal-justice/criminal-justice-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CRJ 101"
+          ],
+          "title": "Introduction to Criminal Justice",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 301"
+          ],
+          "title": "Justice and the Nature of Rights",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 302"
+          ],
+          "title": "Crime, Criminal Law and Criminal Process",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 434"
+          ],
+          "title": "Thesis in Criminal Justice",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Policing and Law Enforcement Electives",
+          "credits": 9,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Law and Legal Theory Electives",
+          "credits": 9,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Criminology and Criminality Electives",
+          "credits": 9,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Courts and the Judiciary Electives",
+          "credits": 9,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 101"
+          ],
+          "title": "Introduction to Criminal Justice",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Mathematics Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Law and Legal Theory Elective",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Criminology and Criminality Elective",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "CRJ 301"
+          ],
+          "title": "Justice and the Nature of Rights",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Criminology and Criminality Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Policing and Law Enforcement Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Economics Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Courts and the Judiciary Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Policing and Law Enforcement Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "History Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [
+            "CRJ 302"
+          ],
+          "title": "Crime, Criminal Law and Criminal Process",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Law and Legal Theory Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Courts and the Judiciary Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Courts and the Judiciary Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Junior Year"
+        },
+        {
+          "codes": [],
+          "title": "Criminology and Criminality Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Law and Legal Theory Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Policing and Law Enforcement Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "CRJ 434"
+          ],
+          "title": "Thesis in Criminal Justice",
+          "credits": 1,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [
+            "CRJ 407"
+          ],
+          "title": "Internship in Criminal Justice",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Senior Year"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Criminal Justice",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Justice and the Nature of Rights",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 301"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Crime, Criminal Law and Criminal Process",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 302"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Thesis in Criminal Justice",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 434"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Policing and Law Enforcement Electives",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        },
+        {
+          "id": "grp-5",
+          "label": "Law and Legal Theory Electives",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        },
+        {
+          "id": "grp-6",
+          "label": "Criminology and Criminality Electives",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        },
+        {
+          "id": "grp-7",
+          "label": "Courts and the Judiciary Electives",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        },
+        {
+          "id": "grp-8",
+          "label": "Introduction to Criminal Justice",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 101"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Natural Science Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Mathematics Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Philosophy Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "Theology Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-13",
+          "label": "Law and Legal Theory Elective",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "Criminology and Criminality Elective",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Natural Science Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "American Founding Principles Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Theology Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Justice and the Nature of Rights",
+          "subgroup": "Sophomore Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 301"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Criminology and Criminality Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-20",
+          "label": "Policing and Law Enforcement Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-21",
+          "label": "Economics Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Literature Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-23",
+          "label": "Courts and the Judiciary Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-24",
+          "label": "Policing and Law Enforcement Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-25",
+          "label": "History Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-26",
+          "label": "Philosophy Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-27",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-28",
+          "label": "Crime, Criminal Law and Criminal Process",
+          "subgroup": "Junior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 302"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Law and Legal Theory Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-30",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-31",
+          "label": "Theology Core OR Philosophy Core",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-32",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-33",
+          "label": "Courts and the Judiciary Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-34",
+          "label": "Courts and the Judiciary Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-35",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-36",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-37",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-38",
+          "label": "Elective",
+          "subgroup": "Junior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-39",
+          "label": "Criminology and Criminality Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-40",
+          "label": "Law and Legal Theory Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-41",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-42",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-43",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-44",
+          "label": "Policing and Law Enforcement Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-45",
+          "label": "Thesis in Criminal Justice",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 434"
+          ]
+        },
+        {
+          "id": "grp-46",
+          "label": "Internship in Criminal Justice OR Elective",
+          "subgroup": "Senior Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 407"
+          ],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-47",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-48",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-49",
+          "label": "Elective",
+          "subgroup": "Senior Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Policing & Law Enforcement Electives (choose 3): CRJ 109, CRJ 304, CRJ 309, CRJ 360, CRJ 370, CRJ 375, CRJ 376, CRJ 390.",
+          "codes": [
+            "CRJ 109",
+            "CRJ 304",
+            "CRJ 309",
+            "CRJ 360",
+            "CRJ 370",
+            "CRJ 375",
+            "CRJ 376",
+            "CRJ 390"
+          ]
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Law & Legal Theory Electives (choose 3): CRJ 303, CRJ 401, LST 102, LST 201, PHL 426, POL 301 or LST 301, POL 358.",
+          "codes": [
+            "CRJ 303",
+            "CRJ 401",
+            "LST 102",
+            "LST 201",
+            "PHL 426",
+            "POL 301",
+            "LST 301",
+            "POL 358"
+          ]
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Criminology & Criminality Elective (choose 3): CRJ 201, CRJ 280, CRJ 308, CRJ 311, CRJ 411, CRJ 412, SOC 205, SOC 314, SOC 410.",
+          "codes": [
+            "CRJ 201",
+            "CRJ 280",
+            "CRJ 308",
+            "CRJ 311",
+            "SOC 205",
+            "SOC 314",
+            "SOC 410"
+          ]
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Courts & the Judiciary Elective (choose 3): CRJ 299, CRJ 307, CRJ 315, CRJ 385, CRJ 399, POL 365.",
+          "codes": [
+            "CRJ 299",
+            "CRJ 307",
+            "CRJ 315",
+            "CRJ 385",
+            "CRJ 399",
+            "POL 365"
+          ]
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "* CRJ 407 Criminal Justice Internship may be used in place of any CRJ course EXCEPT CRJ 101, CRJ 301, CRJ 302, or CRJ 434.",
+          "codes": [
+            "CRJ 407",
+            "CRJ 101",
+            "CRJ 301",
+            "CRJ 302",
+            "CRJ 434"
+          ]
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Criminal Justice Major",
+          "text": "Second Semester",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Criminal Justice Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/criminal-justice/criminal-justice-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CRJ 109"
+          ],
+          "title": "American Policing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 301"
+          ],
+          "title": "Justice and the Nature of Rights",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 302"
+          ],
+          "title": "Crime and Criminal Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SOC 205"
+          ],
+          "title": "Criminology and Penology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Criminal Justice Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Criminal Justice Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "American Policing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 109"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Justice and the Nature of Rights",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 301"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Crime and Criminal Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 302"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Criminology and Penology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SOC 205"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Criminal Justice Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Criminal Justice Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Minor Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

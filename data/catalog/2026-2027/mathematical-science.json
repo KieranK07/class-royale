@@ -1,0 +1,1015 @@
+{
+  "department": "Mathematical Science",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Mathematical Science, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/mathematical-science/mathematical-science-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 162"
+          ],
+          "title": "Analytic Geometry and Calculus II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 171"
+          ],
+          "title": "Matrix Theory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 172"
+          ],
+          "title": "Matrix Theory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 220"
+          ],
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 261"
+          ],
+          "title": "Analytic Geometry and Calculus III",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 265"
+          ],
+          "title": "Differential Equations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 305"
+          ],
+          "title": "Introduction to Abstract Algebra",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 333"
+          ],
+          "title": "Intermediate Linear Algebra",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 335",
+            "CSC 335"
+          ],
+          "title": "Junior Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 401"
+          ],
+          "title": "Mathematical Statistics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Upper-level mathematics electives",
+          "credits": 12,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 141"
+          ],
+          "title": "Introduction to Computer Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 144"
+          ],
+          "title": "Object-Oriented Programming",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 280"
+          ],
+          "title": "Numerical Computing",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Analytic Geometry and Calculus II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 162"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Matrix Theory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 171"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Matrix Theory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 172"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Discrete Mathematics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 220"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Analytic Geometry and Calculus III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 261"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Differential Equations",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 265"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Introduction to Abstract Algebra",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 305"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Intermediate Linear Algebra",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 333"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Junior Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 335",
+            "CSC 335"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Mathematical Statistics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 401"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 434"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Upper-level mathematics electives",
+          "subgroup": null,
+          "count": 12,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 12
+        },
+        {
+          "id": "grp-13",
+          "label": "Introduction to Computer Science OR Object-Oriented Programming OR Numerical Computing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 141",
+            "CSC 144",
+            "CSC 280"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for the Mathematics Major:",
+          "text": "Mathematics Elective: Any MTH course above MTH 204. One CSC course above CSC 140 can be substituted for one MTH elective. Up to three credits of MTH 340 Mathematics Research can be applied.",
+          "codes": [
+            "MTH 340"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Mathematical Science Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/mathematical-science/mathematical-science-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 162"
+          ],
+          "title": "Analytic Geometry and Calculus II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 171"
+          ],
+          "title": "Matrix Theory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 172"
+          ],
+          "title": "Matrix Theory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "200-400 level mathematics elective courses",
+          "credits": 9,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Analytic Geometry and Calculus II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 162"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Matrix Theory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 171"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Matrix Theory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 172"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "200-400 level mathematics elective courses",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Up to three credits of MTH 340 Mathematics Research can be applied toward the minor.",
+          "codes": [
+            "MTH 340"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Mathematics with AYA Math Licensure, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/mathematical-science/mathematics-with-aya-math-licensure-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 331"
+          ],
+          "title": "Problem Solving and Assessment in the Middle and Adolescent Grades",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 414"
+          ],
+          "title": "Adolescence and Young Adult Student Teaching",
+          "credits": 9,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 123"
+          ],
+          "title": "MATH/AYA Mathematics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 162"
+          ],
+          "title": "Analytic Geometry and Calculus II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 171"
+          ],
+          "title": "Matrix Theory I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 172"
+          ],
+          "title": "Matrix Theory II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 210"
+          ],
+          "title": "Euclidean and Non-Euclidean Geometry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 220"
+          ],
+          "title": "Discrete Mathematics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 261"
+          ],
+          "title": "Analytic Geometry and Calculus III",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 265"
+          ],
+          "title": "Differential Equations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 305"
+          ],
+          "title": "Introduction to Abstract Algebra",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 327"
+          ],
+          "title": "History of Math",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 333"
+          ],
+          "title": "Intermediate Linear Algebra",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 335",
+            "CSC 335"
+          ],
+          "title": "Junior Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 401"
+          ],
+          "title": "Mathematical Statistics I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Elective-Upper Level",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 141"
+          ],
+          "title": "Introduction to Computer Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 144"
+          ],
+          "title": "Object-Oriented Programming",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Early Experience I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Early Experience II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Pre-Field Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Foundations of Education",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Content Area Reading",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Problem Solving and Assessment in the Middle and Adolescent Grades",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 331"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Teaching Strategies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Adolescence and Young Adult Student Teaching",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 414"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "MATH/AYA Mathematics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 123"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Analytic Geometry and Calculus I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 161"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Analytic Geometry and Calculus II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 162"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Matrix Theory I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 171"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Matrix Theory II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 172"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Euclidean and Non-Euclidean Geometry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 210"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Discrete Mathematics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 220"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Analytic Geometry and Calculus III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 261"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Differential Equations",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 265"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Introduction to Abstract Algebra",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 305"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "History of Math",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 327"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Intermediate Linear Algebra",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 333"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Junior Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 335",
+            "CSC 335"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Mathematical Statistics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 401"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 434"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Elective-Upper Level",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-27",
+          "label": "Introduction to Computer Science OR Object-Oriented Programming",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 141",
+            "CSC 144"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Educational Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Students seeking licensure to teach mathematics on the high school level (AYA Grades 7-12, Ages 12-21) should follow the following course sequence. Students will be declared as math majors and Education AYAMT majors. Students need to work with BOTH majors to earn the bachelor of science degree from Franciscan University.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Science Degree Requirements for Mathematics and Education AYA Majors:",
+          "text": "An upper-level math elective is any MTH course above MTH 204.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

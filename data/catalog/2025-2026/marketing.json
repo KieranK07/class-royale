@@ -1,0 +1,715 @@
+{
+  "department": "Marketing",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Marketing, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/marketing/marketing-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BUS 101"
+          ],
+          "title": "Introduction to Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 130"
+          ],
+          "title": "Personal Vocation and God’s Call to Leadership",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 202"
+          ],
+          "title": "Principles of Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 208"
+          ],
+          "title": "Business Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 215"
+          ],
+          "title": "Business Analysis",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 220"
+          ],
+          "title": "Business Communications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 230"
+          ],
+          "title": "Designing Your Life With and For Others",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 309"
+          ],
+          "title": "Professional Selling and Sales Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 315"
+          ],
+          "title": "Integrated Marketing Communications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 330"
+          ],
+          "title": "The Vocation of the Business Leader",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 407"
+          ],
+          "title": "Corporation Finance",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 413"
+          ],
+          "title": "Business and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 414"
+          ],
+          "title": "Marketing Research",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 419"
+          ],
+          "title": "Strategic Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 420"
+          ],
+          "title": "Strategic Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 202"
+          ],
+          "title": "Principles of Microeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 212"
+          ],
+          "title": "Fundamentals of Business Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 156"
+          ],
+          "title": "Applied Calculus",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Marketing Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Marketing Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Business",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Personal Vocation and God’s Call to Leadership",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 130"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Principles of Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 202"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Business Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 208"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Business Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 215"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Business Communications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 220"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Designing Your Life With and For Others",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 230"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Professional Selling and Sales Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 309"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Integrated Marketing Communications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 315"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "The Vocation of the Business Leader",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 330"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Corporation Finance",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 407"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Business and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 413"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Marketing Research",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 414"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Strategic Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 419"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Strategic Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 420"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 434"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Fundamentals of Economics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 121"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Principles of Microeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 202"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Fundamentals of Business Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 212"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Applied Calculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 156"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Marketing Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BUS 418",
+            "ENG 290",
+            "BUS 344",
+            "BUS 401",
+            "PSY 224",
+            "PSY 305",
+            "PSY 317",
+            "PSY 318",
+            "ENG 225",
+            "ENG 320",
+            "ENG 322"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-24",
+          "label": "Marketing Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "BUS 418",
+            "ENG 290",
+            "BUS 344",
+            "BUS 401",
+            "PSY 224",
+            "PSY 305",
+            "PSY 317",
+            "PSY 318",
+            "ENG 225",
+            "ENG 320",
+            "ENG 322"
+          ],
+          "creditsIfKnown": 3,
+          "optionsFromNote": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Marketing Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/marketing/marketing-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 202"
+          ],
+          "title": "Principles of Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 315"
+          ],
+          "title": "Integrated Marketing Communications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 309"
+          ],
+          "title": "Professional Selling and Sales Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 414"
+          ],
+          "title": "Marketing Research",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 418"
+          ],
+          "title": "Global Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 419"
+          ],
+          "title": "Strategic Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 309"
+          ],
+          "title": "Professional Selling and Sales Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 344"
+          ],
+          "title": "Integrative Experience in International Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 414"
+          ],
+          "title": "Marketing Research",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 418"
+          ],
+          "title": "Global Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 419"
+          ],
+          "title": "Strategic Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 290"
+          ],
+          "title": "Speech Communication",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Principles of Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 202"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Integrated Marketing Communications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 315"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Professional Selling and Sales Management OR Marketing Research OR Global Marketing OR Strategic Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 309",
+            "BUS 414",
+            "BUS 418",
+            "BUS 419"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Plus one of the following not used above:",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 309",
+            "BUS 344",
+            "BUS 414",
+            "BUS 418",
+            "BUS 419",
+            "ENG 290"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

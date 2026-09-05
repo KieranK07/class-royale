@@ -1,0 +1,256 @@
+{
+  "catalogYear": "2025-2026",
+  "totalPrograms": 133,
+  "tableBased": 121,
+  "subjectPrefixes": [
+    "ACC",
+    "ANT",
+    "ART",
+    "BIO",
+    "BUS",
+    "CAT",
+    "CHM",
+    "CLA",
+    "COM",
+    "CRJ",
+    "CSC",
+    "ECO",
+    "EDU",
+    "EGR",
+    "ENG",
+    "ENT",
+    "ESC",
+    "FLM",
+    "FRN",
+    "GEO",
+    "GRK",
+    "GRM",
+    "HCC",
+    "HLS",
+    "HON",
+    "HST",
+    "LAT",
+    "LST",
+    "MEC",
+    "MTH",
+    "MUS",
+    "NUR",
+    "PHL",
+    "PHY",
+    "POL",
+    "PSY",
+    "SCI",
+    "SFE",
+    "SOC",
+    "SPN",
+    "SWK",
+    "THE",
+    "THR"
+  ],
+  "narrativeCount": 5,
+  "narrativePrograms": [
+    {
+      "department": "Biology",
+      "name": "Biology Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/biology/biology-minor"
+    },
+    {
+      "department": "Computer Science",
+      "name": "Bioinformatics Certificate Program",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/computer-science/bioinformatics-certificate-program"
+    },
+    {
+      "department": "Education",
+      "name": "High School Teaching (Adolescent/Young Adult Licensure)",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/high-school-teaching-adolescent-young-adult-licensure"
+    },
+    {
+      "department": "Engineering",
+      "name": "Honors Program",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering/honors-program"
+    },
+    {
+      "department": "Spanish",
+      "name": "Spanish Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/spanish/spanish-minor"
+    }
+  ],
+  "informationalCount": 3,
+  "informationalPrograms": [
+    {
+      "department": "Pre-Pharmacy",
+      "name": "DYouville PharmD Program",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/pre-pharmacy/dyouville-pharmd-program"
+    },
+    {
+      "department": "Pre-Pharmacy",
+      "name": "Duquesne PharmD Program",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/pre-pharmacy/duquesne-pharmd-program"
+    },
+    {
+      "department": "Theology",
+      "name": "MA Theology 4+1 Programs",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/ma-theology-accelerated-program"
+    }
+  ],
+  "departmentPageCount": 4,
+  "departmentPages": [
+    {
+      "department": "Honors Program",
+      "name": "Honors Program",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/honors-program"
+    },
+    {
+      "department": "Military Science (Army ROTC Program)",
+      "name": "Military Science (Army ROTC Program)",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/military-science-army-rotc-program"
+    },
+    {
+      "department": "Modern Languages and Literatures",
+      "name": "Modern Languages and Literatures",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/modern-languages-and-literatures"
+    },
+    {
+      "department": "Physics",
+      "name": "Physics",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/physics"
+    }
+  ],
+  "unparsedCount": 0,
+  "unparsedPrograms": [],
+  "uncertainSectionCount": 9,
+  "uncertainSections": [
+    {
+      "department": "Anthropology",
+      "name": "Anthropology Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/anthropology/anthropology-minor",
+      "heading": "3 of these 4 required and 9 credits in other anthropology courses."
+    },
+    {
+      "department": "Biology",
+      "name": "Bioinformatics Certificate Program",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/biology/bioinformatics-certificate-program",
+      "heading": "The following courses would be required to earn the certificate:"
+    },
+    {
+      "department": "Catechetics and Evangelization",
+      "name": "Catholic Youth Ministry Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/catechetics-and-evangelization/youth-ministry-minor",
+      "heading": "Electives:"
+    },
+    {
+      "department": "Classics",
+      "name": "Ecclesiastical Latin Language and Civilization Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/ecclesiastical-latin-minor",
+      "heading": "One from"
+    },
+    {
+      "department": "Classics",
+      "name": "Latin Language and Civilization Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/classical-languages-and-civilization-minor",
+      "heading": "One from"
+    },
+    {
+      "department": "Classics",
+      "name": "Greek Language and Civilization Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/classics/copy-of-classical-languages-and-civilization-minor",
+      "heading": "One from"
+    },
+    {
+      "department": "Exercise Science (minor program only)",
+      "name": "Exercise Science Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/exercise-science-minor/exercise-science-minor",
+      "heading": "The following courses would be required to earn the minor:"
+    },
+    {
+      "department": "Nursing",
+      "name": "Nursing RN to BSN",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/nursing/nursing-rn-to-bsn",
+      "heading": "Additional BSN Core Requirements"
+    },
+    {
+      "department": "Philosophy",
+      "name": "Philosophy Minor",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/philosophy/philosophy-minor",
+      "heading": "Of the two upper-level PHL (300-400) electives, at least one must be a history of philosophy course. Students may choose from the following:"
+    }
+  ],
+  "scheduleDerivedCount": 15,
+  "scheduleDerived": [
+    {
+      "department": "Education",
+      "name": "Education Intervention Specialist Mild/Moderate (Grades K-12), Bachelor of Science",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-intervention-specialist-mild-moderate-grades-k-12-bachelor-of-science"
+    },
+    {
+      "department": "Education",
+      "name": "Education, Dual Licenses/Endorsement, Intervention Specialist Mild/Moderate (K-12); Primary P-5, Bachelor of Science",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-dual-licenses-endorsement-intervention-specialist-mild-moderate-k-12-primary-p-5-bachelor-of-science"
+    },
+    {
+      "department": "Education",
+      "name": "Education, Middle Childhood Language Arts/Social Studies (Ages 9-14, Grades 4-9), Bachelor of Science",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-middle-childhood-language-arts-social-studies-ages-9-14-grades-4-9-bachelor-of-science"
+    },
+    {
+      "department": "Education",
+      "name": "Education, Middle Childhood Mathematics/Social Studies (Ages 9-14, Grades 4-9), Bachelor of Science",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-middle-childhood-mathematics-social-studies-ages-9-14-grades-4-9-bachelor-of-science"
+    },
+    {
+      "department": "Education",
+      "name": "Education, Middle Childhood Math/Language Arts (Ages 9-14, Grades 4-9), Bachelor of Science",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/education/education-middle-childhood-math-language-arts-ages-9-14-grades-4-9-bachelor-of-science"
+    },
+    {
+      "department": "Engineering",
+      "name": "Pre-Engineering: 2+2 with Catholic University of America in Biomedical, Civil, Electrical, and Mechanical Engineering",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering/pre-engineering-with-catholic-university-of-america"
+    },
+    {
+      "department": "Engineering",
+      "name": "Pre-Engineering: 2+2 Program with Gannon University in Biomedical, Electrical, and Environmental Engineering",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering/pre-engineering-2-2-program-with-gannon-university-biomedical-electrical-environmental-and-mechanical-engineering"
+    },
+    {
+      "department": "Engineering",
+      "name": "Pre-Engineering:  2+2 Program with the University of Pittsburgh in Chemical, Civil, Electrical, and Mechanical Engineering",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering/pre-engineering-program-with-the-university-of-pittsburgh"
+    },
+    {
+      "department": "Engineering",
+      "name": "Pre-Engineering: 3+2 Program with Notre Dame in Aerospace, Civil, and Mechanical Engineering",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering/pre-engineering-3-2-program-with-notre-dame-aerospace-civil-and-mechanical-engineering"
+    },
+    {
+      "department": "Engineering",
+      "name": "Pre-Engineering 3+2 with Notre Dame in Chemical Engineering",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering/chemical-engineering"
+    },
+    {
+      "department": "Engineering",
+      "name": "Pre-Engineering: 3+2 Program with Notre Dame in Electrical Engineering",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/engineering/electrical-engineering"
+    },
+    {
+      "department": "English",
+      "name": "English with AYA Licensure: (British and American Literature Concentration), Bachelor of Arts",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/english/english-with-aya-licensure-british-and-american-literature-concentration-bachelor-of-arts"
+    },
+    {
+      "department": "History",
+      "name": "History with AYA Integrated Social Studies Licensure, Bachelor of Arts",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/history/history-with-aya-integrated-social-studies-licensure-bachelor-of-arts"
+    },
+    {
+      "department": "Philosophy",
+      "name": "Associate of Arts Degree in Philosophy",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/philosophy/associate-of-arts-degree-in-philosophy"
+    },
+    {
+      "department": "Theology",
+      "name": "Associate of Arts Degree in Theology",
+      "url": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/associate-of-arts-degree-in-theology"
+    }
+  ]
+}

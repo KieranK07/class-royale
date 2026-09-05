@@ -1,0 +1,189 @@
+{
+  "department": "Forensic Science (minor program only)",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Forensic Science Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/forensic-science-minor/forensic-science-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CRJ 280"
+          ],
+          "title": "Introduction to Forensic Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 299"
+          ],
+          "title": "Criminalistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 376"
+          ],
+          "title": "Advanced Criminal Investigations",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 401"
+          ],
+          "title": "Forensic Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 110"
+          ],
+          "title": "Chemistry with Biological and Medical Applications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Forensic Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 280"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Criminalistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 299"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Advanced Criminal Investigations",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 376"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Forensic Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 401"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Anatomy and Physiology I OR General Biology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 133",
+            "BIO 142"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Chemistry with Biological and Medical Applications OR General Chemistry I OR General Physics I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CHM 110",
+            "CHM 111",
+            "PHY 111"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "Courses",
+          "text": "Note - Criminal Justice majors may not count more than 50% of the minor requirements towards the requirements for the criminal justice major. Thus, CRJ 280, CRJ 299, CRJ 376, and CRJ 401 may not be taken as concurrent electives to meet the Criminal Justice major requirements.",
+          "codes": [
+            "CRJ 280",
+            "CRJ 299",
+            "CRJ 376",
+            "CRJ 401"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

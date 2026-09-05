@@ -1,0 +1,367 @@
+{
+  "department": "Business Administration",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Business Administration, Associate of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/business-administration/business-administration-associate-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 101"
+          ],
+          "title": "Introduction to Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 202"
+          ],
+          "title": "Principles of Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 208"
+          ],
+          "title": "Business Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 215"
+          ],
+          "title": "Business Analysis",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 307"
+          ],
+          "title": "Principles of Organization and Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 202"
+          ],
+          "title": "Principles of Microeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 212"
+          ],
+          "title": "Fundamentals of Business Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Business Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "ACC, BUS, ECO, or ENT Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 156"
+          ],
+          "title": "Applied Calculus",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "History, Social Science OR American Founding Principles Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Introduction to Business",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 101"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Principles of Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 202"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Business Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 208"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Business Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 215"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Principles of Organization and Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 307"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Fundamentals of Economics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 121"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Principles of Microeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 202"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Fundamentals of Business Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 212"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Business Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "ACC, BUS, ECO, or ENT Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "Applied Calculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 156"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "History, Social Science OR American Founding Principles Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Natural Science Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Literature Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Philosophy Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Theology Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Associate of Arts Degree in Business Administration:",
+          "text": "BUS Elective: Any additional three-credit BUS course not used in another category.",
+          "codes": []
+        },
+        {
+          "section": "Associate of Arts Degree in Business Administration:",
+          "text": "ACC, BUS, ECO, or ENT Elective: Any additional three-credit 300 level ACC, BUS, ECO, or ENT course not used in another category.",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "A two-year program in General Business Administration leads to an associate degree as described below:",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

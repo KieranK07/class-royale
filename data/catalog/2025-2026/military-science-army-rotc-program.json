@@ -1,0 +1,19 @@
+{
+  "department": "Military Science (Army ROTC Program)",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Military Science (Army ROTC Program)",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/military-science-army-rotc-program",
+      "kind": "department-page",
+      "narrative": [
+        "Army ROTC is an elective program that serves in conjunction with a student’s existing degree program. Students receive college credit for ROTC classes. ROTC classes will teach leadership and management, values and ethics, military skills and effective communication.",
+        "ROTC is, at its essence, an Army officer commissioning program; however, not all students who take military science classes go on to serve in the Army. Anyone interested in the armed forces or a career in the Army may wish to enroll in the basic-level courses. These courses do not have any prerequisites or commitments and are designed to teach basic Army fundamentals. Only scholarship students or students that advance to the upper level courses incur any service obligation.",
+        "Military Science Course Descriptions"
+      ],
+      "mentionedCodes": [],
+      "slots": [],
+      "requirements": []
+    }
+  ]
+}

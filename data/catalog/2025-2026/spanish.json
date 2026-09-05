@@ -1,0 +1,551 @@
+{
+  "department": "Spanish",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Spanish, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/spanish/spanish-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "SPN 303"
+          ],
+          "title": "Advanced Composition and Conversation I",
+          "credits": 3,
+          "subLabel": "Language-Skills Courses"
+        },
+        {
+          "codes": [
+            "SPN 304"
+          ],
+          "title": "Advanced Composition and Conversation II",
+          "credits": 3,
+          "subLabel": "Language-Skills Courses"
+        },
+        {
+          "codes": [
+            "SPN 317"
+          ],
+          "title": "Ignatius: The Relationship With Christ",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 325"
+          ],
+          "title": "Spanish Culture and Civilization",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 326"
+          ],
+          "title": "Spanish-American Culture and Civilization",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 327"
+          ],
+          "title": "EL Camino de Santiago",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 328"
+          ],
+          "title": "St. Teresa and St. John of the Cross: Contemplating the Face of Christ",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 329"
+          ],
+          "title": "Topics in Hispanic Culture",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 331"
+          ],
+          "title": "Survey of Peninsular Literature I",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 332"
+          ],
+          "title": "Survey of Peninsular Literature II",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 363"
+          ],
+          "title": "Masterpieces of Spanish American Literature I",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 364"
+          ],
+          "title": "Masterpieces of Spanish American Literature II",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 381"
+          ],
+          "title": "Liturgy and Literature: Spanish Hymns in the Liturgy of the Hours",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 389"
+          ],
+          "title": "Topics in Hispanic Literature",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 391"
+          ],
+          "title": "History of the Spanish Language",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 392"
+          ],
+          "title": "Spanish Pronunciation: Phonetics and Phonology",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 399"
+          ],
+          "title": "Topics in Spanish Linguistics",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        },
+        {
+          "codes": [
+            "SPN 426"
+          ],
+          "title": "Don Quixote by Cervantes",
+          "credits": 3,
+          "subLabel": "Content Courses"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Advanced Composition and Conversation I",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 303"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Advanced Composition and Conversation II",
+          "subgroup": "Language-Skills Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 304"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Ignatius: The Relationship With Christ",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 317"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Spanish Culture and Civilization",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 325"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Spanish-American Culture and Civilization",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 326"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "EL Camino de Santiago",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 327"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "St. Teresa and St. John of the Cross: Contemplating the Face of Christ",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 328"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Topics in Hispanic Culture",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 329"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Survey of Peninsular Literature I",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 331"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Survey of Peninsular Literature II",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 332"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Masterpieces of Spanish American Literature I",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 363"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Masterpieces of Spanish American Literature II",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 364"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Liturgy and Literature: Spanish Hymns in the Liturgy of the Hours",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 381"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Topics in Hispanic Literature",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 389"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "History of the Spanish Language",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 391"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Spanish Pronunciation: Phonetics and Phonology",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 392"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Topics in Spanish Linguistics",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 399"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Don Quixote by Cervantes",
+          "subgroup": "Content Courses",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 426"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Spanish Major:",
+          "text": "25 credits at the post-202/206 level, meaning eight 3-credit courses plus the 1-credit thesis or the 1-credit seminar. Four of these courses must be content courses in Hispanic literature, culture, and/ or linguistics.",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Spanish Major:",
+          "text": "The following courses are considered content courses in Hispanic literature, culture, and/or linguistics:",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Spanish Major:",
+          "text": "The department adjudicates which transfer courses are content courses whenever transfer courses do not directly correspond to content courses listed above.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Spanish Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/spanish/spanish-minor",
+      "kind": "narrative",
+      "narrative": [
+        "A total of 18 credits at the post SPN 102/SPN 106 level are required for the Spanish minor as follows: Intermediate Spanish: SPN 201 and SPN 202 (see note below). Content Courses: Students will take a minimum of two (2) content courses. The following courses are considered content courses in Hispanic literature, culture, and/or linguistics: SPN 317, SPN 325, SPN 326, SPN 327, SPN 328, SPN 329, SPN 331, SPN 332, SPN 363, SPN 364, SPN 381, SPN 389, SPN 391, SPN 392, SPN 399, SPN 426. Elective Spanish Courses for students who begin the minor at the 300 level: Students will take two (2) upper level Spanish courses of their choice. These may be language skills or content courses. Note: Students who place out of SPN 201 and SPN 202 by waiver exam or by having earned equivalent credits at another institution may begin taking Spanish courses at the 300 level. Neither the placement nor the waiver exams confer credit; furthermore, placing out of the intermediate level and into the advanced level does not constitute a waiver of the overall number of credits required; nevertheless, credit for the intermediate level earned at another institution will indeed count towards the minor. Students who feel sufficiently skilled in language to bypass SPN 303 and/or SPN 304 altogether may consult with program professors about waiving these requirements; however, a waiver of a language-skills course is not a waiver of the overall credit-number requirement. The student will still be required to take 18 credits at the post SPN 102/SPN 106 level regardless."
+      ],
+      "mentionedCodes": [
+        "SPN 102",
+        "SPN 106",
+        "SPN 201",
+        "SPN 202",
+        "SPN 317",
+        "SPN 325",
+        "SPN 326",
+        "SPN 327",
+        "SPN 328",
+        "SPN 329",
+        "SPN 331",
+        "SPN 332",
+        "SPN 363",
+        "SPN 364",
+        "SPN 381",
+        "SPN 389",
+        "SPN 391",
+        "SPN 392",
+        "SPN 399",
+        "SPN 426",
+        "SPN 303",
+        "SPN 304"
+      ],
+      "slots": [],
+      "requirements": []
+    },
+    {
+      "name": "Spanish Catholic Culture Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/spanish/spanish-catholic-culture-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "SPN 201"
+          ],
+          "title": "Intermediate Spanish I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SPN 202"
+          ],
+          "title": "Intermediate Spanish II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SPN 317"
+          ],
+          "title": "Ignatius: The Relationship With Christ",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SPN 327"
+          ],
+          "title": "EL Camino de Santiago",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SPN 328"
+          ],
+          "title": "St. Teresa and St. John of the Cross: Contemplating the Face of Christ",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SPN 381"
+          ],
+          "title": "Liturgy and Literature: Spanish Hymns in the Liturgy of the Hours",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Intermediate Spanish I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Intermediate Spanish II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 202"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Ignatius: The Relationship With Christ",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 317"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "EL Camino de Santiago",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 327"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "St. Teresa and St. John of the Cross: Contemplating the Face of Christ",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 328"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Liturgy and Literature: Spanish Hymns in the Liturgy of the Hours",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SPN 381"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "For the Spanish Catholic Culture Minor, a total of 18 credits at the post SPN 102/SPN 106 level are required with the stipulation that a minimum of 12 credits be in the content area of Catholicism in the Spanish-speaking world. Though not required, it is recommended that students take the 2 advanced language-skills courses offered, namely SPN 303 and SPN 304. Note: Students who place out of SPN 201 and SPN 202 by waiver exam or by having earned equivalent credits at another institution may begin taking Spanish courses at the 300 level. Placing out of the intermediate level and into the advanced level does not constitute a waiver of the overall number of credits required. Students must still complete 18 credits in Spanish at the post SPN 102 / SPN 106 level.",
+          "codes": [
+            "SPN 102",
+            "SPN 106",
+            "SPN 303",
+            "SPN 304",
+            "SPN 201",
+            "SPN 202",
+            "SPN 102",
+            "SPN 106"
+          ]
+        },
+        {
+          "section": null,
+          "text": "Note: Students who place out of SPN 201 and SPN 202 by placement exam or by having earned equivalent credits at another institution may begin taking Spanish courses at the 300 level. The placement exam does not confer credit, and placing out of the intermediate level and into the advanced level does not constitute a waiver of the overall number of credits required. Students must still complete 18 credits in Spanish at the post SPN 102 / SPN 106 level.",
+          "codes": [
+            "SPN 201",
+            "SPN 202",
+            "SPN 102",
+            "SPN 106"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

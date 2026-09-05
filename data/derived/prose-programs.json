@@ -1,0 +1,101 @@
+{
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "program": "Biology Minor",
+      "totalCredits": 18,
+      "requirements": [
+        {
+          "label": "200-400 Level Biology Courses",
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "subjectRule": {
+            "subjects": [
+              "BIO"
+            ],
+            "minLevel": 200,
+            "maxLevel": 400,
+            "excludes": [
+              "BIO 106"
+            ]
+          },
+          "evidence": "minimum of 9 credit hours in 200-400 level biology courses. BIO 106 is excluded."
+        }
+      ]
+    },
+    {
+      "program": "Spanish Minor",
+      "totalCredits": 18,
+      "requirements": [
+        {
+          "label": "Intermediate Spanish",
+          "count": 2,
+          "unit": "courses",
+          "options": [
+            "SPN 201",
+            "SPN 202"
+          ],
+          "subjectRule": null,
+          "evidence": "Intermediate Spanish: SPN 201 and SPN 202"
+        },
+        {
+          "label": "Content Courses",
+          "count": 2,
+          "unit": "courses",
+          "options": [
+            "SPN 317",
+            "SPN 325",
+            "SPN 326",
+            "SPN 327",
+            "SPN 328",
+            "SPN 329",
+            "SPN 331",
+            "SPN 332",
+            "SPN 363",
+            "SPN 364",
+            "SPN 381",
+            "SPN 389",
+            "SPN 391",
+            "SPN 392",
+            "SPN 399",
+            "SPN 426"
+          ],
+          "subjectRule": null,
+          "evidence": "Students will take a minimum of two (2) content courses. The following courses are considered content courses in Hispanic literature, culture, and/or linguistics: SPN 317, SPN 325, SPN 326, SPN 327, SPN 328, SPN 329, SPN 331, SPN 332, SPN 363, SPN 364, SPN 381, SPN 389, SPN 391, SPN 392, SPN 399, SPN 426."
+        },
+        {
+          "label": "Elective Spanish Courses",
+          "count": 2,
+          "unit": "courses",
+          "options": [],
+          "subjectRule": null,
+          "evidence": "Elective Spanish Courses for students who begin the minor at the 300 level: Students will take two (2) upper level Spanish courses of their choice. These may be language skills or content courses."
+        }
+      ]
+    },
+    {
+      "program": "Honors Program",
+      "totalCredits": 32,
+      "requirements": [
+        {
+          "label": "Honors Seminars",
+          "count": 8,
+          "unit": "courses",
+          "options": [
+            "HON 101",
+            "HON 102",
+            "HON 201",
+            "HON 202",
+            "HON 301",
+            "HON 302",
+            "HON 401",
+            "HON 402"
+          ],
+          "subjectRule": null,
+          "evidence": "a student must successfully complete 32 credit hours of honors work, or the equivalent of eight 4-credit-hour honors seminars. For the beginning freshman, this requirement is met by taking one 4-credit-hour honors seminar each semester for eight semesters at the University."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1188 @@
+{
+  "department": "Theology",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Theology, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/theology-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 211",
+            "THE 511"
+          ],
+          "title": "Principles of Biblical Study I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 212",
+            "THE 512"
+          ],
+          "title": "Principles of Biblical Study II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 213",
+            "THE 513"
+          ],
+          "title": "Trinity and Christology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 214",
+            "THE 514"
+          ],
+          "title": "Theology of the Church",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 314",
+            "THE 516"
+          ],
+          "title": "The Sacraments",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Theology electives (300-400 level)",
+          "credits": 12,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Foundations of Catholicism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "The Word of God: Scripture and Tradition",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Principles of Biblical Study I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 211",
+            "THE 511"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Principles of Biblical Study II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 212",
+            "THE 512"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Trinity and Christology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 213",
+            "THE 513"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Theology of the Church",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 214",
+            "THE 514"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "The Sacraments",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 314",
+            "THE 516"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Senior Thesis OR Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 434",
+            "THE 435"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Theology electives (300-400 level)",
+          "subgroup": null,
+          "count": 12,
+          "unit": "credits",
+          "options": [
+            "CAT 304",
+            "CAT 310",
+            "CAT 311",
+            "CAT 430"
+          ],
+          "creditsIfKnown": 12,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-10",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Associate of Arts Degree in Theology",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/associate-of-arts-degree-in-theology",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "History, Social Science OR American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature OR Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Math or Economics Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "THE 213",
+            "THE 513"
+          ],
+          "title": "Trinity and Christology",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective (above 200-400 level)",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "THE 214",
+            "THE 514"
+          ],
+          "title": "Theology of the Church",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective (above 200-400 level)",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Foundations of Catholicism",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-2",
+          "label": "History, Social Science OR American Founding Principles Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-3",
+          "label": "Natural Science Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "Philosophy Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "The Word of God: Scripture and Tradition",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Christian Moral Principles",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-8",
+          "label": "Literature OR Catholic Traditions in Fine Arts Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-9",
+          "label": "Math or Economics Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Trinity and Christology",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 213",
+            "THE 513"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Elective (above 200-400 level)",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-13",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Theology of the Church",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 214",
+            "THE 514"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Elective (above 200-400 level)",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-19",
+          "label": "Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Requirements are as follows:",
+          "codes": []
+        },
+        {
+          "section": "Sophomore Year",
+          "text": "THE 101, 110, 115, 213, 214 and two Theology electives (200-400 level); eight general elective courses; one History or Social Science or American Founding Principles core course; one Literature or Catholic Traditions in Fine Arts core course; one Math or Economics core course; one Natural Science core course; one Philosophy core course.",
+          "codes": [
+            "THE 101"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    },
+    {
+      "name": "MA Theology 4+1 Programs",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/ma-theology-accelerated-program",
+      "kind": "informational",
+      "narrative": [
+        "The Graduate Theology Division of Franciscan University of Steubenville offers a 4+1 Program whereby a student can graduate with a MA theology degree one year after graduating with a Bachelor’s degree with a major in Theology and/or Catechetics. The student must be accepted into the 4+1 Program by applying through the Admissions Office. Any Franciscan University undergraduate Theology or Catechetics major qualifies to apply in the semester before he or she will have met the following requirements:",
+        "An overall QPA of 3.0 and completion of at least 60 credit hours;",
+        "A 3.0 in the Philosophy core and in Theology courses or Theology and Catechetics courses for Catechetics majors;",
+        "Completion of PHL 113, PHL 211, PHL 212; THE 101, THE 110 and THE 115 with the addition of 6 more credits of theology courses, and if a CAT major, completion of CAT 120, CAT 204, CAT 301 and CAT 302",
+        "Once accepted, the student may take a maximum of three (3) graduate courses in Theology at a rate of no more than two (2) per semester, according to the following conditions:",
+        "Students who have taken the Philosophy and Theology core (PHL 113, PHL 211, PHL 212; THE 101, THE 110, THE 115) and any other 6 credits of theology may take THE 616: Advanced Moral Theology.",
+        "Students who have taken THE 211 and THE 212 in addition to the Philosophy and Theology core (PHL 113, PHL 211, PHL 212; THE 101, THE 110, THE 115) may take THE 619: Biblical Hermeneutics.",
+        "Students who have taken the Philosophy and Theology core (PHL 113, PHL 211, PHL 212; THE 101, THE 110, THE 115) and THE 211, THE 212, THE 213, THE 214 and THE 314 may take any graduate Theology foundation course (THE 613, THE 614, THE 618, THE 619, THE 616).",
+        "Undergraduate students cannot take any classes with a course code of 700 or above.",
+        "Students registered for two graduate courses in a single semester are advised to carry no more than 13 credit hours.",
+        "Two of these graduate Theology courses will fulfill general elective requirements for the bachelor’s degree and one will count toward the elective course requirements for the undergraduate major in Theology or Catechetics (depending on the courses taken). When this distribution is not possible, one of these graduate Theology courses will fulfill general elective requirements and two will count toward the elective course requirements for the undergraduate major in Theology or Catechetics. All three are also counted toward a MA Theology degree at Franciscan University. If admitted, 4+1 students are normally admitted to the Master of Arts in Theological Studies (MATS). If a student would like to switch to the Master of Theological Science (MTS) upon the completion of the bachelor’s degree, they must submit an additional application to the admissions office including a GRE score and a writing sample. Course selection in the 4+1 program must be compatible with the different requirements of each MA theology degrees. If the student completes all three graduate courses with at least a “B” (3.0) in each course and has maintained at least 3.0 QPA overall as well as in Theology courses (and Catechetics courses, if a CAT major) automatic acceptance into the Graduate Theology Program would follow. If the student completes some but not all of the graduate courses, these courses would still count toward the MA Theology degree, but there would be no automatic acceptance.",
+        "THE 600 Philosophy for Theology, THE 606 Dogmatic Theology I, THE 607 Dogmatic Theology II, THE 608 Dogmatic Theology III, THE 611 Interpreting the Old Testament, THE 612 Interpreting the New Testament, and THE 615 Moral Theology do not count for the MATS or MTS degrees. If the student elects to postpone entrance to the MA Theology degree, he or she has up to four years before needing to reapply for admission in the MA Theology Program. Only upon completion of the undergraduate degree is a student allowed to proceed to the graduate Theology courses beyond nine (9) credits. 4+1 students can finish the MATCM or MATS by taking 27 credits of graduate courses over the course of Summer, Fall, and Spring terms following undergraduate graduation in May. MTS students will need to take 33 credit hours."
+      ],
+      "mentionedCodes": [
+        "PHL 113",
+        "PHL 211",
+        "PHL 212",
+        "THE 101",
+        "THE 110",
+        "THE 115",
+        "CAT 120",
+        "CAT 204",
+        "CAT 301",
+        "CAT 302",
+        "THE 616",
+        "THE 211",
+        "THE 212",
+        "THE 619",
+        "THE 213",
+        "THE 214",
+        "THE 314",
+        "THE 613",
+        "THE 614",
+        "THE 618",
+        "THE 600",
+        "THE 606",
+        "THE 607",
+        "THE 608",
+        "THE 611",
+        "THE 612",
+        "THE 615"
+      ],
+      "slots": [],
+      "requirements": []
+    },
+    {
+      "name": "Franciscan Studies Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/franciscan-studies-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 300",
+            "HST 300"
+          ],
+          "title": "Franciscans in History",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 301",
+            "HST 301"
+          ],
+          "title": "St. Francis: Life and Charism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 326",
+            "HST 326"
+          ],
+          "title": "The Franciscan Intellectual Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 323"
+          ],
+          "title": "The Medieval World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 307",
+            "HST 307"
+          ],
+          "title": "Franciscans in the New World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 309",
+            "HST 309"
+          ],
+          "title": "History and Spirituality of the Franciscan Third Order",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 315",
+            "HST 315"
+          ],
+          "title": "The Thought of BL. John Duns Scotus",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 316",
+            "HST 316"
+          ],
+          "title": "Selected Topics in the Franciscan Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 328",
+            "HST 328"
+          ],
+          "title": "The Role of Women in the Franciscan Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 332"
+          ],
+          "title": "The Thought of St. Bonaventure",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 340"
+          ],
+          "title": "The Franciscan Tradition in Philosophy",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Twelve credits are fulfilled by the following required courses:",
+          "subgroup": null,
+          "count": 12,
+          "unit": "credits",
+          "options": [
+            "THE 110",
+            "THE 300",
+            "HST 300",
+            "THE 301",
+            "HST 301",
+            "THE 326",
+            "HST 326"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-1",
+          "label": "Six additional credits will be fulfilled from the following electives:",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [
+            "HST 323",
+            "THE 307",
+            "HST 307",
+            "THE 309",
+            "HST 309",
+            "THE 315",
+            "HST 315",
+            "THE 316",
+            "HST 316",
+            "THE 328",
+            "HST 328",
+            "THE 332",
+            "PHL 340"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Although all students of the University derive knowledge of and insight into St. Francis and his patrimony through the core curriculum and the unique vision for Catholic life embodied in the culture of Franciscan University, students who complete the Franciscan Studies Minor will deepen their understanding of the fundamental spiritual, intellectual, and cultural aspects of the Franciscan tradition from its inception in the thirteenth century to the present. This is accomplished through an enriching set of courses aimed at integrating history, theology, and philosophy as these disciplines have been touched and influenced by the Franciscan movement in the Catholic Church.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Music Ministry Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/music-ministry-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CAT 207"
+          ],
+          "title": "Introduction to Music Ministry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 107"
+          ],
+          "title": "Ear Training I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 108"
+          ],
+          "title": "Ear Training II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 109"
+          ],
+          "title": "Theory and Analysis I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 110"
+          ],
+          "title": "Theory and Analysis II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 207"
+          ],
+          "title": "Music Ministry Practicum",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 261"
+          ],
+          "title": "Survey of Sacred and Religious Music",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 418"
+          ],
+          "title": "Liturgy",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Introduction to Music Ministry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 207"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Ear Training I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 107"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Ear Training II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 108"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Theory and Analysis I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 109"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Theory and Analysis II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 110"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Music Ministry Practicum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 207"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Survey of Sacred and Religious Music",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 261"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Liturgy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 418"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "St. Francis of Assisi was known as a “troubadour for the Lord” and Franciscan University has long had a special charism of singing praise to God. By blending courses from our Fine Arts and Theology departments, the Music Ministry Minor is a program of study that examines the practical application of leading worship in both liturgical and non-liturgical environments. Students will study theoretical and practical applications for music ministry (CAT 207 Introduction to Music Ministry), the history of sacred music within the Church (MUS 261 Survey of Sacred Music), basic skills necessary for music performance (MUS 107/MUS 108 Ear Training 1 & 2, MUS 109/MUS 110 Theory and Analysis 1 & 2), and the liturgy (THE 418 Liturgy). Finally, students will have an opportunity to apply what they have learned (MUS 207 Music Ministry Practicum) in activities such as leading music for Mass at the chapel, Festivals of Praise, or Nights of Praise and Worship (students will need to pass an audition to participate in those ensembles).",
+          "codes": [
+            "CAT 207",
+            "MUS 261",
+            "MUS 107",
+            "MUS 108",
+            "MUS 109",
+            "MUS 110",
+            "THE 418",
+            "MUS 207"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Theology Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/theology/theology-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 302"
+          ],
+          "title": "Scriptural Foundations of Catechetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HON 201"
+          ],
+          "title": "Seminar III: The Early Fathers",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 211",
+            "THE 511"
+          ],
+          "title": "Principles of Biblical Study I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 212",
+            "THE 512"
+          ],
+          "title": "Principles of Biblical Study II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 213",
+            "THE 513"
+          ],
+          "title": "Trinity and Christology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 214",
+            "THE 514"
+          ],
+          "title": "Theology of the Church",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 314",
+            "THE 516"
+          ],
+          "title": "The Sacraments",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Foundations of Catholicism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "The Word of God: Scripture and Tradition OR Scriptural Foundations of Catechetics OR Seminar III: The Early Fathers",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 110",
+            "CAT 302",
+            "HON 201"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Plus three of the following",
+          "subgroup": null,
+          "count": 3,
+          "unit": "courses",
+          "options": [
+            "THE 211",
+            "THE 511",
+            "THE 212",
+            "THE 512",
+            "THE 213",
+            "THE 513",
+            "THE 214",
+            "THE 514",
+            "THE 314",
+            "THE 516"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

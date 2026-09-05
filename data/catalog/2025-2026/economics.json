@@ -1,0 +1,580 @@
+{
+  "department": "Economics",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Economics, Bachelor of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/economics/economics-bachelor-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ECO 201"
+          ],
+          "title": "Principles of Macroeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 202"
+          ],
+          "title": "Principles of Microeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 212"
+          ],
+          "title": "Fundamentals of Business Statistics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 302"
+          ],
+          "title": "Current Economic Problems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 303"
+          ],
+          "title": "Labor Economics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 321"
+          ],
+          "title": "Money and Banking",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 355"
+          ],
+          "title": "Comparative Economic Systems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 401"
+          ],
+          "title": "History of Economic Thought",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 411"
+          ],
+          "title": "Intermediate Macroeconomic Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 412"
+          ],
+          "title": "Intermediate Microeconomic Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 427"
+          ],
+          "title": "International Trade and Finance",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 207"
+          ],
+          "title": "Financial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ACC 208"
+          ],
+          "title": "Managerial Accounting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 101"
+          ],
+          "title": "Introduction to Business",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 130"
+          ],
+          "title": "Personal Vocation and God’s Call to Leadership",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 202"
+          ],
+          "title": "Principles of Marketing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 208"
+          ],
+          "title": "Business Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 215"
+          ],
+          "title": "Business Analysis",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 220"
+          ],
+          "title": "Business Communications",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 230"
+          ],
+          "title": "Designing Your Life With and For Others",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 330"
+          ],
+          "title": "The Vocation of the Business Leader",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 413"
+          ],
+          "title": "Business and Society",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BUS 420"
+          ],
+          "title": "Strategic Management",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 156"
+          ],
+          "title": "Applied Calculus",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Principles of Macroeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Principles of Microeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 202"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Fundamentals of Business Statistics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 212"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Current Economic Problems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 302"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Labor Economics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 303"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Money and Banking",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 321"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Comparative Economic Systems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 355"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "History of Economic Thought",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 401"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Intermediate Macroeconomic Theory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 411"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Intermediate Microeconomic Theory",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 412"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "International Trade and Finance",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 427"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Senior Thesis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 434"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Financial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 207"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Managerial Accounting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ACC 208"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Introduction to Business",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 101"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Personal Vocation and God’s Call to Leadership",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 130"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Principles of Marketing",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 202"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Business Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 208"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Business Analysis",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 215"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Business Communications",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 220"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Designing Your Life With and For Others",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 230"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "The Vocation of the Business Leader",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 330"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Business and Society",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 413"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Strategic Management",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BUS 420"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Applied Calculus",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 156"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Economics Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/economics/economics-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ECO 201"
+          ],
+          "title": "Principles of Macroeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 202"
+          ],
+          "title": "Principles of Microeconomics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ECO 302"
+          ],
+          "title": "Current Economic Problems",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "300-400 level economics courses",
+          "credits": 9,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Principles of Macroeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Principles of Microeconomics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 202"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Current Economic Problems",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ECO 302"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "300-400 level economics courses",
+          "subgroup": null,
+          "count": 9,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 9
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "It is recommended that students have a strong math background. (MTH 156 suggested)",
+          "codes": [
+            "MTH 156"
+          ]
+        },
+        {
+          "section": null,
+          "text": "It is recommended that students have a strong math background. (MTH 156 suggested)",
+          "codes": [
+            "MTH 156"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

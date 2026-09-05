@@ -1,0 +1,168 @@
+{
+  "department": "Human Life Studies (minor program only)",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Human Life Studies Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/human-life-studies-minor-program-only/human-life-studies-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "HLS 201"
+          ],
+          "title": "The Culture of Death and the Culture of Life",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 202"
+          ],
+          "title": "Life Issues, Marriage, and the Family",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 301"
+          ],
+          "title": "Life Issues and the Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 110"
+          ],
+          "title": "Human Biology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 203"
+          ],
+          "title": "Human Embryology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "The Culture of Death and the Culture of Life",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HLS 201"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Life Issues, Marriage, and the Family",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HLS 202"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Life Issues and the Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HLS 301"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Human Biology OR Human Embryology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 110",
+            "BIO 203"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Foundations of Ethics OR Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512",
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "American National Government",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

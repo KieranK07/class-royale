@@ -1,0 +1,52 @@
+{
+ "quickFilters": null,
+ "totalRows": 5,
+ "filteredRows": 1046,
+ "rows": [
+  {
+   "courseCode": "<label class='sr-only'>Course Code</label><a href='javascript:void(0);' class='viewsectiondetails menu-option' data-idnumber='1000001'data-yearterm='2026;10' data-sectionid='77301' data-isfreeelectivesearch='False' data-fromcoursesearch='True' data-studentplandetailid='0' data-advisingrequirementcode='CSC265' data-weekdaycode='0'>CSC-265-A</a>",
+   "title": "<label class='sr-only'>Title</label>Intro to AI/ML Programming",
+   "faculty": "<div class='ju-text-overflow-ellipsis' title='Rivera, Jordan - Assistant Professor'><label class='sr-only'>Faculty</label>Rivera, Jordan<br/>Assistant Professor</div>",
+   "seatsOpen": "<label class='sr-only'>Seats open</label>7/25",
+   "status": "<label class='sr-only'>Status</label>Open",
+   "schedule": "<label class='sr-only'>Schedule</label><span class='jzb-strong-text'>Tue, Thu</span><br/><span>9:30-10:45 AM</span><br/>8/24/2026 - 12/11/2026 <span>Christ the Teacher - 140</span>",
+   "credits": "<label class='sr-only'>Credits</label>3.00"
+  },
+  {
+   "courseCode": "<label class='sr-only'>Course Code</label><a href='javascript:void(0);' class='viewsectiondetails menu-option' data-idnumber='1000001'data-yearterm='2026;10' data-sectionid='77302' data-isfreeelectivesearch='False' data-fromcoursesearch='True' data-studentplandetailid='0' data-advisingrequirementcode='CSC310' data-weekdaycode='0'>CSC-310-B</a>",
+   "title": "<label class='sr-only'>Title</label>Programming Languages",
+   "faculty": "<div><label class='sr-only'>Faculty</label>Okonkwo, Ada<br/>Professor</div>",
+   "seatsOpen": "<label class='sr-only'>Seats open</label>0/20",
+   "status": "<label class='sr-only'>Status</label>Full",
+   "schedule": "<label class='sr-only'>Schedule</label><span class='jzb-strong-text'>Mon, Wed, Fri</span><br/><span>1:00-1:50 PM</span><br/>8/24/2026 - 12/11/2026 <span></span>",
+   "credits": "<label class='sr-only'>Credits</label>3.00"
+  },
+  {
+   "courseCode": "<label class='sr-only'>Course Code</label><a href='javascript:void(0);' class='viewsectiondetails menu-option' data-idnumber='1000001'data-yearterm='2026;10' data-sectionid='77303' data-isfreeelectivesearch='False' data-fromcoursesearch='True' data-studentplandetailid='0' data-advisingrequirementcode='SFE330' data-weekdaycode='0'>SFE-330-OL</a>",
+   "title": "<label class='sr-only'>Title</label>Cryptography",
+   "faculty": "<div><label class='sr-only'>Faculty</label>Vance, Marek</div>",
+   "seatsOpen": "<label class='sr-only'>Seats open</label>12/30",
+   "status": "<label class='sr-only'>Status</label>Open",
+   "schedule": "<label class='sr-only'>Schedule</label><span></span><br/>1/12/2026 - 5/6/2026 <span></span>",
+   "credits": "<label class='sr-only'>Credits</label>3.00"
+  },
+  {
+   "courseCode": "<label class='sr-only'>Course Code</label><a href='javascript:void(0);' class='viewsectiondetails menu-option' data-idnumber='1000001'data-yearterm='2025;20' data-sectionid='77304' data-isfreeelectivesearch='False' data-fromcoursesearch='True' data-studentplandetailid='0' data-advisingrequirementcode='ART118' data-weekdaycode='0'>ART-118-GA</a>",
+   "title": "<label class='sr-only'>Title</label>Drawing I",
+   "faculty": "<div><label class='sr-only'>Faculty</label>Fischer, Lena<br/>Program Director, Austria</div>",
+   "seatsOpen": "<label class='sr-only'>Seats open</label>1/15",
+   "status": "<label class='sr-only'>Status</label>Open",
+   "schedule": "<label class='sr-only'>Schedule</label><span class='jzb-strong-text'>Thu</span><br/><span>8:40-11:50 AM</span><br/>1/15/2026 - 5/4/2026 <span></span>",
+   "credits": "<label class='sr-only'>Credits</label>3.00"
+  },
+  {
+   "courseCode": "<label class='sr-only'>Course Code</label><a>NOT A SECTION CODE</a>",
+   "title": "<label class='sr-only'>Title</label>Malformed row that must be skipped",
+   "faculty": "",
+   "seatsOpen": "",
+   "status": "",
+   "schedule": "",
+   "credits": ""
+  }
+ ]
+}

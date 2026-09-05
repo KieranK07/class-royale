@@ -1,0 +1,445 @@
+{
+  "catalogYear": "2025-2026",
+  "rules": [
+    {
+      "label": "Software Engineering OR Computer Science Upper Level Elective",
+      "subjects": [
+        "SFE",
+        "CSC"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names two subject prefixes ('Software Engineering' → SFE, 'Computer Science' → CSC, both in subjects list) and specifies 'Upper Level' which indicates minLevel 300."
+    },
+    {
+      "label": "CHM upper-level elective",
+      "subjects": [
+        "CHM"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'CHM' (in subjects list) and specifies 'upper-level', which indicates minLevel 300."
+    },
+    {
+      "label": "English Elective (Literature-B)*",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'English' which corresponds to subject prefix ENG (in subjects list). No level bound is specified in the label text."
+    },
+    {
+      "label": "Theatre Elective",
+      "subjects": [
+        "THE",
+        "THR"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'Theatre' which corresponds to subject prefixes THE or THR (both in subjects list). No level bound is specified in the label text."
+    },
+    {
+      "label": "Two BIO Organismal and Evolution electives",
+      "subjects": [
+        "BIO"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'BIO' (in subjects list). The specification 'Organismal and Evolution' describes course content but does not explicitly state a level requirement in the label text."
+    },
+    {
+      "label": "Criminology and Criminality Electives",
+      "subjects": [
+        "CRJ"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'Criminology and Criminality' which relates to Criminal Justice, corresponding to subject prefix CRJ (in subjects list). No level bound is specified in the label text."
+    },
+    {
+      "label": "Upper-level mathematics electives (one of these electives can be replaced by a CSC elective)",
+      "subjects": [
+        "MTH",
+        "CSC"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'mathematics' (MTH) and 'CSC' (both in subjects list) and specifies 'Upper-level', which indicates minLevel 300. Exact quote: 'Upper-level mathematics electives (one of these electives can be replaced by a CSC elective)'."
+    },
+    {
+      "label": "English Elective (Literature-E)*",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'English' which corresponds to subject prefix ENG (in subjects list). No level bound is specified in the label text."
+    },
+    {
+      "label": "200-400 level history electives",
+      "subjects": [
+        "HST"
+      ],
+      "minLevel": 200,
+      "maxLevel": 400,
+      "reasoning": "Label explicitly names 'history' (HST, in subjects list) and specifies '200-400 level', which indicates minLevel 200 and maxLevel 400. Exact quote: '200-400 level history electives'."
+    },
+    {
+      "label": "Two upper-level COM courses",
+      "subjects": [
+        "COM"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'COM' (in subjects list) and specifies 'upper-level', which indicates minLevel 300."
+    },
+    {
+      "label": "Upper-level French courses",
+      "subjects": [
+        "FRN"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly names 'French' which corresponds to subject prefix FRN (in subjects list) and specifies 'upper-level', which indicates minLevel 300."
+    },
+    {
+      "label": "Civilization - History elective",
+      "subjects": [
+        "HST"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'History elective', indicating HST as the subject prefix. No level constraint is stated in the label text."
+    },
+    {
+      "label": "4 upper level biology electives",
+      "subjects": [
+        "BIO"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly states 'biology' (subject: BIO) and 'upper level' (minLevel 300). Upper-level courses at this institution typically begin at 300."
+    },
+    {
+      "label": "English Elective (Literature-A)*",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly states 'English', indicating ENG subject. No level constraint is stated. The asterisk appears to refer to a footnote not provided in this data."
+    },
+    {
+      "label": "Chemistry elective 200-400 level",
+      "subjects": [
+        "CHM"
+      ],
+      "minLevel": 200,
+      "maxLevel": 400,
+      "reasoning": "Label explicitly states 'Chemistry' (subject: CHM) and specifies level range '200-400' with explicit boundaries stated in the label text."
+    },
+    {
+      "label": "MEC Elective",
+      "subjects": [
+        "MEC"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'MEC' (Mechanical Engineering), which is a valid subject prefix in the institution's catalog. No level constraint is stated."
+    },
+    {
+      "label": "English Elective (Literature-D)*",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly states 'English', indicating ENG subject. No level constraint is stated. The asterisk appears to refer to a footnote not provided in this data."
+    },
+    {
+      "label": "24 credits of upper-level (300-400) French courses",
+      "subjects": [
+        "FRN"
+      ],
+      "minLevel": 300,
+      "maxLevel": 400,
+      "reasoning": "Label explicitly states 'French' (subject: FRN) and specifies level range '(300-400)' with clear boundaries stated in the label text. 'Upper-level' is reinforced by the explicit 300-400 range."
+    },
+    {
+      "label": "Sociology OR History Core",
+      "subjects": [
+        "SOC",
+        "HST"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly states 'Sociology OR History Core', providing clear subject alternatives."
+    },
+    {
+      "label": "Sociology Elective",
+      "subjects": [
+        "SOC"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'Sociology Elective'."
+    },
+    {
+      "label": "Anthropology Elective",
+      "subjects": [
+        "ANT"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'Anthropology Elective'."
+    },
+    {
+      "label": "English Elective (Literature-F)*",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'English Elective'. The '(Literature-F)' and asterisk appear to indicate a category or note but do not change the core subject."
+    },
+    {
+      "label": "FLM AUX Elective",
+      "subjects": [
+        "FLM"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'FLM AUX Elective' where FLM is in the provided subjects list."
+    },
+    {
+      "label": "CSC or EGR Course",
+      "subjects": [
+        "CSC",
+        "EGR"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly states 'CSC or EGR Course', naming both subject prefixes directly."
+    },
+    {
+      "label": "6 credits of upper-level math electives",
+      "subjects": [
+        "MTH"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'upper-level math electives'. 'Upper-level' typically indicates 300+ level courses in academia."
+    },
+    {
+      "label": "3 Upper-Level English Writing Courses",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'Upper-Level English'. 'Upper-Level' indicates 300+ level."
+    },
+    {
+      "label": "Four upper-level COM courses",
+      "subjects": [
+        "COM"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly states 'upper-level COM courses'. 'Upper-level' indicates 300+ level."
+    },
+    {
+      "label": "200-400 level COM courses",
+      "subjects": [
+        "COM"
+      ],
+      "minLevel": 200,
+      "maxLevel": 400,
+      "reasoning": "Label explicitly specifies '200-400 level COM courses', providing clear level bounds."
+    },
+    {
+      "label": "BIO Upper-level Elective*",
+      "subjects": [
+        "BIO"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly states 'BIO' and 'Upper-level'. Upper-level courses are conventionally 300+."
+    },
+    {
+      "label": "Communication Arts /Film Studies Elective",
+      "subjects": [
+        "COM",
+        "FLM"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly lists two subject options: 'Communication Arts' (COM) and 'Film Studies' (FLM), separated by a slash indicating either/or."
+    },
+    {
+      "label": "Psychology Elective",
+      "subjects": [
+        "PSY"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'Psychology' (PSY subject)."
+    },
+    {
+      "label": "Civilization - Philosophy elective",
+      "subjects": [
+        "PHL"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'Philosophy elective', which corresponds to PHL subject."
+    },
+    {
+      "label": "Math or Economics Core",
+      "subjects": [
+        "MTH",
+        "ECO"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly offers both options: 'Math' (MTH) or 'Economics' (ECO)."
+    },
+    {
+      "label": "Criminal Justice Elective",
+      "subjects": [
+        "CRJ"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'Criminal Justice' (CRJ subject)."
+    },
+    {
+      "label": "English Elective (Literature-C)*",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'English' (ENG subject). The note '(Literature-C)' describes the concentration context but does not restrict the subject."
+    },
+    {
+      "label": "Courts and the Judiciary Electives",
+      "subjects": [
+        "CRJ"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "'Courts and the Judiciary' is a topic within criminal justice. For a Criminal Justice program, CRJ courses would satisfy this elective."
+    },
+    {
+      "label": "200-400 level mathematics elective courses",
+      "subjects": [
+        "MTH"
+      ],
+      "minLevel": 200,
+      "maxLevel": 400,
+      "reasoning": "Label explicitly specifies '200-400 level' and 'mathematics'. The range and subject are both clearly stated."
+    },
+    {
+      "label": "Writing Elective",
+      "subjects": [
+        "ENG"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "For the English (Writing Concentration) program context, 'Writing Elective' refers to ENG courses."
+    },
+    {
+      "label": "Other history courses",
+      "subjects": [
+        "HST"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'history' (HST subject)."
+    },
+    {
+      "label": "Three upper-level COM courses",
+      "subjects": [
+        "COM"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "Label explicitly specifies 'COM' subject and 'upper-level' (300+)."
+    },
+    {
+      "label": "LAT 300 level elective",
+      "subjects": [
+        "LAT"
+      ],
+      "minLevel": 300,
+      "maxLevel": 399,
+      "reasoning": "The label explicitly names the subject (LAT) and level range (300 level)."
+    },
+    {
+      "label": "2 Upper level biology electives",
+      "subjects": [
+        "BIO"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "The label explicitly specifies biology (BIO) and 'upper level' which typically means 300+."
+    },
+    {
+      "label": "CSC or SFE Elective",
+      "subjects": [
+        "CSC",
+        "SFE"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "The label explicitly lists two subject prefixes: CSC or SFE. No level restriction is stated."
+    },
+    {
+      "label": "300-400 level economics courses",
+      "subjects": [
+        "ECO"
+      ],
+      "minLevel": 300,
+      "maxLevel": 400,
+      "reasoning": "The label explicitly specifies subject (economics/ECO) and level range (300-400)."
+    },
+    {
+      "label": "Computer Science Upper Level Elective",
+      "subjects": [
+        "CSC"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "The label explicitly specifies Computer Science (CSC) and 'upper level' which typically means 300+."
+    },
+    {
+      "label": "Three courses from the 300 level and 400 level philosophy courses",
+      "subjects": [
+        "PHL"
+      ],
+      "minLevel": 300,
+      "maxLevel": 499,
+      "reasoning": "The label explicitly specifies subject (philosophy/PHL) and level range (300 and 400 level courses, which means 300-499)."
+    },
+    {
+      "label": "Upper-level POL courses",
+      "subjects": [
+        "POL"
+      ],
+      "minLevel": 300,
+      "maxLevel": null,
+      "reasoning": "The label explicitly specifies subject (POL) and 'upper-level' which typically means 300+."
+    },
+    {
+      "label": "Business Elective",
+      "subjects": [
+        "BUS"
+      ],
+      "minLevel": null,
+      "maxLevel": null,
+      "reasoning": "The label straightforwardly specifies Business (BUS) as the subject. No level restriction is stated."
+    }
+  ]
+}

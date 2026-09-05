@@ -1,0 +1,686 @@
+{
+  "department": "Humanities and Catholic Culture",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Humanities and Catholic Culture, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/humanities-and-catholic-culture/humanities-and-catholic-culture-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "HCC 101"
+          ],
+          "title": "Religion and Culture: Ancient World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 201"
+          ],
+          "title": "Religion and Culture: Medieval Europe",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 401"
+          ],
+          "title": "Catholicism and the Modern World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 404"
+          ],
+          "title": "Catholics, Catholicism, and American Culture",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 315"
+          ],
+          "title": "Dante's Divine Comedy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 324"
+          ],
+          "title": "Shakespeare's Histories and Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 325"
+          ],
+          "title": "Shakespeare: The Tragedies and Tragi-Comedies",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 326"
+          ],
+          "title": "English Literature of the Medieval Period",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 331"
+          ],
+          "title": "Studies in Chaucer",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 447"
+          ],
+          "title": "Milton",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 320"
+          ],
+          "title": "Ancient History",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 323"
+          ],
+          "title": "The Medieval World",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 324"
+          ],
+          "title": "Renaissance and Reformation",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 327"
+          ],
+          "title": "French Revolution and Nineteenth Century Europe",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 211",
+            "PHL 511"
+          ],
+          "title": "Metaphysics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 312"
+          ],
+          "title": "Medieval Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 308"
+          ],
+          "title": "Philosophy of Religion",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HCC 411"
+          ],
+          "title": "Selected Themes in Catholic Culture",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 291",
+            "PHL 391"
+          ],
+          "title": "Ancient/Medieval Political Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 292",
+            "PHL 392"
+          ],
+          "title": "Modern Political Philosophy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 308"
+          ],
+          "title": "Catholic Political Thought",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 343"
+          ],
+          "title": "Politics, Economics, and the Social Encyclicals",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 320"
+          ],
+          "title": "Catholic Social Teaching",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 302"
+          ],
+          "title": "Early Christian Life and Thought",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 320"
+          ],
+          "title": "Catholic Social Teaching",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 343"
+          ],
+          "title": "Politics, Economics, and the Social Encyclicals",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 402"
+          ],
+          "title": "Christian Life and Thought in Modern Times",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 261"
+          ],
+          "title": "Survey of Sacred and Religious Music",
+          "credits": 3,
+          "subLabel": "A fine arts course from the following"
+        },
+        {
+          "codes": [
+            "ART 150"
+          ],
+          "title": "Visual Arts and the Catholic Imagination",
+          "credits": 3,
+          "subLabel": "A fine arts course from the following"
+        },
+        {
+          "codes": [
+            "THR 150"
+          ],
+          "title": "Theatre and the Catholic Imagination",
+          "credits": 3,
+          "subLabel": "A fine arts course from the following"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Religion and Culture: Ancient World",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 101"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Religion and Culture: Medieval Europe",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 201"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Catholicism and the Modern World",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 401"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Catholics, Catholicism, and American Culture",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 404"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HCC 435"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Dante's Divine Comedy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 315"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Shakespeare's Histories and Comedies OR Shakespeare: The Tragedies and Tragi-Comedies",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 324",
+            "ENG 325"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "English Literature of the Medieval Period OR Studies in Chaucer",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 326",
+            "ENG 331"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Milton",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ENG 447"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Ancient History",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 320"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "The Medieval World",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 323"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Renaissance and Reformation",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 324"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "French Revolution and Nineteenth Century Europe",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 327"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Metaphysics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 211",
+            "PHL 511"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 212",
+            "PHL 512"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Medieval Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 312"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Philosophy of Religion OR Selected Themes in Catholic Culture",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 308",
+            "HCC 411"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Ancient/Medieval Political Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 291",
+            "PHL 391"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Modern Political Philosophy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 292",
+            "PHL 392"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Catholic Political Thought",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 308"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Politics, Economics, and the Social Encyclicals OR Catholic Social Teaching",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 343",
+            "THE 320"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition OR Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110",
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Early Christian Life and Thought",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 302"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Catholic Social Teaching OR Politics, Economics, and the Social Encyclicals",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 320",
+            "POL 343"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Christian Life and Thought in Modern Times",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 402"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        },
+        {
+          "id": "grp-27",
+          "label": "Survey of Sacred and Religious Music",
+          "subgroup": "A fine arts course from the following",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 261"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "Visual Arts and the Catholic Imagination",
+          "subgroup": "A fine arts course from the following",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ART 150"
+          ]
+        },
+        {
+          "id": "grp-29",
+          "label": "Theatre and the Catholic Imagination",
+          "subgroup": "A fine arts course from the following",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THR 150"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for the Humanities and Catholic Culture Major:",
+          "text": "Due to the complex and structured nature of the HCC major, the student is strongly advised to consult with the director in order to fashion a program of study best suited to his or her particular situation.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

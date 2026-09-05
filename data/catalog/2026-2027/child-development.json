@@ -1,0 +1,484 @@
+{
+  "department": "Child Development",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Child Development, Associate of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/child-development/child-development-associate-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 215"
+          ],
+          "title": "Activities/Games/Drama for the Young Child",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 318"
+          ],
+          "title": "Child and Adolescent Literature",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 321"
+          ],
+          "title": "Inclusive Early Childhood Education",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 150"
+          ],
+          "title": "Nutrition and Health for Children",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MTH 122"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "History Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Literature OR Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 209"
+          ],
+          "title": "Adolescent Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "SWK 209"
+          ],
+          "title": "Populations and Cross-Cultural Engagement",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EDU 208"
+          ],
+          "title": "English Language Learners in a Specialized Atmosphere (ELISA)",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Early Experience I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Pre-Field Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Activities/Games/Drama for the Young Child",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 215"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Foundations of Education",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Child and Adolescent Literature",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 318"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Inclusive Early Childhood Education",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 321"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Survey of Biological Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 106"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Nutrition and Health for Children",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 150"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Mathematics for Early and Middle Grade Teachers I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 121"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Mathematics for Early and Middle Grade Teachers II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 122"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Survey of Physical Science",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHY 105"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Educational Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "History Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Literature OR Catholic Traditions in Fine Arts Core",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Psychology of Human Development I OR Adolescent Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206",
+            "PSY 209"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Populations and Cross-Cultural Engagement OR English Language Learners in a Specialized Atmosphere (ELISA)",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "SWK 209",
+            "EDU 208"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Foundations of Catholicism OR The Word of God: Scripture and Tradition",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101",
+            "THE 110"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Philosophy of the Human Person OR Foundations of Ethics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503",
+            "PHL 212",
+            "PHL 512"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Associate of Arts Degree in Child Development:",
+          "text": "PHL 113, PHL 212: (PHL core)",
+          "codes": [
+            "PHL 113",
+            "PHL 212"
+          ]
+        },
+        {
+          "section": null,
+          "text": "The two-year Child Development Program leads to an associate of arts degree as described:",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "The above program leads to an associate of arts degree in child development. It may be integrated into Franciscan University of Steubenville’s four-year Bachelor of Science degree program in primary education. Upon successful completion of application to the Teacher Education Program as an education (Pre-K-5) major, the student then qualifies for state licensure in teaching at the Pre-K through fifth grade level.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

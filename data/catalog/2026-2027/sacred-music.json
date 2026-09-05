@@ -1,0 +1,1463 @@
+{
+  "department": "Sacred Music",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Sacred Music, Organ Concentration, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/sacred-music/sacred-music-organ-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "MUS 107"
+          ],
+          "title": "Ear Training I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 108"
+          ],
+          "title": "Ear Training II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 109"
+          ],
+          "title": "Theory and Analysis I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 110"
+          ],
+          "title": "Theory and Analysis II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 170"
+          ],
+          "title": "Organ I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 171"
+          ],
+          "title": "Organ II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 175"
+          ],
+          "title": "Schola Cantorum Franciscana",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 177"
+          ],
+          "title": "Schola Cantorum Franciscana, Women’s Choir",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 176"
+          ],
+          "title": "Voice I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 183"
+          ],
+          "title": "Piano",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 209"
+          ],
+          "title": "Theory and Analysis III",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 222"
+          ],
+          "title": "Gregorian Chant I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 223"
+          ],
+          "title": "Gregorian Chant II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 226"
+          ],
+          "title": "Accompanying",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 262"
+          ],
+          "title": "Survey of Choral and Solo Vocal Literature",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 263"
+          ],
+          "title": "Survey of Organ and Keyboard Literature",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 270"
+          ],
+          "title": "Organ III",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 271"
+          ],
+          "title": "Organ IV",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 303"
+          ],
+          "title": "Music History I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 304"
+          ],
+          "title": "Music History II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 313"
+          ],
+          "title": "Choral Conducting",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 370"
+          ],
+          "title": "Organ V",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 371"
+          ],
+          "title": "Organ VI",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 405"
+          ],
+          "title": "Sacred Music Colloquium I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 406"
+          ],
+          "title": "Sacred Music Colloquium II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 407"
+          ],
+          "title": "Vocal Pedagogy",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 470"
+          ],
+          "title": "Organ VII",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 418"
+          ],
+          "title": "Liturgy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Ear Training I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 107"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Ear Training II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 108"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Theory and Analysis I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 109"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Theory and Analysis II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 110"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Organ I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 170"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Organ II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 171"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Schola Cantorum Franciscana OR Schola Cantorum Franciscana, Women’s Choir",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 175",
+            "MUS 177"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Voice I OR Piano",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 176",
+            "MUS 183"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Theory and Analysis III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 209"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Gregorian Chant I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 222"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Gregorian Chant II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 223"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Accompanying",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 226"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Survey of Choral and Solo Vocal Literature",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 262"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Survey of Organ and Keyboard Literature",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 263"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Organ III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 270"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Organ IV",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 271"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Music History I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 303"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Music History II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 304"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Choral Conducting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 313"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Organ V",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 370"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Organ VI",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 371"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Sacred Music Colloquium I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 405"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Sacred Music Colloquium II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 406"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Vocal Pedagogy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 407"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Organ VII",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 470"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Liturgy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 418"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Sacred Music (Organ) Major:",
+          "text": "Majors are given a diagnostic placement exam for both Theory & Analysis and Ear Training. If a student tests into MUS 100 and/or MUS 104, then those are required courses to enter Theory & Analysis I (MUS 109) and Ear Training I (MUS 107), respectively. However, MUS 100 and MUS 104 credits do not count toward the major.",
+          "codes": [
+            "MUS 100",
+            "MUS 104",
+            "MUS 107",
+            "MUS 100",
+            "MUS 104"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Sacred Music (Organ) Major:",
+          "text": "Seven semester (21 credits) of primary instrument courses are required (MUS 170, MUS 171, MUS 270, MUS 271, MUS 370, MUS 371, MUS 470).",
+          "codes": [
+            "MUS 170",
+            "MUS 171",
+            "MUS 270",
+            "MUS 271",
+            "MUS 370",
+            "MUS 371",
+            "MUS 470"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Sacred Music (Organ) Major:",
+          "text": "Four semesters (4 credits) of secondary instrument courses are required (MUS 176 or MUS 183).",
+          "codes": [
+            "MUS 176",
+            "MUS 183"
+          ]
+        },
+        {
+          "section": "Additional Requirements:",
+          "text": "Upon the establishment of an organ studio, weekly mandatory performance classes will be held All majors are required to present a half-hour recital in their junior year and a one-hour recital in their senior year.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Sacred Music, Voice Concentration, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/sacred-music/sacred-music-voice-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "MUS 107"
+          ],
+          "title": "Ear Training I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 108"
+          ],
+          "title": "Ear Training II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 109"
+          ],
+          "title": "Theory and Analysis I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 110"
+          ],
+          "title": "Theory and Analysis II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 172"
+          ],
+          "title": "Voice I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 173"
+          ],
+          "title": "Voice II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 174"
+          ],
+          "title": "Organ I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 183"
+          ],
+          "title": "Piano",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 175"
+          ],
+          "title": "Schola Cantorum Franciscana",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 177"
+          ],
+          "title": "Schola Cantorum Franciscana, Women’s Choir",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 209"
+          ],
+          "title": "Theory and Analysis III",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 222"
+          ],
+          "title": "Gregorian Chant I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 223"
+          ],
+          "title": "Gregorian Chant II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 226"
+          ],
+          "title": "Accompanying",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 262"
+          ],
+          "title": "Survey of Choral and Solo Vocal Literature",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 263"
+          ],
+          "title": "Survey of Organ and Keyboard Literature",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 272"
+          ],
+          "title": "Voice III",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 273"
+          ],
+          "title": "Voice IV",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 303"
+          ],
+          "title": "Music History I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 304"
+          ],
+          "title": "Music History II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 313"
+          ],
+          "title": "Choral Conducting",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 372"
+          ],
+          "title": "Voice V",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 373"
+          ],
+          "title": "Voice VI",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 405"
+          ],
+          "title": "Sacred Music Colloquium I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 406"
+          ],
+          "title": "Sacred Music Colloquium II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 407"
+          ],
+          "title": "Vocal Pedagogy",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 472"
+          ],
+          "title": "Voice VII",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 418"
+          ],
+          "title": "Liturgy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Ear Training I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 107"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Ear Training II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 108"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Theory and Analysis I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 109"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Theory and Analysis II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 110"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Voice I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 172"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Voice II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 173"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Organ I OR Piano",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 174",
+            "MUS 183"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Schola Cantorum Franciscana OR Schola Cantorum Franciscana, Women’s Choir",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 175",
+            "MUS 177"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Theory and Analysis III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 209"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Gregorian Chant I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 222"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Gregorian Chant II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 223"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Accompanying",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 226"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Survey of Choral and Solo Vocal Literature",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 262"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Survey of Organ and Keyboard Literature",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 263"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Voice III",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 272"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Voice IV",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 273"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Music History I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 303"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Music History II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 304"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Choral Conducting",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 313"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Voice V",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 372"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Voice VI",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 373"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Sacred Music Colloquium I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 405"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Sacred Music Colloquium II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 406"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Vocal Pedagogy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 407"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Voice VII",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 472"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Liturgy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 418"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Sacred Music (Voice) Major:",
+          "text": "Majors are given a diagnostic placement exam for both Theory & Analysis and Ear Training. If a student tests into MUS 100 and/or MUS 104, then those are required courses to enter Theory & Analysis I (MUS 109) and Ear Training I (MUS 107), respectively. However, MUS 100 and MUS 104 credits do not count toward the major.",
+          "codes": [
+            "MUS 100",
+            "MUS 104",
+            "MUS 107",
+            "MUS 100",
+            "MUS 104"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Sacred Music (Voice) Major:",
+          "text": "Seven semester (21 credits) of primary instrument courses are required (MUS 172, MUS 173, MUS 272, MUS 273, MUS 372, MUS 373, MUS 472)",
+          "codes": [
+            "MUS 172",
+            "MUS 173",
+            "MUS 272",
+            "MUS 273",
+            "MUS 372",
+            "MUS 373",
+            "MUS 472"
+          ]
+        },
+        {
+          "section": "Bachelor of Arts Degree Requirements for Sacred Music (Voice) Major:",
+          "text": "Four semesters (4 credits) of secondary instrument courses are required (MUS 174 / MUS 183). Note - Majors who have no prior keyboard skills may elect to take up to but not exceeding two credits of piano in preparation for organ study. Students with prior piano study and upon the recommendation of their professor must take organ for the four allotted credits.",
+          "codes": [
+            "MUS 174",
+            "MUS 183"
+          ]
+        },
+        {
+          "section": "Additional Requirements:",
+          "text": "Upon the establishment of a voice studio, weekly mandatory performance classes will be held. All majors are required to present a one-hour recital in their senior year.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Sacred Music Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/sacred-music/sacred-music-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "MUS 226"
+          ],
+          "title": "Accompanying",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 407"
+          ],
+          "title": "Vocal Pedagogy",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 261"
+          ],
+          "title": "Survey of Sacred and Religious Music",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Sacred Music Minor Elective",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 104"
+          ],
+          "title": "Fundamentals of Ear Training",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "and",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 107"
+          ],
+          "title": "Ear Training I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 107"
+          ],
+          "title": "Ear Training I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "and",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 108"
+          ],
+          "title": "Ear Training II",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 100"
+          ],
+          "title": "Fundamentals of Music",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "and",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 109"
+          ],
+          "title": "Theory and Analysis I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 109"
+          ],
+          "title": "Theory and Analysis I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "and",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 110"
+          ],
+          "title": "Theory and Analysis II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 174"
+          ],
+          "title": "Organ I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 176"
+          ],
+          "title": "Voice I",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 183"
+          ],
+          "title": "Piano",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 175"
+          ],
+          "title": "Schola Cantorum Franciscana",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 177"
+          ],
+          "title": "Schola Cantorum Franciscana, Women’s Choir",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "MUS 180"
+          ],
+          "title": "Franciscan Chamber Music Society",
+          "credits": 1,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Accompanying OR Vocal Pedagogy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 226",
+            "MUS 407"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Survey of Sacred and Religious Music",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MUS 261"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Sacred Music Minor Elective",
+          "subgroup": null,
+          "count": 1,
+          "unit": "credits",
+          "options": [
+            "MUS 209",
+            "MUS 221",
+            "MUS 262",
+            "MUS 263",
+            "MUS 303",
+            "MUS 400",
+            "MUS 407"
+          ],
+          "creditsIfKnown": 1,
+          "optionsFromNote": true
+        },
+        {
+          "id": "grp-3",
+          "label": "Ear Training Courses (2 credits)",
+          "subgroup": null,
+          "count": 2,
+          "unit": "credits",
+          "options": [
+            "MUS 104",
+            "MUS 107",
+            "MUS 108"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-4",
+          "label": "Music Theory Courses (6 credits)",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [
+            "MUS 100",
+            "MUS 109",
+            "MUS 110"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-5",
+          "label": "Primary Instrument Courses (3 credits)",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "MUS 174",
+            "MUS 176",
+            "MUS 183"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-6",
+          "label": "University Ensemble Requirement (3 credits)",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [
+            "MUS 175",
+            "MUS 177",
+            "MUS 180"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Sacred music minors are required to complete",
+          "codes": []
+        },
+        {
+          "section": "Ear Training Courses (2 credits)",
+          "text": "MUS 100",
+          "codes": []
+        },
+        {
+          "section": "Ear Training Courses (2 credits)",
+          "text": "MUS 104",
+          "codes": []
+        },
+        {
+          "section": "Ear Training Courses (2 credits)",
+          "text": "MUS 107",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "The Sacred Music Minor gives students training in music theory, music history, sacred music and performance and prepares them to become involved in the musical life of the Church and society after graduation. Sacred music minors are required to take a core curriculum of courses, to participate in campus ensembles and to gain proficiency, and to demonstrate their ability on an instrument (including voice).",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

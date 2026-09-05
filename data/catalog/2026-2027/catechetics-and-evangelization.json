@@ -1,0 +1,1342 @@
+{
+  "department": "Catechetics and Evangelization",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Catechetics and Evangelization, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/catechetics-and-evangelization/catechetics-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CAT 120"
+          ],
+          "title": "The Catechist and Missionary Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 204",
+            "CAT 517"
+          ],
+          "title": "The Church's Vision of Catechetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 301"
+          ],
+          "title": "Catechetical Content and Curriculum",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 302"
+          ],
+          "title": "Scriptural Foundations of Catechetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 303"
+          ],
+          "title": "Catechetical Saints: History of Evangelizing Culture",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 401"
+          ],
+          "title": "Catechetical Methods I: Teaching and Discipleship",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 402"
+          ],
+          "title": "Catechetical Methods II: Beauty and Liturgy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 405"
+          ],
+          "title": "Catechetical Ministries in the Church",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 420"
+          ],
+          "title": "Catechetics Practicum",
+          "credits": 2,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 435"
+          ],
+          "title": "Senior Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 211",
+            "THE 511"
+          ],
+          "title": "Principles of Biblical Study I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 212",
+            "THE 512"
+          ],
+          "title": "Principles of Biblical Study II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 214",
+            "THE 514"
+          ],
+          "title": "Theology of the Church",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 213",
+            "THE 513"
+          ],
+          "title": "Trinity and Christology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 314",
+            "THE 516"
+          ],
+          "title": "The Sacraments",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 320"
+          ],
+          "title": "Catholic Social Teaching",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "The Catechist and Missionary Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 120"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "The Church's Vision of Catechetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 204",
+            "CAT 517"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Catechetical Content and Curriculum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 301"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Scriptural Foundations of Catechetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 302"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Catechetical Saints: History of Evangelizing Culture",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 303"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Catechetical Methods I: Teaching and Discipleship",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 401"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Catechetical Methods II: Beauty and Liturgy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 402"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Catechetical Ministries in the Church",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 405"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Catechetics Practicum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 420"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Senior Thesis OR Senior Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 434",
+            "CAT 435"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Foundations of Catholicism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Principles of Biblical Study I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 211",
+            "THE 511"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Principles of Biblical Study II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 212",
+            "THE 512"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Theology of the Church",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 214",
+            "THE 514"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Trinity and Christology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 213",
+            "THE 513"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "The Sacraments",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 314",
+            "THE 516"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Catholic Social Teaching",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 320"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Psychology of Human Development I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 206"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Double Major - Catechetics/Theology:",
+          "text": "A Catechetics major can earn a double major in Theology by adding three (3) upper division Theology electives and the Theology Senior Thesis (THE 434) or coordinating Seminar (THE 435) to their Catechetics major.",
+          "codes": []
+        },
+        {
+          "section": "Double Major - Outside of Theology Department",
+          "text": "Catechetics majors pursuing a second major outside the Theology department are eligible to substitute THE 320 for American Founding Principles.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Catechetics and Evangelization with Youth Ministry Concentration, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/catechetics-and-evangelization/catechetics-with-youth-ministry-concentration-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CAT 120"
+          ],
+          "title": "The Catechist and Missionary Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 204",
+            "CAT 517"
+          ],
+          "title": "The Church's Vision of Catechetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 301"
+          ],
+          "title": "Catechetical Content and Curriculum",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 302"
+          ],
+          "title": "Scriptural Foundations of Catechetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 303"
+          ],
+          "title": "Catechetical Saints: History of Evangelizing Culture",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 310"
+          ],
+          "title": "Parish and Personal Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 311"
+          ],
+          "title": "Relational Youth Ministry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 312"
+          ],
+          "title": "Methods of Youth Ministry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 401"
+          ],
+          "title": "Catechetical Methods I: Teaching and Discipleship",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 402"
+          ],
+          "title": "Catechetical Methods II: Beauty and Liturgy",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 405"
+          ],
+          "title": "Catechetical Ministries in the Church",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 410"
+          ],
+          "title": "Leadership in Youth Ministry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 412"
+          ],
+          "title": "Youth Ministry Internship",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 434"
+          ],
+          "title": "Senior Thesis",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 435"
+          ],
+          "title": "Senior Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 211",
+            "THE 511"
+          ],
+          "title": "Principles of Biblical Study I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 212",
+            "THE 512"
+          ],
+          "title": "Principles of Biblical Study II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 213",
+            "THE 513"
+          ],
+          "title": "Trinity and Christology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 214",
+            "THE 514"
+          ],
+          "title": "Theology of the Church",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 314",
+            "THE 516"
+          ],
+          "title": "The Sacraments",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 320"
+          ],
+          "title": "Catholic Social Teaching",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 209"
+          ],
+          "title": "Adolescent Psychology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "The Catechist and Missionary Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 120"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "The Church's Vision of Catechetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 204",
+            "CAT 517"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Catechetical Content and Curriculum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 301"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Scriptural Foundations of Catechetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 302"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Catechetical Saints: History of Evangelizing Culture",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 303"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Parish and Personal Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 310"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Relational Youth Ministry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 311"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Methods of Youth Ministry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 312"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Catechetical Methods I: Teaching and Discipleship",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 401"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Catechetical Methods II: Beauty and Liturgy",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 402"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Catechetical Ministries in the Church",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 405"
+          ]
+        },
+        {
+          "id": "grp-11",
+          "label": "Leadership in Youth Ministry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 410"
+          ]
+        },
+        {
+          "id": "grp-12",
+          "label": "Youth Ministry Internship",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 412"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Senior Thesis OR Senior Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 434",
+            "CAT 435"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Foundations of Catholicism",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 101"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Christian Moral Principles",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 115",
+            "THE 515"
+          ]
+        },
+        {
+          "id": "grp-16",
+          "label": "Principles of Biblical Study I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 211",
+            "THE 511"
+          ]
+        },
+        {
+          "id": "grp-17",
+          "label": "Principles of Biblical Study II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 212",
+            "THE 512"
+          ]
+        },
+        {
+          "id": "grp-18",
+          "label": "Trinity and Christology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 213",
+            "THE 513"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Theology of the Church",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 214",
+            "THE 514"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "The Sacraments",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 314",
+            "THE 516"
+          ]
+        },
+        {
+          "id": "grp-21",
+          "label": "Catholic Social Teaching",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 320"
+          ]
+        },
+        {
+          "id": "grp-22",
+          "label": "Philosophy of the Human Person",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PHL 113",
+            "PHL 503"
+          ]
+        },
+        {
+          "id": "grp-23",
+          "label": "Adolescent Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 209"
+          ]
+        },
+        {
+          "id": "grp-24",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Double Major - Catechetics/Theology:",
+          "text": "A Catechetics major can earn a double major in Theology by adding three (3) upper division Theology electives and the Theology Senior Thesis (THE 434) or coordinating Seminar (THE 435) to their Catechetics major.",
+          "codes": []
+        },
+        {
+          "section": "Core Substitution",
+          "text": "Youth Ministry concentration students are eligible to substitute THE 320 for the American Founding Principles Core and CAT 302 for THE 110.",
+          "codes": [
+            "THE 110"
+          ]
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Evangelization Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/catechetics-and-evangelization/evangelization-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CAT 120"
+          ],
+          "title": "The Catechist and Missionary Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 204",
+            "CAT 517"
+          ],
+          "title": "The Church's Vision of Catechetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 309"
+          ],
+          "title": "New Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 310"
+          ],
+          "title": "Parish and Personal Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 213",
+            "THE 513"
+          ],
+          "title": "Trinity and Christology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 214",
+            "THE 514"
+          ],
+          "title": "Theology of the Church",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Evangelization Elective",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "The Catechist and Missionary Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 120"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "The Church's Vision of Catechetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 204",
+            "CAT 517"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "New Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 309"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Parish and Personal Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 310"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Trinity and Christology OR Theology of the Church",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "THE 213",
+            "THE 513",
+            "THE 214",
+            "THE 514"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Evangelization Elective",
+          "subgroup": null,
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "Courses",
+          "text": "Evangelization electives include: THE 213 Christ or THE 214 Church, THE 310 Comparative Religion, THE 320 Catholic Social Teaching, THE 341 Christian Marriage, THE 350 Christian Vision of the Human Person, THE 395 Theology of the Body, THE 409 Christian Spirituality, CAT 301 Content Curriculum, CAT 302 Scriptural Foundations, CAT 304 Catechumenate: Conversion and Christian Initiation, CAT 311 Foundations of Catholic Youth Ministry.",
+          "codes": [
+            "THE 310",
+            "THE 341",
+            "THE 350",
+            "THE 395",
+            "THE 409",
+            "CAT 301",
+            "CAT 304",
+            "CAT 311"
+          ]
+        },
+        {
+          "section": "Courses",
+          "text": "Note - Students majoring in Catechetics and Evangelization may not minor in Evangelization.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "Catholic Youth Ministry Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/catechetics-and-evangelization/youth-ministry-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CAT 120"
+          ],
+          "title": "The Catechist and Missionary Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 311"
+          ],
+          "title": "Relational Youth Ministry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 312"
+          ],
+          "title": "Methods of Youth Ministry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 410"
+          ],
+          "title": "Leadership in Youth Ministry",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 204",
+            "CAT 517"
+          ],
+          "title": "The Church's Vision of Catechetics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 301"
+          ],
+          "title": "Catechetical Content and Curriculum",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 309"
+          ],
+          "title": "New Evangelization",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CAT 310"
+          ],
+          "title": "Parish and Personal Evangelization",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "The Catechist and Missionary Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 120"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Relational Youth Ministry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 311"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Methods of Youth Ministry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 312"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Leadership in Youth Ministry",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 410"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "The Church's Vision of Catechetics",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 204",
+            "CAT 517"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Catechetical Content and Curriculum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 301"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "New Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 309"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Parish and Personal Evangelization",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CAT 310"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "Required Courses:",
+          "text": "Students must complete the following four courses:",
+          "codes": []
+        },
+        {
+          "section": "Electives:",
+          "text": "And complete",
+          "codes": []
+        },
+        {
+          "section": "Electives:",
+          "text": "two",
+          "codes": []
+        },
+        {
+          "section": "Electives:",
+          "text": "of the following:",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "The Catholic Youth Ministry Minor gives students a comprehensive understanding of the Church’s vision of ministries with youth (13-18 years of age) and examines effective practices of accompaniment, missionary activity, catechesis, service, and discipleship with Catholic teenagers. Though primarily focused on high school, the pastoral principles learned within the minor also apply to ministries with junior high and college students.",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Other recommended courses are CAT 412 Youth Ministry Internship, PSY 209 Adolescent Psychology, and THE 395 Theology of the Body.",
+          "codes": [
+            "CAT 412",
+            "THE 395"
+          ]
+        },
+        {
+          "section": null,
+          "text": "Those who seek a professional career in the field of youth ministry are encouraged to take this minor in conjunction with a major in Catechetics and Evangelization (where it becomes a Concentration in Youth Ministry—a stronger academic credential) and/or a major in Theology. See a Catechetics faculty advisor for details.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [
+        "Electives:"
+      ],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

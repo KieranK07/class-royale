@@ -1,0 +1,95 @@
+{
+  "department": "Aerospace Studies (minor program only)",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "Aerospace Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/aerospace-studies-minor/aerospace-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "CRJ 302"
+          ],
+          "title": "Crime and Criminal Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "CRJ 407"
+          ],
+          "title": "Internship in Criminal Justice",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "EGR 101"
+          ],
+          "title": "Introduction to Engineering and Design",
+          "credits": 2,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Crime and Criminal Law",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 302"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Internship in Criminal Justice",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CRJ 407"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Introduction to Engineering and Design",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EGR 101"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "The Minor in Aerospace Studies relies on curricular delivery by the Air Force at the University of Pittsburgh, as well as course offerings by Criminal Justice and Engineering at Franciscan.",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Core Courses are mandatory under the Air Force ROTC program and include:",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "AES 100: Introduction to Air Force: Heritage and Values (2 Credits) The AES 100 course surveys and introduces students to the Department of the Air Force (DAF) and provides an overview of the basic characteristics, missions, communications and organization of the Air Force and Space Force. Students are not expected to start with any knowledge of the Military, Department of the Air Force, or its constituent parts. The course educates students on what the Air and Space Forces are, what they can offer, and what traits we will begin cultivating in them so they may be effective leaders inside and outside the military. The course also lays the foundation for becoming an Airman or Guardian by outlining military heritage, military careers, and the importance of core values AES 200: Dynamic Team Operations: Teamwork and Leadership (2 Credits) The AES 200 course provides a fundamental understanding of both leadership, team building, the traits needed to become well-rounded officers, and the characteristics that facilitate the creation of motivated and capable teams. Further, the course emphasizes professional skills development and application in listening, understanding themselves, being a good follower, and problem solving efficiently. If students decide they like what they have seen of Air Force ROTC, this course serves AS the foundation for the challenges they will face as Air Force and Space Force officers. The course is designed to prepare students for leadership roles within Air Force ROTC if a student chooses to continue in the program. AES 300: Officer Professionalism and Unit Leadership (4 Credits) The AES 300 course utilizes a student’s previous experience in Air Force ROTC instruction to take a more in-depth look at leadership. Special emphasis is placed on enhancing communication skills, establishing a foundation of professionalism, utilizing varied feedback techniques, administration of organizations, incorporating innovation and technology, and the developing the skills necessary to effectively lead people in military operational environments. Students have an opportunity to try out these leadership and management techniques in a supervised environment in the classroom and the Air Force ROTC program. AES 400: Organization Leadership and National Defense Strategy (4 Credits) The AES 400 course is designed for college seniors and provides them with the foundation to understand their role AS military officers and how they are directly tied to our National Security. It is an overview of the complex social and political issues facing the military profession and requires a measure of sophistication commensurate with the senior college level. Student build upon knowledge form previous Air Force ROTC instruction further examining the basic elements of national security policy and process, basics of Department of the Air Force operations, the roles of the military in society, current domestic and international issues affecting the military profession, understanding the responsibility, authority, and functions of a Department of the Air Force commander, practical skills in military life, and selected provisions of the military justice system. The final portion of the AES 400 course is designed to prepare students for life as a second lieutenant--an officer and first-level leader in the Department of the Air Force. The Minor also requires at least three university wide courses that align with the ROTC mission and content. Hence, the Minor will require the following courses from Franciscan University:",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

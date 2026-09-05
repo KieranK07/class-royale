@@ -1,0 +1,248 @@
+{
+  "department": "Art",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Narrative Arts Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/art/narrative-arts-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "ART 206",
+            "FLM 206"
+          ],
+          "title": "ART Graphic Narrative",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 254"
+          ],
+          "title": "Radio/Television Scriptwriting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 345",
+            "FLM 345"
+          ],
+          "title": "Independent Digital Filmmaking",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 332"
+          ],
+          "title": "Creative Writing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ART 106"
+          ],
+          "title": "Drawing I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ART 107"
+          ],
+          "title": "Drawing II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ART 118"
+          ],
+          "title": "Painting I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ART 119"
+          ],
+          "title": "Painting II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 123"
+          ],
+          "title": "Catholic Worldview of Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 222",
+            "FLM 222"
+          ],
+          "title": "Critical TV Viewing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 254"
+          ],
+          "title": "Radio/Television Scriptwriting",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 328",
+            "FLM 328"
+          ],
+          "title": "Film Analysis and Theory",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 345",
+            "FLM 345"
+          ],
+          "title": "Independent Digital Filmmaking",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "COM 381"
+          ],
+          "title": "Writing for Interactive Media",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ENG 406"
+          ],
+          "title": "Fiction Writing",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 330"
+          ],
+          "title": "Design for the Theatre",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THR 340",
+            "FLM 340"
+          ],
+          "title": "Principles of Directing",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Essential Courses--Students enroll in three courses from the essential list below:",
+          "subgroup": null,
+          "count": 3,
+          "unit": "courses",
+          "options": [
+            "ART 206",
+            "FLM 206",
+            "COM 254",
+            "COM 345",
+            "FLM 345",
+            "ENG 332"
+          ],
+          "fromHeading": true
+        },
+        {
+          "id": "grp-1",
+          "label": "Elective Courses--students select three electives from the list below.",
+          "subgroup": null,
+          "count": 3,
+          "unit": "courses",
+          "options": [
+            "ART 106",
+            "ART 107",
+            "ART 118",
+            "ART 119",
+            "COM 123",
+            "COM 222",
+            "FLM 222",
+            "COM 254",
+            "COM 328",
+            "FLM 328",
+            "COM 345",
+            "FLM 345",
+            "COM 381",
+            "ENG 406",
+            "THR 330",
+            "THR 340",
+            "FLM 340"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "Elective Courses--students select three electives from the list below.",
+          "text": "Note: at least one of the three elective courses selected from the list must be outside of the student's major area of study.",
+          "codes": []
+        },
+        {
+          "section": "Elective Courses--students select three electives from the list below.",
+          "text": "The elective list of courses may also include any Special Topics course or new catalog course specifically focused on Narrative.",
+          "codes": []
+        },
+        {
+          "section": "Elective Courses--students select three electives from the list below.",
+          "text": "Prerequisites are as follows: ART 106 is for ART 107; ART 118 is for ART 119; ENG 332 is for ENG 406; THR 120 or permission of instructor is for THR 330; THR 210 or permission of instructor is for THR 340.",
+          "codes": [
+            "ART 106",
+            "ART 107",
+            "ART 118",
+            "ART 119",
+            "ENG 332",
+            "ENG 406",
+            "THR 120",
+            "THR 330",
+            "THR 210",
+            "THR 340"
+          ]
+        },
+        {
+          "section": null,
+          "text": "The Narrative Arts program focuses on the creation of narrative art forms in writing, performance and visual production. Students select courses from English, Communications, Theatre and Visual Art. The program offers an interdisciplinary understanding of complementary narrative forms in contemporary media fields such as: screenwriting, playwriting, film making, stage production, set design, directing, acting, storyboarding, concept art, graphic novels and graphic illustration. These areas of creativity cross-pollinate each other in contemporary media.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

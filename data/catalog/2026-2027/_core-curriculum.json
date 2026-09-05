@@ -1,0 +1,849 @@
+{
+  "catalogYear": "2026-2027",
+  "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/degree-requirements-and-graduation/core-curriculum-requirements",
+  "categories": [
+    {
+      "code": "AFP",
+      "label": "American Founding Principles",
+      "options": [
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "HCC 404"
+          ],
+          "title": "Catholics, Catholicism, and American Culture",
+          "credits": 3
+        }
+      ],
+      "notes": [
+        "HCC 404: HCC majors only."
+      ]
+    },
+    {
+      "code": "CFA",
+      "label": "Catholic Traditions in Fine Arts",
+      "options": [
+        {
+          "codes": [
+            "ART 150"
+          ],
+          "title": "Visual Arts and the Catholic Imagination",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MUS 261"
+          ],
+          "title": "Survey of Sacred and Religious Music",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "THR 150"
+          ],
+          "title": "Theatre and the Catholic Imagination",
+          "credits": 3
+        }
+      ],
+      "notes": []
+    },
+    {
+      "code": "ECO",
+      "label": "Economics",
+      "options": [
+        {
+          "codes": [
+            "ECO 121"
+          ],
+          "title": "Fundamentals of Economics",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "ECO 201"
+          ],
+          "title": "Principles of Macroeconomics",
+          "credits": 3
+        }
+      ],
+      "notes": [
+        "ECO 201 is required for ECO majors."
+      ]
+    },
+    {
+      "code": "HST",
+      "label": "History",
+      "options": [
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "HST 323"
+          ],
+          "title": "The Medieval World",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "HST 324"
+          ],
+          "title": "Renaissance and Reformation",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "HST 327"
+          ],
+          "title": "French Revolution and Nineteenth Century Europe",
+          "credits": 3
+        }
+      ],
+      "notes": []
+    },
+    {
+      "code": "LIT",
+      "label": "Literature",
+      "options": [
+        {
+          "codes": [
+            "ENG 210"
+          ],
+          "title": "Epic and the Person",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "ENG 211"
+          ],
+          "title": "Writing about Literature",
+          "credits": 3
+        }
+      ],
+      "notes": [
+        "Bachelor of Arts majors are required to complete ENG 210 Epic and the Person and ENG 211 Writing About Literature. Bachelor of Science majors are required to complete ENG 211 Writing About Literature. Associate of Arts and Associate of Science majors are required to complete ENG 211 Writing About Literature."
+      ]
+    },
+    {
+      "code": "MTH",
+      "label": "Mathematics",
+      "options": [
+        {
+          "codes": [
+            "MTH 120"
+          ],
+          "title": "Survey of Mathematics",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MTH 123"
+          ],
+          "title": "MATH/AYA Mathematics",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MTH 155"
+          ],
+          "title": "Finite Mathematics",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MTH 156"
+          ],
+          "title": "Applied Calculus",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MTH 160"
+          ],
+          "title": "Precalculus",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MTH 161"
+          ],
+          "title": "Analytic Geometry and Calculus I",
+          "credits": 4
+        },
+        {
+          "codes": [
+            "MTH 204",
+            "PSY 204"
+          ],
+          "title": "Research Statistics",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "MTH 210"
+          ],
+          "title": "Euclidean and Non-Euclidean Geometry",
+          "credits": 3
+        }
+      ],
+      "notes": []
+    },
+    {
+      "code": "NSC",
+      "label": "Natural Science",
+      "options": [
+        {
+          "codes": [
+            "ANT 102"
+          ],
+          "title": "Introduction to Physical Anthropology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "BIO 106"
+          ],
+          "title": "Survey of Biological Science",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "BIO 110"
+          ],
+          "title": "Human Biology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "BIO 120"
+          ],
+          "title": "Introduction to Environmental Science",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4
+        },
+        {
+          "codes": [
+            "BIO 134"
+          ],
+          "title": "Anatomy and Physiology II",
+          "credits": 4
+        },
+        {
+          "codes": [
+            "BIO 142"
+          ],
+          "title": "General Biology I",
+          "credits": 4
+        },
+        {
+          "codes": [
+            "BIO 143"
+          ],
+          "title": "General Biology II",
+          "credits": 4
+        },
+        {
+          "codes": [
+            "BIO 150"
+          ],
+          "title": "Nutrition and Health for Children",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "BIO 203"
+          ],
+          "title": "Human Embryology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "BIO 237"
+          ],
+          "title": "Tropical Marine Biology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "CHM 105"
+          ],
+          "title": "Energy Production and Society",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "CHM 110"
+          ],
+          "title": "Chemistry with Biological and Medical Applications",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "CHM 111"
+          ],
+          "title": "General Chemistry I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "GEL 101"
+          ],
+          "title": "Introduction to Geology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PHY 105"
+          ],
+          "title": "Survey of Physical Science",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PHY 106"
+          ],
+          "title": "Survey of Earth and Space Science",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PHY 111"
+          ],
+          "title": "General Physics I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PHY 220"
+          ],
+          "title": "University Physics I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PHY 224"
+          ],
+          "title": "University Physics III",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "SCI 110"
+          ],
+          "title": "Modern Science and the Catholic Faith",
+          "credits": 3
+        }
+      ],
+      "notes": [
+        "BIO 150: EDU, HDFS, & SWK majors only"
+      ]
+    },
+    {
+      "code": "PHL",
+      "label": "Philosophy",
+      "options": [
+        {
+          "codes": [
+            "PHL 113",
+            "PHL 503"
+          ],
+          "title": "Philosophy of the Human Person",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PHL 211",
+            "PHL 511"
+          ],
+          "title": "Metaphysics",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3
+        }
+      ],
+      "notes": []
+    },
+    {
+      "code": "SSC",
+      "label": "Social Science",
+      "options": [
+        {
+          "codes": [
+            "ANT 101"
+          ],
+          "title": "Cultural Anthropology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "COM 121"
+          ],
+          "title": "Introduction to Mass Media",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "COM 123"
+          ],
+          "title": "Catholic Worldview of Media",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "HST 208"
+          ],
+          "title": "History of the United States II",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "POL 101"
+          ],
+          "title": "Foundations of Politics and Government",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "POL 233"
+          ],
+          "title": "International Politics",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "LST 201"
+          ],
+          "title": "Survey of American Law I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "LST 202"
+          ],
+          "title": "Survey of American Law II",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PSY 206"
+          ],
+          "title": "Psychology of Human Development I",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PSY 209"
+          ],
+          "title": "Adolescent Psychology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "SOC 101"
+          ],
+          "title": "Introductory Sociology",
+          "credits": 3
+        }
+      ],
+      "notes": [
+        "PSY 301: EDU Majors Only"
+      ]
+    },
+    {
+      "code": "THE",
+      "label": "Theology",
+      "options": [
+        {
+          "codes": [
+            "THE 101"
+          ],
+          "title": "Foundations of Catholicism",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "THE 110"
+          ],
+          "title": "The Word of God: Scripture and Tradition",
+          "credits": 3
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3
+        }
+      ],
+      "notes": []
+    }
+  ],
+  "degreeRules": {
+    "BA": {
+      "totalCredits": 45,
+      "rules": [
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "AFP"
+          ],
+          "text": "one American founding principles course"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "CFA"
+          ],
+          "text": "one Catholic traditions in fine arts course"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "HST"
+          ],
+          "text": "one history course"
+        },
+        {
+          "count": 2,
+          "unit": "courses",
+          "categories": [
+            "LIT"
+          ],
+          "text": "two literature courses"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "MTH",
+            "ECO"
+          ],
+          "text": "one math or one economics course"
+        },
+        {
+          "count": 2,
+          "unit": "courses",
+          "categories": [
+            "NSC"
+          ],
+          "text": "two natural science courses"
+        },
+        {
+          "count": 3,
+          "unit": "courses",
+          "categories": [
+            "PHL"
+          ],
+          "text": "three philosophy courses"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "SSC"
+          ],
+          "text": "one social science course"
+        },
+        {
+          "count": 3,
+          "unit": "courses",
+          "categories": [
+            "THE"
+          ],
+          "text": "three theology courses"
+        }
+      ],
+      "alsoRequires": [
+        "intermediate foreign language requirement"
+      ],
+      "sourceSentence": "Bachelor of Arts students are required to complete one American founding principles course, one Catholic traditions in fine arts course, one history course, two literature courses, either one math or one economics course, two natural science courses, three philosophy courses, one social science course, and three theology courses for a total of 45 core curriculum credits plus complete the intermediate foreign language requirement."
+    },
+    "BS": {
+      "totalCredits": 42,
+      "rules": [
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "AFP"
+          ],
+          "text": "one American founding principles course"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "CFA"
+          ],
+          "text": "one Catholic traditions in fine arts course"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "ECO"
+          ],
+          "text": "one economics course"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "HST"
+          ],
+          "text": "one history course"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "LIT"
+          ],
+          "onlyCourses": [
+            "ENG 211"
+          ],
+          "text": "one literature course"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "MTH"
+          ],
+          "text": "one math course"
+        },
+        {
+          "count": 2,
+          "unit": "courses",
+          "categories": [
+            "NSC"
+          ],
+          "text": "two natural science courses"
+        },
+        {
+          "count": 5,
+          "unit": "courses",
+          "categories": [
+            "PHL",
+            "THE"
+          ],
+          "text": "five philosophy and theology courses"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "SSC"
+          ],
+          "text": "one social science course"
+        }
+      ],
+      "alsoRequires": [],
+      "sourceSentence": "Bachelor of Science students are required to complete one American founding principles course, one Catholic traditions in fine arts course, one economics course, one history course, one literature course (ENG 211), one math course, two natural science courses, five philosophy and theology courses, and one social science course for a total of 42 core curriculum credits."
+    },
+    "AA/AS": {
+      "totalCredits": 21,
+      "rules": [
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "THE"
+          ],
+          "text": "one theology core"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "PHL"
+          ],
+          "text": "one philosophy core"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "HST",
+            "SSC",
+            "AFP"
+          ],
+          "text": "one history or social science or American founding principles core"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "NSC"
+          ],
+          "text": "one natural science core"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "LIT"
+          ],
+          "onlyCourses": [
+            "ENG 211"
+          ],
+          "text": "one literature core"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "CFA"
+          ],
+          "text": "one Catholic traditions in fine arts core"
+        },
+        {
+          "count": 1,
+          "unit": "courses",
+          "categories": [
+            "MTH",
+            "ECO"
+          ],
+          "text": "one math or economics core"
+        }
+      ],
+      "alsoRequires": [],
+      "sourceSentence": "Associate of Arts and Associate of Science students complete 21 credits of core curriculum including: one theology core, one philosophy core, one history or social science or American founding principles core, one natural science core, one literature core (ENG 211), one Catholic traditions in fine arts core, and one math or economics core."
+    }
+  },
+  "unmatchedProse": [
+    "The following core program requirements for graduation will apply to all new and readmitted students entering the University beginning fall 2026 and thereafter:",
+    "3",
+    "3",
+    "3",
+    "HCC 404: HCC majors only.",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "ECO 201 is required for ECO majors.",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "4",
+    "4",
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "BIO 150: EDU, HDFS, & SWK majors only",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "PSY 301: EDU Majors Only",
+    "3",
+    "3",
+    "3",
+    "Bachelor of Arts majors are required to complete ENG 210 Epic and the Person and ENG 211 Writing About Literature.",
+    "Bachelor of Science majors are required to complete ENG 211 Writing About Literature.",
+    "Associate of Arts and Associate of Science majors are required to complete ENG 211 Writing About Literature."
+  ]
+}

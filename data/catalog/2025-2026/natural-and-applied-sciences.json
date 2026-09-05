@@ -1,0 +1,418 @@
+{
+  "department": "Natural and Applied Sciences",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Natural and Applied Sciences, Associate of Science",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/natural-and-applied-sciences/natural-and-applied-sciences-associate-of-science",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [],
+          "title": "Science sequence*, first course(s)",
+          "credits": 4,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [
+            "MTH 160"
+          ],
+          "title": "Precalculus",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "History, Social Science OR American Founding Principles Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Science sequence*, second course(s)",
+          "credits": 4,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Natural or Applied Science elective",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Literature OR Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Freshman Year"
+        },
+        {
+          "codes": [],
+          "title": "Additional science sequence* course(s)",
+          "credits": 4,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "CSC or EGR Course",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Natural or Applied Science elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Theology OR Philosophy Core",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        },
+        {
+          "codes": [],
+          "title": "Elective",
+          "credits": 3,
+          "subLabel": "Sophomore Year"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Science sequence*, first course(s)",
+          "subgroup": "Freshman Year",
+          "count": 4,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 4
+        },
+        {
+          "id": "grp-1",
+          "label": "Precalculus",
+          "subgroup": "Freshman Year",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 160"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Theology Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-3",
+          "label": "History, Social Science OR American Founding Principles Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "Elective",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Science sequence*, second course(s)",
+          "subgroup": "Freshman Year",
+          "count": 4,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 4
+        },
+        {
+          "id": "grp-6",
+          "label": "Natural or Applied Science elective",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-7",
+          "label": "Philosophy Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-8",
+          "label": "Literature OR Catholic Traditions in Fine Arts Core",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-9",
+          "label": "Elective",
+          "subgroup": "Freshman Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-10",
+          "label": "Additional science sequence* course(s)",
+          "subgroup": "Sophomore Year",
+          "count": 4,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 4
+        },
+        {
+          "id": "grp-11",
+          "label": "CSC or EGR Course",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-13",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-14",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-15",
+          "label": "Natural or Applied Science elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Theology OR Philosophy Core",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-19",
+          "label": "Elective",
+          "subgroup": "Sophomore Year",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": "Associate of Science",
+          "text": "Twelve credits chosen from selected BIO, CHM, CSC or PHY course sequences, including at least six credits earned within a single course sequence, and including at least one course with a laboratory component; MTH 160 (or higher); three credits chosen from any CSC course (CSC 140 or higher) or EGR course(s); six additional credits chosen from any BIO, CHM, CSC, MTH, PHY, or SCI courses; one theology core course; one history, social science, or American founding principles core course; one literature or Catholic traditions in the fine arts core course; one philosophy core course; one additional philosophy or theology core course.",
+          "codes": [
+            "MTH 160",
+            "CSC 140"
+          ]
+        },
+        {
+          "section": "Associate of Science",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Associate of Science",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Associate of Science",
+          "text": "First Semester",
+          "codes": []
+        },
+        {
+          "section": "Associate of Science",
+          "text": "Second Semester",
+          "codes": []
+        },
+        {
+          "section": "Associate of Science",
+          "text": "The science sequences are:",
+          "codes": []
+        },
+        {
+          "section": "Associate of Science",
+          "text": "BIO 133** and BIO 134**; BIO 142** and BIO 143**; CHM 111, CHM 116** and CHM 112, CHM 117**; CHM 110, CHM 115**, CHM 114,CHM 118**; PHY 111, PHY 112**, PHY 113 , PHY 114**; PHY 220, PHY 221**, PHY 222, PHY 223**, PHY 224, PHY 225**; CSC 144 and CSC 145; CSC 141 and CSC 171.",
+          "codes": [
+            "BIO 133",
+            "BIO 134",
+            "BIO 142",
+            "BIO 143",
+            "CHM 111",
+            "CHM 116",
+            "CHM 112",
+            "CHM 117",
+            "CHM 110",
+            "CHM 115",
+            "CHM 114",
+            "CHM 118",
+            "PHY 111",
+            "PHY 112",
+            "PHY 113",
+            "PHY 114",
+            "PHY 220",
+            "PHY 221",
+            "PHY 222",
+            "PHY 223",
+            "PHY 224",
+            "PHY 225",
+            "CSC 144",
+            "CSC 145",
+            "CSC 141",
+            "CSC 171"
+          ]
+        },
+        {
+          "section": "Associate of Science",
+          "text": "Note that a student cannot earn credit for this degree from both CHM sequences, from both PHY sequences, or from both CSC sequences. Courses with a laboratory component are indicated with **.",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

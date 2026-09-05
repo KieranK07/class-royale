@@ -1,0 +1,181 @@
+{
+  "department": "Exercise Science (minor program only)",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Exercise Science Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/exercise-science-minor/exercise-science-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "BIO 133"
+          ],
+          "title": "Anatomy and Physiology I",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 134"
+          ],
+          "title": "Anatomy and Physiology II",
+          "credits": 4,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ESC 210"
+          ],
+          "title": "Introduction to Athletic Injuries",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ESC 220"
+          ],
+          "title": "Strength and Fitness Training and Assessment",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ESC 335",
+            "BIO 335"
+          ],
+          "title": "Exercise Physiology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "ESC 350"
+          ],
+          "title": "Exercise Science Practicum",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 215"
+          ],
+          "title": "Nutrition",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PSY 105"
+          ],
+          "title": "General Psychology",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "Anatomy and Physiology I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 133"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Anatomy and Physiology II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 134"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Introduction to Athletic Injuries",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ESC 210"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Strength and Fitness Training and Assessment",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ESC 220"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Exercise Physiology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ESC 335",
+            "BIO 335"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Exercise Science Practicum",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "ESC 350"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "Nutrition OR General Psychology",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "BIO 215",
+            "PSY 105"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        },
+        {
+          "section": "The following courses would be required to earn the minor:",
+          "text": "Biology majors can substitute BIO 330 Human Anatomy and BIO 224 Human Physiology for BIO 133 and BIO 134.",
+          "codes": [
+            "BIO 330",
+            "BIO 224",
+            "BIO 133",
+            "BIO 134"
+          ]
+        }
+      ],
+      "uncertainHeadings": [
+        "The following courses would be required to earn the minor:"
+      ],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

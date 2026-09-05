@@ -1,0 +1,124 @@
+{
+  "department": "Human Life Studies (minor program only)",
+  "catalogYear": "2025-2026",
+  "programs": [
+    {
+      "name": "Human Life Studies Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2025-2026/undergraduate-catalog-2025-2026/academic-programs/human-life-studies-minor-program-only/human-life-studies-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "HLS 201"
+          ],
+          "title": "The Culture of Death and the Culture of Life",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 202"
+          ],
+          "title": "Life Issues, Marriage, and the Family",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HLS 301"
+          ],
+          "title": "Life Issues and the Law",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 110"
+          ],
+          "title": "Human Biology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "BIO 203"
+          ],
+          "title": "Human Embryology",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "PHL 212",
+            "PHL 512"
+          ],
+          "title": "Foundations of Ethics",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "THE 115",
+            "THE 515"
+          ],
+          "title": "Christian Moral Principles",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "(18 credit hours):",
+          "subgroup": null,
+          "count": 18,
+          "unit": "credits",
+          "options": [
+            "HLS 201",
+            "HLS 202",
+            "HLS 301",
+            "BIO 110",
+            "BIO 203",
+            "PHL 212",
+            "PHL 512",
+            "THE 115",
+            "THE 515",
+            "POL 220"
+          ],
+          "fromHeading": true
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    }
+  ]
+}

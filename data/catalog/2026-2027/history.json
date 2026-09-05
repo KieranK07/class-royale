@@ -1,0 +1,1143 @@
+{
+  "department": "History",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "History, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/history/history-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 208"
+          ],
+          "title": "History of the United States II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 290"
+          ],
+          "title": "Historical Methods",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "200-400 level history electives",
+          "credits": 18,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "History of Civilization I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "History of Civilization II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "History of the United States I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 207"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "History of the United States II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 208"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Historical Methods",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 290"
+          ]
+        },
+        {
+          "id": "grp-5",
+          "label": "Coordinating Seminar",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 435"
+          ]
+        },
+        {
+          "id": "grp-6",
+          "label": "200-400 level history electives",
+          "subgroup": null,
+          "count": 18,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 18
+        },
+        {
+          "id": "grp-7",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "History Minor",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/history/history-minor",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [
+            "HST 208"
+          ],
+          "title": "History of the United States II",
+          "credits": 3,
+          "subLabel": null
+        },
+        {
+          "codes": [],
+          "title": "Other history courses",
+          "credits": 6,
+          "subLabel": null
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "History of Civilization I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "History of Civilization II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "History of the United States I",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 207"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "History of the United States II",
+          "subgroup": null,
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 208"
+          ]
+        },
+        {
+          "id": "grp-4",
+          "label": "Other history courses",
+          "subgroup": null,
+          "count": 6,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 6
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Course Requirements",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": false
+    },
+    {
+      "name": "History with AYA Integrated Social Studies Licensure, Bachelor of Arts",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/history/history-with-aya-integrated-social-studies-licensure-bachelor-of-arts",
+      "kind": "tables",
+      "narrative": [],
+      "mentionedCodes": [],
+      "slots": [
+        {
+          "codes": [
+            "HST 105"
+          ],
+          "title": "History of Civilization I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 213"
+          ],
+          "title": "Pre-Field Seminar",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 218"
+          ],
+          "title": "Foundations of Education",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elementary Foreign Language OR Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 106"
+          ],
+          "title": "History of Civilization II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 290"
+          ],
+          "title": "Historical Methods",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 112"
+          ],
+          "title": "Introduction to Individuals with Disabilities",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "CSC 155"
+          ],
+          "title": "Computers and Instructional Technology I",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Elementary Foreign Language",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 207"
+          ],
+          "title": "History of the United States I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 109"
+          ],
+          "title": "Early Experience I",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "MTH 121"
+          ],
+          "title": "Mathematics for Early and Middle Grade Teachers I",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Natural Science Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 208"
+          ],
+          "title": "History of the United States II",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "PSY 301"
+          ],
+          "title": "Educational Psychology",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "History Elective",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Literature Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Intermediate Foreign Language Requirement",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 343"
+          ],
+          "title": "History of Ohio",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 209"
+          ],
+          "title": "Early Experience II",
+          "credits": 2,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "GEO 122"
+          ],
+          "title": "Introduction to Geography",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "POL 233"
+          ],
+          "title": "International Politics",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "History Elective",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 386"
+          ],
+          "title": "History of Islam to ca. AD 1200",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 390"
+          ],
+          "title": "History of the Far East",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 323"
+          ],
+          "title": "The Medieval World",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "OR",
+          "credits": null,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 324"
+          ],
+          "title": "Renaissance and Reformation",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 320"
+          ],
+          "title": "Content Area Reading",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Catholic Traditions in Fine Arts Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Theology Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [],
+          "title": "Economics Core",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "HST 329"
+          ],
+          "title": "Twentieth Century Europe",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "HST 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 348"
+          ],
+          "title": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 365"
+          ],
+          "title": "Teaching Integrated Social Studies",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "POL 220"
+          ],
+          "title": "American National Government",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [],
+          "title": "Philosophy Core",
+          "credits": 3,
+          "subLabel": "First Semester"
+        },
+        {
+          "codes": [
+            "EDU 405"
+          ],
+          "title": "Teaching Strategies",
+          "credits": 3,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 414"
+          ],
+          "title": "Adolescence and Young Adult Student Teaching",
+          "credits": 9,
+          "subLabel": "Second Semester"
+        },
+        {
+          "codes": [
+            "EDU 435"
+          ],
+          "title": "Coordinating Seminar",
+          "credits": 1,
+          "subLabel": "Second Semester"
+        }
+      ],
+      "requirements": [
+        {
+          "id": "grp-0",
+          "label": "History of Civilization I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 105"
+          ]
+        },
+        {
+          "id": "grp-1",
+          "label": "Pre-Field Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 213"
+          ]
+        },
+        {
+          "id": "grp-2",
+          "label": "Foundations of Education",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 218"
+          ]
+        },
+        {
+          "id": "grp-3",
+          "label": "Philosophy Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-4",
+          "label": "Natural Science Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-5",
+          "label": "Elementary Foreign Language OR Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-6",
+          "label": "History of Civilization II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 106"
+          ]
+        },
+        {
+          "id": "grp-7",
+          "label": "Historical Methods",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 290"
+          ]
+        },
+        {
+          "id": "grp-8",
+          "label": "Introduction to Individuals with Disabilities",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 112"
+          ]
+        },
+        {
+          "id": "grp-9",
+          "label": "Computers and Instructional Technology I",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "CSC 155"
+          ]
+        },
+        {
+          "id": "grp-10",
+          "label": "Literature Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-11",
+          "label": "Elementary Foreign Language",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-12",
+          "label": "History of the United States I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 207"
+          ]
+        },
+        {
+          "id": "grp-13",
+          "label": "Early Experience I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 109"
+          ]
+        },
+        {
+          "id": "grp-14",
+          "label": "Mathematics for Early and Middle Grade Teachers I",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "MTH 121"
+          ]
+        },
+        {
+          "id": "grp-15",
+          "label": "Natural Science Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-16",
+          "label": "Theology Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-17",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-18",
+          "label": "History of the United States II",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 208"
+          ]
+        },
+        {
+          "id": "grp-19",
+          "label": "Educational Psychology",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "PSY 301"
+          ]
+        },
+        {
+          "id": "grp-20",
+          "label": "History Elective",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-21",
+          "label": "Literature Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-22",
+          "label": "Philosophy Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-23",
+          "label": "Intermediate Foreign Language Requirement",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-24",
+          "label": "History of Ohio",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 343"
+          ]
+        },
+        {
+          "id": "grp-25",
+          "label": "Early Experience II",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 209"
+          ]
+        },
+        {
+          "id": "grp-26",
+          "label": "Introduction to Geography",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "GEO 122"
+          ]
+        },
+        {
+          "id": "grp-27",
+          "label": "International Politics",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 233"
+          ]
+        },
+        {
+          "id": "grp-28",
+          "label": "History Elective",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-29",
+          "label": "Theology Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-30",
+          "label": "History of Islam to ca. AD 1200 OR History of the Far East",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 386",
+            "HST 390"
+          ]
+        },
+        {
+          "id": "grp-31",
+          "label": "The Medieval World OR Renaissance and Reformation",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 323",
+            "HST 324"
+          ]
+        },
+        {
+          "id": "grp-32",
+          "label": "Content Area Reading",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 320"
+          ]
+        },
+        {
+          "id": "grp-33",
+          "label": "Catholic Traditions in Fine Arts Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-34",
+          "label": "Theology Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-35",
+          "label": "Economics Core",
+          "subgroup": "Second Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-36",
+          "label": "Twentieth Century Europe",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 329"
+          ]
+        },
+        {
+          "id": "grp-37",
+          "label": "Coordinating Seminar",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "HST 435"
+          ]
+        },
+        {
+          "id": "grp-38",
+          "label": "Classroom Organization and Management for Students with Mild and Moderate Needs",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 348"
+          ]
+        },
+        {
+          "id": "grp-39",
+          "label": "Teaching Integrated Social Studies",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 365"
+          ]
+        },
+        {
+          "id": "grp-40",
+          "label": "American National Government",
+          "subgroup": "First Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "POL 220"
+          ]
+        },
+        {
+          "id": "grp-41",
+          "label": "Philosophy Core",
+          "subgroup": "First Semester",
+          "count": 3,
+          "unit": "credits",
+          "options": [],
+          "unresolved": true,
+          "creditsIfKnown": 3
+        },
+        {
+          "id": "grp-42",
+          "label": "Teaching Strategies",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 405"
+          ]
+        },
+        {
+          "id": "grp-43",
+          "label": "Adolescence and Young Adult Student Teaching",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 414"
+          ]
+        },
+        {
+          "id": "grp-44",
+          "label": "Coordinating Seminar",
+          "subgroup": "Second Semester",
+          "count": 1,
+          "unit": "courses",
+          "options": [
+            "EDU 435"
+          ]
+        }
+      ],
+      "notes": [
+        {
+          "section": null,
+          "text": "Program of Study",
+          "codes": []
+        },
+        {
+          "section": null,
+          "text": "Students seeking licensure to teach history and social studies on the high school level (AYA Grades 7-12, Ages 12-21) should follow the following course sequence. Students will be declared as history majors and EDU AYASS majors. Students need to work with BOTH majors to earn the bachelor of arts degree from Franciscan University.",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 333",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 334",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 335",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 340",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 355",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 366",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 370",
+          "codes": []
+        },
+        {
+          "section": "Junior Year",
+          "text": "HST 385",
+          "codes": []
+        }
+      ],
+      "uncertainHeadings": [],
+      "requirementsFromSchedule": true
+    }
+  ]
+}

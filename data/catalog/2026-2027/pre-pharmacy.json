@@ -1,0 +1,63 @@
+{
+  "department": "Pre-Pharmacy",
+  "catalogYear": "2026-2027",
+  "programs": [
+    {
+      "name": "DYouville PharmD Program",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/pre-pharmacy/dyouville-pharmd-program",
+      "kind": "informational",
+      "narrative": [
+        "Admission Requirements",
+        "Franciscan University students will receive provisional acceptance for admission to D'Youville under this joint degree program by the end of the sophomore year upon satisfaction of all the following requirements and subject to all of the following conditions:",
+        "attaining a minimum 3.0 cumulative grade point average in Franciscan University coursework with no grade lower than a C; no grade lower than a B in any of the pharmacy pre-requisite courses;",
+        "receiving a positive recommendation of the pre-health professional programs coordinator at Franciscan University;",
+        "submitting all joint degree application materials to D'Youville College by March 1st of the sophomore year;",
+        "satisfactory completion of an admission interview (as defined by the D'Youville College Admissions Committee) with D'Youville College in March/April of the sophomore year;",
+        "maintaining ethical and professional standards; and",
+        "demonstrating a strong understanding of the profession.",
+        "All pre-professional courses must be taken for a letter grade. Pass/fail, online, distance learning, CLEP, and foreign courses are not accepted.",
+        "AP credit is not accepted for science pre-requisites unless additional upper-level coursework is approved for substitution by the program coordinators at both colleges.",
+        "maintaining standards detailed in the section above;",
+        "earning a composite Pharmacy College Admissions Test (PCAT) score in the 65th percentile. The PCAT must be completed by October of the junior year;",
+        "submitting the PHARMCAS designating the D'Youville College School of Pharmacy Early Decision option, including a HSARC letter, by the Early Decision deadline announced by PHARMCAS in fall of the junior year; and",
+        "completing all other necessary matriculation requirements for entering D'Youville College students."
+      ],
+      "mentionedCodes": [],
+      "slots": [],
+      "requirements": []
+    },
+    {
+      "name": "Duquesne PharmD Program",
+      "sourceUrl": "https://franciscan.smartcatalogiq.com/en/2026-2027/academic-catalog-2026-2027/undergraduate-academic-programs/pre-pharmacy/duquesne-pharmd-program",
+      "kind": "informational",
+      "narrative": [
+        "Professional Doctorate Pathway - PharmD",
+        "This cooperative program between Franciscan University of Steubenville and Duquesne University is a six-year doctoral program leading to the Doctor of Pharmacy (PharmD) degree. The Pre-Pharmacy Early-Entry program at Franciscan University allows academically qualified students to attend Francisican University for two years of pre-pharmacy course work before transferring to the Duquesne University Mylan School of Pharmacy for the \"professional phase\" of their studies. Students must be accepted into the Franciscan University Early-Entry program as freshmen and must complete the first two years of their undergraduate work at Franciscan University. Because of the Franciscan University special affiliation with Duquesne University, students who successfully complete the two-year program at Franciscan University are given preferential consideration for admission to the professional phase of the Doctor of Pharmacy program at Duquesne University. If not accepted, students may elect to complete an undergraduate degree at Franciscan University in biology or chemistry over the course of one or two more years of study.",
+        "Bachelor Degree Pathway - Baccalaureate/PharmD",
+        "Franciscan students may opt to complete a third year at Franciscan University prior to matriculating into Duquesne University Mylan School of Pharmacy. Students successfully completing their third year at Franciscan as prescribed and a successful first year at Duquesne University Mylan School of Pharmacy will be awarded a B.S. degree in chemistry or biology from Franciscan University. The student will be able to participate in commencement at Franciscan, graduating with their peers. Note that acceptance of a degree from Franciscan University prior to entering the fourth professional year of the program at Duquesne University will change such students' status to that of a 'graduate' which may affect eligibility for federal and state financial aid.",
+        "Admission Requirements into Franciscan University's Pre-Pharmacy Early-Entry Program",
+        "Candidates for admission to the pre-Pharmacy Early-Entry Program are required to:",
+        "an SAT total score of 1050 or higher on a testing date prior to or in the month of February prior to matriculation to Franciscan University, or",
+        "an SAT total score of 1130 or higher on a testing date in the month of March prior to matriculation at Franciscan University or thereafter, or",
+        "a total score of 24 or higher on the Math and Critical Reading Sections of the ACT, and",
+        "have earned a high school grade point average (GPA) of 3.00 or higher on a 4.00 scale;",
+        "demonstrate evidence of leadership potential, community service, and involvement in co-curricular activities; and provide one letter of recommendation from either a high school teacher or guidance counselor.",
+        "Admission Requirements into Duquesne University Mylan School of Pharmacy",
+        "Candidates for admission to Duquesne University Mylan School of Pharmacy are required to:",
+        "have completed the three-year undergraduate pre-pharmacy curriculum at Franciscan University including core curriculum requirements;",
+        "have earned a minimum grade of \"C\" in all Franciscan University undergraduate courses;",
+        "have maintained a minimum overall GPA of 2.50 or better in all Franciscan University undergraduate courses;",
+        "participate in an interview process with the Duquesne University Mylan School of Pharmacy faculty;",
+        "submit a letter of recommendation from the Franciscan University pre-pharmacy selection committee;",
+        "provide evidence of leadership potential and commitment to the pharmacy profession.",
+        "Preference will be granted to candidates who meet the following criteria:",
+        "achieve a composite PCAT (Pharmacy College Admission Test) score of 375 or better;",
+        "achieve a GPA of 3.00 or higher for all science and math courses taken at Franciscan University; and/or",
+        "achieve a cumulative grade point average of 3.00 or higher in the pre-pharmacy early-entry program."
+      ],
+      "mentionedCodes": [],
+      "slots": [],
+      "requirements": []
+    }
+  ]
+}

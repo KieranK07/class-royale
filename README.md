@@ -5,6 +5,8 @@ you've taken, what your program still needs, which of those you're actually
 eligible to register for right now, and which minor you're closest to
 finishing by accident.
 
+![Degree audit view with graduation progress and classes taken, loaded from synthetic fixture data](docs/img/audit-view.png)
+
 ## Why it exists
 
 Franciscan's planner will tell you a course exists. It won't tell you whether

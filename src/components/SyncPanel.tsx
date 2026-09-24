@@ -36,10 +36,14 @@ export function SyncPanel({
   onLoad,
   hasTranscript,
   onClear,
+  isSample,
+  onSample,
 }: {
   onLoad: (data: TranscriptData) => void;
   hasTranscript: boolean;
   onClear: () => void;
+  isSample: boolean;
+  onSample: () => void;
 }) {
   const [hasExtension, setHasExtension] = useState<boolean | null>(null);
   const [busy, setBusy] = useState(false);
@@ -88,6 +92,20 @@ export function SyncPanel({
       result.reason === "timeout"
         ? "The extension didn't respond. Try reloading this page."
         : `Couldn't reach Franciscan (${result.message ?? result.reason}).`
+    );
+  }
+
+  // ---- sample loaded ----
+  if (hasTranscript && isSample) {
+    return (
+      <div className="flex flex-wrap items-center gap-3 text-sm">
+        <span className="text-black/55 dark:text-white/55">
+          Showing a sample transcript (synthetic data).
+        </span>
+        <button onClick={onClear} className="text-emerald-700 hover:underline dark:text-emerald-400">
+          Exit sample
+        </button>
+      </div>
     );
   }
 
@@ -141,6 +159,7 @@ export function SyncPanel({
           >
             {busy ? "Syncing…" : "Sync my transcript"}
           </button>
+          <SampleButton onSample={onSample} />
           <button
             onClick={() => uninstallExtension()}
             className="text-xs text-black/40 hover:underline dark:text-white/40"
@@ -160,7 +179,8 @@ export function SyncPanel({
       <p className="mt-1 text-sm text-black/60 dark:text-white/60">
         Everything above works without this. To fill in what <em>you&apos;ve</em> taken,
         Class Royale needs your transcript — which lives behind your Franciscan login,
-        where a website can&apos;t reach it. Two ways round that:
+        where a website can&apos;t reach it. Two ways round that, or{" "}
+        <SampleButton onSample={onSample} lower />.
       </p>
 
       <div className="mt-4 grid gap-4 sm:grid-cols-2">
@@ -239,6 +259,17 @@ export function SyncPanel({
         </p>
       )}
     </div>
+  );
+}
+
+function SampleButton({ onSample, lower = false }: { onSample: () => void; lower?: boolean }) {
+  return (
+    <button
+      onClick={onSample}
+      className="text-emerald-700 underline underline-offset-2 hover:text-emerald-800 dark:text-emerald-400"
+    >
+      {lower ? "try" : "Try"} a sample transcript
+    </button>
   );
 }
 

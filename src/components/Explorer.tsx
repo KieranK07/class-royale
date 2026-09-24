@@ -9,7 +9,7 @@ import type {
   RequirementGroup,
   StudentRecord,
 } from "@/lib/types";
-import type { TranscriptData } from "@/lib/transcript";
+import { parseTranscript, type TranscriptData } from "@/lib/transcript";
 import { computeProgress, allocateCourses } from "@/lib/progress";
 import { rankByFreeness, flattenGroups } from "@/lib/overlap";
 import { nextSteps, type Candidate } from "@/lib/planner";
@@ -30,6 +30,8 @@ import { SyncPanel } from "./SyncPanel";
 const STORAGE_KEY = "class-royale:transcript";
 const MAJOR_KEY = "class-royale:major";
 const MINORS_KEY = "class-royale:minors";
+/** The sample transcript is a CS student's; show it against that major. */
+const SAMPLE_MAJOR = "Computer Science, Bachelor of Science";
 
 function Card({ children, className = "" }: { children: React.ReactNode; className?: string }) {
   return (
@@ -263,8 +265,14 @@ export function Explorer({
   const [majorId, setMajorId] = useState<string>(() => readStored(MAJOR_KEY, "", false));
   const [minorIds, setMinorIds] = useState<string[]>(() => readStored(MINORS_KEY, []));
 
+  // The sample transcript is shown but never saved, so a reload or "Exit
+  // sample" leaves the browser exactly as it was.
+  const [isSample, setIsSample] = useState(false);
+  const [sampleError, setSampleError] = useState<string | null>(null);
+
   function saveTranscript(data: TranscriptData) {
     setTranscript(data);
+    setIsSample(false);
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
     } catch {}
@@ -286,10 +294,35 @@ export function Explorer({
   }
 
   function clearAll() {
+    if (isSample) {
+      // Put back whatever was there before the sample, if anything.
+      setIsSample(false);
+      setTranscript(readStored(STORAGE_KEY, null));
+      setMajorId(readStored(MAJOR_KEY, "", false));
+      return;
+    }
     setTranscript(null);
     try {
       localStorage.removeItem(STORAGE_KEY);
     } catch {}
+  }
+
+  async function loadSample() {
+    setSampleError(null);
+    try {
+      const res = await fetch("sample-transcript");
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const doc = new DOMParser().parseFromString(await res.text(), "text/html");
+      setTranscript(parseTranscript(doc));
+      setIsSample(true);
+      if (!majorId) {
+        const cs = programs.find((p) => p.name === SAMPLE_MAJOR);
+        if (cs) setMajorId(cs.id); // shown, not saved, like the transcript
+      }
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    } catch (e) {
+      setSampleError(`Couldn't load the sample (${e instanceof Error ? e.message : e}).`);
+    }
   }
 
   const catalog = useMemo(() => new Map(courses.map((c) => [c.code, c])), [courses]);
@@ -520,7 +553,23 @@ export function Explorer({
           {!personalized && (
             <p className="mt-2 text-xs text-black/45 dark:text-white/45">
               No login needed — this is the public catalog. Add your transcript below to see
-              what you&apos;ve already knocked out.
+              what you&apos;ve already knocked out, or{" "}
+              <button
+                onClick={loadSample}
+                className="text-emerald-700 underline underline-offset-2 hover:text-emerald-800 dark:text-emerald-400"
+              >
+                try a sample transcript
+              </button>
+              .
+            </p>
+          )}
+          {sampleError && <p className="mt-2 text-xs text-amber-700">{sampleError}</p>}
+          {isSample && (
+            <p className="mt-2 text-xs text-black/45 dark:text-white/45">
+              Showing a sample transcript with synthetic data. Nothing is saved.{" "}
+              <button onClick={clearAll} className="text-emerald-700 hover:underline dark:text-emerald-400">
+                Exit sample
+              </button>
             </p>
           )}
 
@@ -793,7 +842,13 @@ export function Explorer({
           personalized={personalized}
         />
 
-        <SyncPanel onLoad={saveTranscript} hasTranscript={personalized} onClear={clearAll} />
+        <SyncPanel
+          onLoad={saveTranscript}
+          hasTranscript={personalized}
+          onClear={clearAll}
+          isSample={isSample}
+          onSample={loadSample}
+        />
 
         {personalized && transcript && transcript.warnings.length > 0 && (
           <Card className="border-amber-300/60 bg-amber-50/70 dark:border-amber-500/30 dark:bg-amber-950/20">

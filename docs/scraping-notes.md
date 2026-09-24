@@ -474,7 +474,7 @@ means the parser takes a DOM.
 
 1. **The course cell carries section and delivery-mode suffixes.**
    `CSC 145 A`, `ECO 201 HY B` (hybrid), `ECO 212 OL A` (online),
-   `CHM 116 M L`, `SFE 240 NA`. Transfer rows have no suffix at all
+   `PHY 112 M L`, `SFE 364 NA`. Transfer rows have no suffix at all
    (`CSC 141`). Everything after the three-digit number must come off before
    matching against catalog codes, or nothing matches anything.
 

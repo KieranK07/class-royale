@@ -67,7 +67,7 @@ const TOTALS_ROW = /Totals:\s*$/i;
 /**
  * "CSC 145 A" -> { code: "CSC 145", section: "A" }
  * "ECO 201 HY B" -> { code: "ECO 201", section: "HY B" }  (HY = hybrid)
- * "CHM 116 M L" -> { code: "CHM 116", section: "M L" }
+ * "PHY 112 M L" -> { code: "PHY 112", section: "M L" }
  * "CSC 141"     -> { code: "CSC 141", section: null }     (transfer credit)
  *
  * Everything after the three-digit number is section/delivery-mode noise
@@ -225,7 +225,7 @@ export function parseTranscript(doc: Document): TranscriptData {
 /**
  * The courses that should count toward requirements: everything completed or
  * transferred in, but NOT what's currently being taken. In-progress courses
- * matter for planning ("don't tell me to take CSC 261, I'm in it") but
+ * matter for planning ("don't tell me to take CSC 310, I'm in it") but
  * counting them as done would overstate progress.
  */
 export function earnedCourses(data: TranscriptData): CompletedCourse[] {

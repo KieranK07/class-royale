@@ -18,7 +18,7 @@ const check = (name, actual, expected) => {
 console.log("--- course cell parsing ---");
 check("plain section", parseCourseCell("CSC 145 A"), { code: "CSC 145", section: "A" });
 check("hybrid mode", parseCourseCell("ECO 201 HY B"), { code: "ECO 201", section: "HY B" });
-check("multi-token section", parseCourseCell("CHM 116 M L"), { code: "CHM 116", section: "M L" });
+check("multi-token section", parseCourseCell("PHY 112 M L"), { code: "PHY 112", section: "M L" });
 check("no section (transfer)", parseCourseCell("CSC 141"), { code: "CSC 141", section: null });
 check("garbage", parseCourseCell("Term Totals:"), null);
 
@@ -34,7 +34,7 @@ check("no totals rows leaked", data.courses.filter(c => /Totals/.test(c.code)).l
 check("earned excludes WIP", earnedCourses(data).length, 9);
 check("in-progress count", inProgressCourses(data).length, 3);
 check("transfer flagged", data.courses.filter(c => c.isTransfer).map(c => c.code), ["CSC 141", "MTH 160"]);
-check("codes normalized", data.courses.slice(0, 3).map(c => c.code), ["CSC 261", "CHM 116", "SFE 240"]);
+check("codes normalized", data.courses.slice(0, 3).map(c => c.code), ["CSC 310", "PHY 112", "SFE 364"]);
 check("section preserved", data.courses[1].section, "M L");
 check("credits earned read", data.courses.find(c => c.code === "MTH 172").creditsEarned, 4);
 check("W grade earns nothing", data.courses.find(c => c.code === "HST 105").creditsEarned, 0);

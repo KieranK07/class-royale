@@ -455,11 +455,9 @@ export function applyElectiveRules(
 /**
  * Replaces a prose-only program's empty requirements with the structured ones
  * extracted from its catalog text. Only programs whose extraction survived
- * verbatim-evidence validation reach here (see
- * scripts/integrate-agent-findings.mts).
+ * verbatim-evidence validation reach here (data/derived/_dropped.json lists
+ * what didn't).
  */
-export function applyProseProgramss(): void {}
-
 export function applyProsePrograms(
   programs: Program[],
   extracted: {

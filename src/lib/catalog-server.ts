@@ -128,7 +128,7 @@ export async function loadCatalog(): Promise<CatalogBundle> {
 
   // Derived data: requirements recovered from catalog prose that no table
   // states. Everything here was validated against the source text before it
-  // was written (scripts/integrate-agent-findings.mts) — anything whose
+  // was written — anything whose
   // evidence quote wasn't verbatim, or whose course codes weren't on the
   // page, was dropped rather than kept with a caveat.
   const derivedDir = path.join(process.cwd(), "data", "derived");

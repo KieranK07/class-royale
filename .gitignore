@@ -65,3 +65,7 @@ _to_delete/
 # mine to redistribute. `npm run parse:guides` reads whatever .xlsx you drop in
 # here; its output, data/derived/program-guides.json, is committed.
 data/program-guides/*.xlsx
+
+# Agent boilerplate that `next dev` writes into the project root.
+AGENTS.md
+CLAUDE.md

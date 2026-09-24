@@ -5,7 +5,10 @@ you've taken, what your program still needs, which of those you're actually
 eligible to register for right now, and which minor you're closest to
 finishing by accident.
 
-![Degree audit view with graduation progress and classes taken, loaded from synthetic fixture data](docs/img/audit-view.png)
+![Degree audit for a sample Computer Science student: credits, GPA and progress toward the major](docs/img/audit-view.png)
+
+No Franciscan login? Run it locally and click **try a sample transcript** to
+see the full audit on synthetic data.
 
 ## Why it exists
 
@@ -15,13 +18,12 @@ or what it would count toward if you took it. Answering that means having the
 catalog, the registration search and your own transcript open at once and
 doing the join by hand — every advising meeting, every registration window.
 
-I wrote a first version of this in March: two Python scrapers and a static
-planner page. It worked, but to read the registration API it had to log in as
-me and cache the session cookie in a dotfile next to the script. That's
-tolerable for something that only ever runs on my laptop and completely wrong
-for anything anyone else would install. So this version starts from the
-opposite constraint — no server of mine ever holds a student's session — and
-most of the architecture below is a consequence of that one rule.
+The first version, from March, was two Python scrapers and a static planner
+page. To read the registration API it had to log in as its author and cache
+the session cookie in a dotfile next to the script. Tolerable on one laptop,
+wrong for anything anyone else would install. This version starts from the
+opposite constraint (no server ever holds a student's session) and most of the
+architecture below follows from that one rule.
 
 ## How it works
 
@@ -83,8 +85,10 @@ npm install
 npm run dev          # http://localhost:3000
 ```
 
-The scraped catalog is committed, so it works immediately, logged out. To see
-your own progress, either paste your transcript into the sync panel or load
+The scraped catalog is committed, so it works immediately, logged out. The
+**try a sample transcript** link loads the synthetic transcript from
+`src/lib/__fixtures__/transcript.html` (nothing is saved). To see your own
+progress, either paste your transcript into the sync panel or load
 `extension/` unpacked (`chrome://extensions` → Developer mode → Load unpacked)
 and click Sync — that path reads the pages of whoever is logged into the
 browser, so it only ever shows you your own record. See `extension/README.md`.
@@ -140,9 +144,9 @@ audit. So wherever the two trade off, this drops data rather than guesses.
 ## Status and known gaps
 
 Working end to end. The catalog side stands on its own; the login-gated side
-has been confirmed against exactly one real session (mine), in Opera GX. The
-extension is plain MV3 and should behave the same in Chrome and Edge, but I
-haven't checked.
+has been confirmed against exactly one real session, in Opera GX. The
+extension is plain MV3 and should behave the same in Chrome and Edge, but that
+is untested.
 
 - **135 of 2,677 requirement rows (5%) have no course list**, because the
   catalog never states one anywhere. They render as unresolved rather than
@@ -162,6 +166,6 @@ haven't checked.
 - The extension's content script matches `http://localhost:3000/*`. Deploying
   Class Royale anywhere else means adding that origin to `manifest.json`.
 - The department `.xlsx` advising handouts aren't in the repo — they're
-  Franciscan's documents, not mine to redistribute. `npm run parse:guides`
+  Franciscan's documents and not redistributable here. `npm run parse:guides`
   reads whatever you drop into `data/program-guides/`; its output is committed.
 - No CI. The tests are scripts you run.
